@@ -1,0 +1,321 @@
+Page 1 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.
+INDUSTRY OVERVIEW
+Competitor Notes a Bigger Impact From AI in the Food Delivery Space
+DATE PUBLISHED
+01 Apr 2025INTERVIEW DATE
+20 Mar 2025EXPERT PERSPECTIVE
+CompetitorANALYST PERSPECTIVE
+Investor-Led (Buy-Side)PRIMARY COMPANIES
+UBER
+OTHER COMPANIES
+TKWY.NL LYFT
+Transcript Highlights
+The expert thinks AI is beginning to have a big impact on the food delivery sector.
+The expert believes companies that experiment more and have better data science will start seeing better results.
+In the expert's opinion, European companies are lagging in data science in food delivery.
+Table of Contents
+Key innovations in the food delivery space.
+Pace of innovation in food delivery.
+Main beneﬁts of AI for food delivery.
+Companies that don’t have experimentation culture.
+Rating of Uber as a company.
+Beneﬁts of Uber having delivery and mobility.
+Uber versus Lyft.
+Expert Bio
+Expert is a Senior Data Scientist at Wolt, and is responsible for leading the workforce management work stream. Expert reports to a
+Data Science Manager, who is ~2 levels from the C-suite.
+Employment History
+Wolt (Private)
+Senior Data Scientist • January 2025 - Present • 3 mosRelevant Role
+Just Eat Takeaway.com (Public)
+Data Product Lead • June 2020 - December 2024 • 4 yrs, 6 mos
+Omio (Private)
+Data Scientist - Revenue and Monetisation • January 2019 - December 2019 • 11 mos
+PwC (Private)
+Management Consultant • August 2016 - October 2018 • 2 yrs, 2 mos
+Interview Transcript
+Analyst 00:00:00
+First, this call will be recorded so that it can be transcribed. Second, you understand the deﬁnition of material non-public
+information and agree not to disclose any such information or any other conﬁdential information during this interview. Third,
+you conﬁrm that you do not have a non-disclosure agreement or any other type of agreement or arrangement that would
+prevent you from speaking about any of the companies that may be discussed during this call. If you can't answer any question I
+ask, please feel free to let me know and we'll move on. Finally, you agree not to discuss details of your current employer. Do you
+agree with this?
+Page 2 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:00:35
+Yes.
+Analyst 00:00:38
+Great. If you could walk me through your background, that would be helpful.
+Expert 00:00:44
+Sure. I have eight years of professional experience in data science and analytics.
+Expert 00:00:53
+Right. Okay. Yeah. Basically, I worked as a data science consultant working with U.S.-based clients based out of India for the ﬁrst two
+and a half years of my career while I was at PwC. There, I worked with clients from across industries, and the main goal across most
+of the projects was to help improve the client, improve their operations through more data-driven solutions.
+Expert 00:01:37
+I wanted a product role, so I moved to Berlin for that. I started as a data scientist in what is now called Omio. It's a travel tech start-
+up. There, I was a part of the ops analytics again, and I was experimenting with doing A/B testing on booking fees and running
+experiments around that and help cover data-driven sales strategy for our commercial managers over there.
+Expert 00:02:17
+I was roughly there for a year, and then I switched to food delivery industry. I started at the JET, Just Eat Takeaway.
+Expert 00:02:30
+There, basically I was responsible for our forecasting and planning product, which is an internal product which is used by planners
+all across Europe to plan the cities with couriers who will then deliver the orders. My main responsibility was there to make sure
+that the end-to-end data pipelines work and the predictions that we make for the estimates of how many orders and then how we
+translate it into how many couriers we need is accurate and is optimal.
+Expert 00:03:07
+That is how I helped improve the operational eﬃciency of the business from preexisting setup where this entire process was
+outsourced and also not completely owned within the company, and there was a lack of accuracy reporting, etc. around it, and
+there was just no product. I was a part of the product team from the beginning over the course of four years where we built this
+out. Recently, I moved to Wolt, I'm helping in a similar role but the support operations, which is the staﬃng of all the support
+agents who answer customer service chats.
+Analyst 00:03:57
+Interesting. Very generally thinking about the food delivery space over the last few years, so maybe from 2021 to present or
+something along those lines, when you think of the progress that's been made on the product side or maybe more speciﬁcally,
+when you think of the key innovations for food delivery, what comes to mind? What are the key innovations?
+Expert 00:04:41
+Right. Okay. Key innovations, which are speciﬁcally visible to the consumer? In what sense? Anything.
+Analyst 00:04:56
+Yeah, so anything. To the extent that you view the food delivery companies as having made good progress over the last four
+years, what would you characterize as the key components of this progress?
+Expert 00:05:23
+Okay. Yeah. Can I take a minute to think about this? Of course, there are many things.
+Analyst 00:05:30
+Yeah.
+Expert 00:05:48
+I think there's several things that, but one of the major things that food delivery companies have gotten really better at is
+algorithmic sophistication, which ﬁve years ago wasn't as much. They have invested heavily in algorithms which help improve unit
+economics of the business. Speciﬁcally, it's the routing algorithms which help them pool orders.
+Expert 00:06:32
+When pooling works well, the unit economics improves materially. That, in turn, can make or break any food delivery company. For
+that comes huge volume as you grow bigger. You also have the network eﬀects. Along with the network eﬀect, you also very
+eﬃcient algorithms which will pool orders while still delivering on the customer promise at the same time.
+Page 3 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:07:11
+Getting that right is extremely important. That's why a critical mass of orders is needed for any company to be really successful in a
+given city. If you fall, say, below a certain threshold of market share, then you start to struggle with the unit economics as well. I
+think that is where these companies have made a lot of improvement by leveraging the data that they have. I think that is one.
+Expert 00:07:53
+Also, in terms of operations and planning, again, all food delivery companies are doing a very good job of more data-driven
+operations than of only keeping tech and ops separated. That's not really the case anymore now. For example, just think about
+selection of restaurants. There are very sophisticated models behind picking of restaurants which they choose to bring onto the
+platform which will give them more users, more consumers. They have very sharp sense of what data to ﬁnd to get the best
+restaurant on the platform and not just anything that they ﬁnd.
+Expert 00:09:03
+I think this was, say, seven, eight years ago or ﬁve years ago, this part of the business was not so data-driven, but I've seen that
+change over time. Those are a couple of things from my point of view. I think data has transformed all parts of the value chain, but
+those are a couple of examples which are key, in my opinion.
+Analyst 00:09:45
+Why wasn't this implemented earlier?
+Expert 00:09:50
+Right. That's a great question. I think this kind of data which is now available and the tooling which is there available which has
+evolved as the data science landscape has matured over the past decade or so, there is this incredible amount of new tooling which
+has been developed and also the databases have become faster. There's just more computing which is there to use. The algorithms
+have become more sophisticated. There's just more you can do per person.
+Expert 00:10:43
+The productivity has improved because of all this tooling, all the data. That has really increased the opportunities of what you can
+do. Maybe the data was probably always there, but the tooling was not superb to go as fast as you can go now. It is increasing. I
+think that, I would say, is one of the fundamental factors, the compute and the processing power and the tooling. All those things, I
+think, have tremendously supercharged the data-drivenness of the companies.
+Analyst 00:11:29
+Interesting. When you think of then the pace of innovation now versus where it was two years ago, do you view the pace as
+slower, the same, or faster than it was before?
+Expert 00:11:52
+Right. Overall, in terms of innovation, I think the diminishing returns after a certain point because there's only so much you can
+improve the algorithms and your plan. I would say that would not continue to be a key diﬀerentiator going forward, but in terms of
+how quickly you react to situations, how quickly you build processes which are smarter, more data-driven, I think that will continue
+to be a diﬀerentiator.
+Expert 00:12:54
+In terms of just algorithms alone, in terms of the routing or planning, that, I think all the companies are close. Maybe the next
+diﬀerentiator will be more on the AI front. How are you leveraging AI to improve, go faster? Can you get productivity gains from all
+your teams? Can you ship code faster? Can you ship iterate faster? Can you automate your customer service through chatbots and
+AI?
+Expert 00:13:35
+If not 100%, can you do, say, 40%, 80%, or what percentage over the next few years? In that speciﬁc AI-related niche, I think it is
+really picking up now, but the old things where the network optimization, pooling, etc. now, all companies, it's close to each other,
+but now, the big delta is who will go faster and pick up the gains from this AI wave that we are seeing now?
+Analyst 00:14:20
+How far along is the industry in terms of adopting these AI tools?
+Expert 00:14:27
+Sorry. I didn't get the ﬁrst part of the question.
+Analyst 00:14:33
+The companies within the food delivery space, how far along are they in terms of adopting these AI tools?
+Expert 00:14:51
+Right. That's a great question. Honestly, this wave has started in the last couple of years, 2023, 2024 since ChatGPT became
+mainstream. Especially in the last one year, say, in 2024, the models have improved so much that they could be ready for production
+Page 4 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.use cases in certain scenarios. Before that, they were deﬁnitely not at the level where you could use them in production setting for
+critical use cases, but now, it seems that they are close to that.
+Expert 00:15:51
+All of this innovation in this space is fairly recent in the last, say, six to eight months to one year. Probably, I can't tell you how far
+exactly each company where they are. It's hard to say for me, but what I have seen, I think certain companies are further already.
+They who have a great engineering culture are already innovating.
+Expert 00:16:35
+A few of them are lagging behind in terms of how fast are they innovating in the AI space versus others. You could see from the
+consumer point of view, think about who is giving you the features to, say, a customer service which is fast and reliable. Maybe from
+that sense, you can understand that if you have support on these apps, or maybe whichever company comes up ﬁrst, say, you're
+describing them what kind of meal you are in the mood for and then they collect restaurant nearby you which are highly rated,
+loved by your friends, and all of that done through natural language.
+Expert 00:17:46
+There are companies which are working on this. A couple of the companies, I think, will reach there ﬁrst, and that would really
+change the market sentiment for consumers, and consumers will stick to these innovative companies more. In the next couple of
+year, I think we'd see winners and losers in this space.
+Analyst 00:18:15
+Interesting. Can you elaborate a little bit more on that point? The AI capabilities, the impact could be felt on the consumer side in
+terms of consumer experience and a better user experience. On the other hand, they could be used for driving greater
+eﬃciencies. Can you elaborate a little bit more on maybe your last point on where you see the main beneﬁts of AI playing out for
+the food delivery companies?
+Expert 00:19:06
+Right. Yeah. Let's start. I think it will aﬀect all parts of the business. The sky is the limit, but let's talk about things which are the low-
+hanging fruits for now because we are at the early stage of this innovation. A prime use case is customer support because these
+companies actually pay a lot of money to humans who are talking, chatting with customers, solving their queries in real time
+because it's a real-time support because a customer is literally hungry and waiting for their food. If it's late, they just trying to get
+back to them next day, like in many other businesses.
+Expert 00:20:07
+You have to spend a lot of money staﬃng people who will take care of customer support. That is where, for certain kinds of
+customer complaints, AI can be extremely useful to automate those queries without a human intervention being needed. For
+example, if a delivery is signiﬁcantly late, then say a promise time. Say they promised you, the consumer, 30 minutes, and it reaches
+you in 50 minutes. They also know that because they are tracking the delivery.
+Expert 00:21:05
+The customer, in most scenarios, if they know that the customer support is available, they will reach out and you will have to most
+likely refund them the order amount because of delay. Those cases, for example, could be largely automated. If it's, say, 10% or 15%
+of all cases, that's a signiﬁcant amount of time you're saving.
+Analyst 00:21:35
+Interesting.
+Expert 00:21:37
+This support workforce could be used elsewhere in more so diﬃcult-to-handle cases. You basically can increase the return on
+investment of your money because you can deploy that capital elsewhere, which you're spending on solving more trivial use cases.
+That is just one example, but there are many such kinds of [inaudible] if you go into the detail of how you could save a lot of cost
+and at the same time give the same or maybe even better customer experience because imagine getting the refund automatically
+without you asking for it. That is also a better customer experience, and those consumers are more likely to be retained.
+Expert 00:22:30
+There are many other kinds of use cases one could think of in this space, but of course, that will depend on the data. These
+companies have the data to really understand what the complaints are. They're spending so much money. That is one, but other
+use case one could think of is the rate at which you can experiment is even faster than before because earlier, literally somebody
+had to sit and analyze and experiment for a week. It would take a month to get results.
+Expert 00:23:14
+Now, there are platforms which end to end do the conﬁguration to the analysis on their own. You don't even need an analyst for
+many kinds of experiments now because all those metrics are precalculated.
+Page 5 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:23:37
+A product manager can just run the experiment on their own, and they don't need to know so much about statistics. Just the time
+for which you're running the experiment is all that will be needed, and the experiment runs will have the results for even complex
+experiment designs.
+Expert 00:23:55
+Of course, somebody would be needed to design the experiment, and there are data scientists to do that, but the rate of
+experimentation, as it goes up, you will have more innovation opportunities fast. That will diﬀerentiate companies because on the
+basis of experimentation culture, whoever has a better experimentation culture will just obliterate somebody who has no
+experimentation culture, and there are companies which do not have experimentation culture in this industry who are doing
+reasonably ﬁne right now, but I think that won't last for too long.
+Analyst 00:24:38
+To the extent that you can name the companies, then what would be an example of a company that doesn't have an
+experimentation culture?
+Expert 00:24:48
+I would say that they don't have data-driven culture, but there is a diﬀerence between being able to innovate fast and taking your
+time. In general, without naming names, what I can say is that from what I have seen, generally, European companies are not so
+fast with their experiments compared to, say, American companies which have a stronger experimentation culture.
+Expert 00:25:29
+They are just faster with experiments and innovation. Because they have a fast experimentation culture, they are able to innovate
+more and better. That is one of the key areas where American and European companies still diﬀer. European companies still lag a lot
+in really understanding the power of experimentation culture.
+Analyst 00:25:59
+In talking to other people, there's a generally regard Uber highly both in terms of a general organization but also the IT and the
+data science capabilities. To what extent do you agree or disagree with this?
+Expert 00:26:26
+Again, sorry I missed the ﬁrst part. Didn't understand the ﬁrst part of your question.
+Analyst 00:26:35
+The shorter question would just be to regard Uber. How do you regard Uber from a data science perspective and maybe from an
+overall organizational perspective?
+Expert 00:26:51
+Right. Probably, I can answer more from the data science perspective better. Having been a data scientist for so many years, I know
+that Uber has, because it's an older company, generally started, I think, pre-2010 or around 2010 if I'm not wrong. They solved a
+challenging problem of this consumer marketplace of connecting riders taxis very early on when data science was just picking up in
+early 2010s.
+Expert 00:27:40
+That has allowed them and given them a lot of time and to build a data-driven culture. They have a lot of learnings which they also
+bring to whatever they do. I would rate them really, really highly, maybe just under the big tech companies, say, right under after
+them in terms of innovation and the scale at which they operate. Since they have so much data, they have a very strong
+experimentation culture, for sure. They also have very strong algorithmic innovation teams. Both of these parts really diﬀerentiate
+them in the marketplace in whatever they do, so I would regard them really highly.
+Expert 00:28:36
+In terms of an organization, and that shows, if you have a data-driven culture, then it also shows that as an organization, you are
+very ambitious, and you could enter new businesses with that experimentation mindset and capture a huge market share. You can
+disrupt markets through your culture, basically, and that is what Uber can do.
+Analyst 00:29:16
+To your earlier point about stacking orders and gaining eﬃciencies, Uber having food delivery and mobility under the same
+company, to what extent does that help?
+Expert 00:29:37
+Right. Obviously, it helps in distribution. They have a huge distribution which they can build on top of, which, say, other companies
+have to acquire. They spend a lot of cost getting the customers. That is no doubt a big advantage for Uber. However, I would say in
+Page 6 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.terms of the network eﬀects, their drivers who are driving cabs, at least I have not seen them also delivering orders. They don't
+dovetail into each other operationally so well.
+Expert 00:30:38
+In terms of product or in terms of the algorithms, a lot of that stack can be used across both food delivery and ride-hailing. In terms
+of really the operations, they are very diﬀerent. They are not getting any great network eﬀect out of that.
+Expert 00:31:07
+In that sense, they are a couple of two quite separate operations operationally. It does give them the advantage of using the same
+tech stack and same product similar marketing teams, but the global operations, deﬁnitely, that is where they could use it even
+more eﬀectively. I don't see that causing them to have a greater unit economics than other companies.
+Analyst 00:31:46
+Do you sense that there could be operational beneﬁts or greater network eﬀects in combining the operations, or is there some
+other factor that limits the combination?
+Expert 00:32:11
+Are there some other factors that...
+Analyst 00:32:15
+Limit the ability to combine food delivery and mobility to achieve these operational and network beneﬁts.
+Expert 00:32:29
+Right. Hard to say. I think in certain geographies, certain markets where probably delivering even food delivery orders through cars
+is the way to go is operationally more eﬃcient. That is where Uber can really get those network eﬀects. That is my hypothesis. I
+would check for that. That is where those operational eﬃciencies could resonate across the two businesses.
+Expert 00:33:14
+For example, in Europe, I don't see that happening. Europe is not great for cars. You don't have, if they can bike, advantage
+delivering using cars versus bike. In fact, bikes are usually faster. That makes also Uber's strategy not so ﬁt or tuned to European
+cities, I would say.I don't see Uber, that's in my opinion, doing too well in Europe versus, say, in American cities where the distances
+are larger, you're better oﬀ delivering everything in cars. The food orders as well as, of course right side car. Right.
+Expert 00:34:04
+That is where I think they can shine, but I don't think their strategy ﬁts the European market or even the Indian market so well. I
+don't think they're in India, anyway. They exited it. That is my opinion on that because I don't see that it's a big advantage.
+Operationally, I don't think they have a huge advantage.
+Analyst 00:34:40
+Interesting. Going back to the thought that had lingered was just how a bigger hack team is of better capabilities. I think
+speciﬁcally, from what I understand, Uber's data science teams is about four times larger then Lyft. Granted, Uber operates in
+more markets, but I think even on an adjusted basis, it's still much, much bigger than Lyft. When I see these numbers, again,
+coming from the outside, it sounds very diﬃcult for Lyft. Is it fair to say that then Lyft is operating at a considerable
+disadvantage, or is the size of the team not necessarily indicative of capability?
+Expert 00:36:03
+Right. Okay. Yeah. Maybe I cannot make a comparison with Lyft because I'm not so familiar with the ride industry. In the U.S., have
+used Lyft, have been in the U.S., but I'm not an expert. I don't want to comment on that, but probably, to your question about how
+is the size indicative of how strong they are, that is hard to say.
+Expert 00:36:58
+I would look at the growth rate of how the GOB or revenue is growing for Uber and how their team is scaling up. That should be in
+line because that size of the team only matters if it is helping you scale and reach greater heights. It could well be the case that they
+might be overhiring and then they realize, "Oh, my God. We are not really capturing the kind of market share for the size of the
+team we have built," and then you have to get rid of people. That happens probably more in America than anywhere else.
+Expert 00:37:58
+I would look at that number, the growth. Uber, is their market share really increasing, say, in the food delivery or the ride-hailing
+industry to justify a bigger data science team or not? In Europe in food delivery, yes, they are getting some market share from the
+European companies, but I would have expected them to grow faster given their expertise, but they are not growing as fast as some
+other players.
+Expert 00:38:54
+Their operational strategy, I don't think it is well-suited for Europe, as I said earlier. I think that is the key diﬀerentiator. If you want
+to be the market leader, you have to be the best on all fronts. I think they are much stronger on the data science experimentation
+Page 7 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.side and algorithm side and maybe even the product, but operationally, they're not. They're signiﬁcantly weaker than other
+companies.
+Analyst 00:39:28
+Can you elaborate a little bit more on that, so operationally weak in what sense?
+Expert 00:39:36
+Right, so operationally, let's take an example. Typically, in, say, mainland Europe, one of the biggest cities for using food delivery
+apps is Berlin. I know for a fact that the selection of restaurants on Uber Eats in Berlin, for example, is rather pale compared to
+some other apps because in general, in Europe, you need very, very good selection if you want to retain consumers because they go
+to speciﬁc restaurant, and they don't go to chains unlike maybe in America.
+Expert 00:40:33
+Of course, there is people's order from chains here too, but it is not the main thing that people do. They want the best restaurant in
+the neighborhood to be on the app. I think Uber has not been able to get the best restaurants in Berlin, which shows that they are
+not focused. They don't have a great selection strategy which is localized for the important cities.
+Expert 00:41:10
+It seems that they just want to win on their algorithmic prowess. Of course, it can take them through the marketing eﬀorts. Of
+course, they have a lot of money to pump to the marketing eﬀorts, but I think they probably can do a signiﬁcantly better job in
+selection and localizing their strategies to each market. That is why Europe is hard to crack for some American companies.

@@ -1,0 +1,484 @@
+Page 1 of 10
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.
+INDUSTRY OVERVIEW
+Competitor Sees Competitive Environment As Benign
+DATE PUBLISHED
+25 Feb 2025INTERVIEW DATE
+12 Feb 2025EXPERT PERSPECTIVE
+CompetitorANALYST PERSPECTIVE
+Investor-Led (Buy-Side)PRIMARY COMPANIES
+UBER
+OTHER COMPANIES
+DASH UBER EAT...WAYMO
+Transcript Highlights
+Thinks mobility companies still haven't reaped all of the eﬃciency gains.
+Characterizes competitive environment for mobility as benign.
+Thinks autonomous vehicles are positive for ride share companies.
+Table of Contents
+Post-pandemic shifts in U.S. mobility competition.
+Shift from growth to proﬁtability in mobility.
+Impact and risk of insurance in rideshare.
+Current development stage of rideshare eﬃciency gains.
+Competitive intensity trends for Uber in mobility.
+Uber’s organizational eﬀectiveness versus competitors.
+Competitive edge of Uber’s dual oﬀerings.
+Impact of autonomous vehicles on rideshare companies.
+Tesla's potential disruption in the mobility market.
+Primary concerns in the autonomous vehicle space.
+Expert Bio
+Expert is a Senior Director at Lyft, responsible for leading new rider and driver acquisition. Expert reports to a Unit Head, ~1 level
+from the C-suite.
+Employment History
+Lyft (Public)
+Senior Director, Growth • May 2023 - Present • 1 yr, 11 mosRelevant Role
+Lyft (Public)
+Director, Growth Marketing • August 2020 - May 2023 • 2 yrs, 9 mos
+Lyft (Public)
+Head of Acquisition • April 2018 - July 2020 • 2 yrs, 3 mos
+ClassPass (Private)
+Senior Manager- Paid Acquisition • October 2016 - April 2018 • 1 yr, 5 mos
+Interview Transcript
+Analyst 00:00:00
+First, this call will be recorded so that it can be transcribed. Second, you understand the deﬁnition of material non-public
+information and agree not to disclose any such information or any other conﬁdential information during this interview. Third,
+you conﬁrm that you do not have a non-disclosure agreement or any other type of agreement or arrangement that would
+prevent you from speaking about any of the companies that may be discussed during the call. If you can't answer any question I
+Page 2 of 10
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.ask, please feel free to let me know and we'll move on. Finally, you agree not to discuss details of your current employer. Do you
+agree with this?
+Expert 00:00:34
+Yes, agreed.
+Analyst 00:00:36
+Great. If you could walk me through your background, that would be really helpful.
+Expert 00:00:41
+Yeah, a little bit about my background, I've worked in performance marketing. Before that, I went to business school, but primarily,
+my most recent careers are at agency, a start-up, and at Lyft, all working in performance marketing, so I'm very familiar with user
+acquisition, very familiar with growth. I've done the gamut across clients as well as in-house at smaller companies and now at a very
+large rideshare.
+Analyst 00:01:16
+Awesome. At a fairly general level, post-pandemic, how would you characterize the evolution in the competitive landscape within
+mobility in the U.S.?
+Expert 00:01:38
+Yeah, at a super high level, I'd say, let me start a little bit, before the pandemic, it was just highly competitive on driver supply, highly
+competitive pricing. You get to the pandemic, where there's a shelter-in-place, and generally speaking, there was a lot of fear about
+rideshare and mobility because the vaccine wasn't out. People were afraid to get sick, which caused a lot of problems, I think, for a
+lot of the mobility companies.
+Expert 00:02:17
+It generally beneﬁted some other companies, and it actually, I think, was the beginning of the rise of two other companies in
+particular. I think DoorDash was a huge beneﬁciary of that time period and then Instacart. Both companies went public after this
+too.
+Expert 00:02:38
+Coming out of it, basically have reached a normalization again of pre-COVID levels in terms of our market balance. Each of the
+mobility companies are seeing a record number of rides, better driver supply, a little bit inﬂated pricing. Some of that has to do with
+regulation, and some of that has to do with inﬂationary pressures.
+Expert 00:03:09
+I'd say the user experience for customers is generally better now for people that use the rideshare companies than it was even pre-
+COVID. Like I said, I think there's better driver supply, there's lower ETAs, which are the time that you have to wait, and then there's
+more products. There's more products that companies are oﬀering in terms of loyalty solutions, points, and things like that.
+Analyst 00:03:36
+Interesting. At least from the outside, there's a general narrative that maybe in the period just pre-pandemic and just post-
+pandemic, as you highlighted, the mobility and especially the food delivery were very much in the growth phase. Since then,
+there has been a general shift from focusing on growth to focusing on proﬁtability. To what extent would you agree or disagree
+with that?
+Expert 00:04:16
+I think that's very accurate. Part of that has to do with the pandemic, like you had mentioned, because a lot of companies, not just
+these companies, went through signiﬁcant impacts to their business. Airbnb is another one that comes to my mind with signiﬁcant
+impacts to their business, which dramatically changed the structure of the companies.
+Expert 00:04:46
+What I mean about that is both from an organizational structure, all of the companies that we've talked about have undergone
+some kind of workforce reduction, somewhere upwards of, what, 10%-30%, depending on the company. Basically, all these
+companies are smaller than they have been in terms of number of people.
+Expert 00:05:09
+The orgs have also reorganized. I know at the rideshare company levels, they've organized a little bit diﬀerently than they did
+before, with some roles going away, some roles being created, and then a reemphasis on just eﬃciency. We talk about eﬃciency
+being, I think, eﬃciency of the people and the roles in the organization.
+Page 3 of 10
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:05:34
+Third, I'd say I think ﬁnancially, there was a signiﬁcant amount of cash burn just to sustain for that period of time when we didn't
+know how long it would take. We didn't know how long it would take to get rideshare back to normal. The cash burn during that
+time literally changed the philosophy of the businesses.
+Expert 00:05:54
+Like you had mentioned, high-growth mode before, but because of the pandemic, had to really focus on unit economics, eﬃciency
+of the marketplace, eﬃciency of stock-based compensation employees, the whole gamut, eﬃciency of tooling, eﬃciency of our
+algorithms. All of that has been a major, major focus for Uber.
+Expert 00:06:17
+That's all in the context. When you fast forward to today, a lot of that remnant of that time is still here. It's still there within the
+companies.
+Expert 00:06:28
+The reason why is because, like I said, they've stripped down a lot of the expenses that it takes to run rideshare, but also, really,
+really focused in where the ﬁnancial health of the company is a massive priority. You get to a diﬀerent kind of operating model,
+basically, because of COVID.
+Analyst 00:06:57
+When you think about then the changes internally that started down this road, do you view them as they happened, and then
+now the focus is shifted elsewhere, or that's still very much a focus of the companies, the eﬃciency gains?
+Expert 00:07:28
+Still very much a focus to the company. I'd say as North Stars, focusing on a few key metrics. One of them is ride growth. They talk
+about ride growth. They talk about active riders and active drivers. They talk about prime time, and then they talk about, like I said,
+net income per ride.
+Expert 00:07:49
+I think you can go into diﬀerent accounting ways to talk about that. Post-marketing margin per ride, companies are just really
+focused on that because investors, as we've seen over the last two weeks, will not trade one for the other.
+Expert 00:08:05
+I think in today's climate, what we understand is that you cannot have ride growth without eﬃciency growth as well, and vice versa.
+Very, very high priorities for the companies. Companies have new processes to ensure that they're going to hit these targets,
+whereas I think they weren't so much of a priority before.
+Expert 00:08:21
+I also think maybe what's interestingly about rideshare today versus pre-pandemic is we have those other competitors, like you had
+mentioned, with Instacart, DoorDash, but also, I don't know if this is on your gamut, but autonomous and advertising. I think
+there's new lines of business and new lines of investment that are happening today.
+Expert 00:08:48
+Also, you have insurance costs, which are a major focus of the Uberearnings calls. You basically have diﬀerent dynamics today that
+the companies are trying to navigate while trying to also, like I said, grow rides and do it eﬃciently. There's a mix of, I think,
+investments in the core business growth and then what I'll call R&D investments with media and autonomous and things like that.
+Analyst 00:09:17
+Pivoting for just one second and then returning to the bigger-picture stuﬀ, the insurance is something that companies talk about
+quite a bit. I'm trying to get my head around how material the insurance issue is, how material it is right now, how big of a risk it
+is for the companies going forward.
+Expert 00:09:54
+Yeah, I would qualify myself and say I'm not an insurance expert, but my understanding of it is that the cost on a per-ride basis is
+pretty material. The way it occurs is each of the rideshare companies has to do an annual renewal, which is why they take diﬀerent
+expense charges at diﬀerent points because I think there are renewals at diﬀerent times.
+Expert 00:10:15
+Generally speaking, insurance as a whole has been more expensive for everybody, not just for the ride companies. The rideshare
+companies, I believe Uber does the same, they oﬀer a $1-million umbrella. It's very expensive on a per-ride basis, and it's more
+expensive today on a per-rider basis than it was pre-pandemic. That's for a lot of reasons for insurance, but I'd say, just from a
+rideshare economics perspective, on a per-ride basis, it's very expensive.
+Page 4 of 10
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:10:44
+I'd say maybe to your question about risk, I don't know if risk is the right word. I think it's something that the companies are aware
+of. They plan around and they make concessions because they have this known high expense that they need to accommodate for.
+Expert 00:11:05
+Where the companies can trade oﬀ on, I think it's maybe pretty obvious, but they can trade oﬀ on a little bit of growth. They can
+trade oﬀ with a little bit of pricing, which is why pricing, I think, is generally a little bit higher today than it was in 2009 or 2008.
+Expert 00:11:22
+There's a lot of mechanisms that the rideshare companies can take to oﬀset that. They can pass it on to the customers. They can
+also reduce driver pay, which is the other mechanism, but there's mechanisms to buﬀer for that cost. I wouldn't say it's a risk. I'd say
+it's a known expense that the company has to get around.
+Analyst 00:11:45
+Interesting, okay. Thinking about ﬁrst the eﬃciency gains, you said that it's ongoing. In terms of how much more is left to be
+done, would you say that this is in the second inning, the seventh inning, the ﬁfth inning? How far along is this?
+Expert 00:12:21
+It's a good question. I'd say the easy answer here is, unlike baseball, where there's nine innings and the game is the same each
+time, this is an evolving game. The reason why I say that is because you have essentially a duopoly with rideshare. When the market
+leader decides to do something in terms of pricing, in terms of growth, the second competitor needs to either adjust or copy the
+ﬁrst competitor because of the way that the market dynamics occur.
+Expert 00:13:14
+I wouldn't necessarily categorize it as we're in the ﬁfth inning of a nine-inning game or something, or the eighth inning, we're
+almost done. It's that I think the models are constantly updating. The focus and the strategy are constantly updating that if I had to
+put in an inning, I would say we're probably in the ﬁfth or the sixth inning in the sense that companies have machine-based
+learning models that ingest a lot of the data and make adjustments on this stuﬀ.
+Expert 00:13:43
+There's nobody sitting there ﬁguring out how we should adjust pricing and doing this manually through Excel. These are all very
+complicated internal models that each company has built. We have a lot of those models, and we're constantly tweaking those
+models.
+Expert 00:13:59
+I'd say we're on the ﬁfth and sixth in terms of we have the foundation, but you still have to go through the rest of the bullpen. It's
+ﬁfth and sixth. Like I said, I haven't even talked about the autonomous part. Autonomous is a huge eﬃciency gain if you play it out
+over a medium to longer term. There's a lot of work being done there too if you think about the overall company.
+Expert 00:14:27
+In terms of the rideshare side of the company, I think it's about ﬁfth and sixth. Companies have platforms. Companies are using
+machine learning. Companies are using AI to ﬁgure this out and do it at scale in a constantly changing marketplace. I think that's a
+pretty fair representation.
+Analyst 00:14:43
+Interesting. Switching to the other side then, thinking about the competitive intensity or maybe the general ambitions of Uber
+from a market share perspective playing out, whether it's pricing or promotional activity, when you look across and you think of
+the evolution of this competitive intensity, how would you catch it out? Has it been a broad, in general, decline, decline and then
+ﬂatlining, decline and then ﬂat, but it's picking up again? From a general perspective, what are your thoughts on this?
+Expert 00:15:42
+Yeah. I think, generally speaking, there's a few factors that really aﬀect rideshare that most people overlook or don't think about,
+especially for Uber since they're the dominant player in the market. They're the dominant player in essentially a duopoly. I think one
+is the general economic climate. I think inﬂation in pricing and unemployment aﬀects their model signiﬁcantly. I talk about that
+because unemployment has signiﬁcant eﬀects on their driver base. Gas prices have signiﬁcant eﬀects on their driver base.
+Unemployment also has the same signiﬁcant impact on discretionary income for consumers.
+Expert 00:16:27
+I think, generally speaking, rideshare beneﬁts when there's heavy travel. One had mentioned on their earnings call last year was
+they beneﬁted tremendously from all these Taylor Swift concerts, very speciﬁcally Taylor Swift concerts.
+Page 5 of 10
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:16:41
+Taylor Swift concerts occur pretty signiﬁcantly. Many people are traveling to them. It was a constant beat drum of travel to these
+concerts. These concerts are fairly large. These aren't a few thousand people. Some of these things were hosting up to 120,000
+people. These are massive, massive kinds of events. If I had to bucket it, I think the macroeconomy's signiﬁcant impact.
+Expert 00:17:06
+The second part, I'd say, in terms of Uber and rideshare are the regulatory things. One of the things that they're tremendously
+impacted, Uber speciﬁcally because they're the market leader, is that they have to deal with the regulatory. When we're talking
+about regulatory in California, I'm sure you're familiar with the Prop 22. The Prop 22 was about basically making rideshare drivers
+employees. That has a signiﬁcant impact.
+Expert 00:17:35
+They have to do this at scale, so it's not even just California. They just dealt with this in New York for the congestion pricing. They
+also deal with it in Denver, Massachusetts, Minneapolis, where they threaten to pull out of Minneapolis altogether over the summer
+last year. They have all these regulatory headwinds against them that they have to resolve, but they have to resolve it in a
+constructive partnership way with each of the individual municipalities. I think there's that.
+Expert 00:18:07
+I think Uber speciﬁcally in rideshare is signiﬁcantly impacted. I keep coming to it because I think it's a major thing. They're
+signiﬁcantly impacted by this autonomous push now. I think we're in the ﬁrst inning of autonomous, but Uber is impacted way
+more because they're the market leader. I know they've made a lot of investments with Waymo in Austin and things like that.
+They've tried to be a leader in being a platform to these things.
+Expert 00:18:39
+Maybe what's unique about Uber speciﬁcally is that because they're into other lines of businesses, speciﬁcally Uber Eats, Uber
+delivery, and things like that, they face competitive pressure from other people at the same time. I know we're just talking about
+rideshare and mobility, but they're number two in the food delivery space. They're constantly ﬁghting DoorDash for market share.
+The company is ﬁghting regulatory and headwinds from autonomous. It's challenging. They're being challenged on all sides of their
+competitive landscape.
+Analyst 00:19:21
+Interesting. How much do you sense Uber thinks about their market share in mobility? How much do they think about it to the
+extent that they think about it? How much do they want it to increase, or how much are they willing to tolerate a decrease? Is just
+maintaining the status quo the objective?
+Expert 00:19:55
+I don't know for sure. I presume that as the market leader with such a high percentage, they're at a high percentage of the market,
+they are less concerned about movements to market share. Unit-scale economics beneﬁt the larger player. Like I said, I don't know
+for sure, but just knowing rideshare, if I was Uber, I would only focus on myself and my ride and my unit economics and not worry
+about my smaller competitor as much. I would be aware but not worry so much about them because Uber has signiﬁcant impacts
+on their own journey being the larger player here. I presume they don't operate to maintain a speciﬁc market share, but I don't
+know for sure.
+Analyst 00:21:03
+Yeah, no, that's really helpful. That's interesting. Maybe even then exploring the general Uber question, when you think of Uber
+as a company, Uber as an organization, and maybe the senior managers or something like that, how eﬀective do you think they
+are? How good of an organization are they? Contextualizing this against maybe DoorDash would probably be the most relevant
+and maybe the most helpful, but versus DoorDash or maybe against the broader tech landscape.
+Expert 00:22:06
+This is more of a question about the skill of the employees themselves?
+Analyst 00:22:15
+The employees and maybe how well they operate as an organization. Again, this is an intentionally broad question.
+Expert 00:22:29
+Yes. Okay.
+Analyst 00:22:32
+I'm getting to the quality of the company and maybe the quality of the organization. I think a big component of that is the quality
+of the people there. We can all think of examples where the quality of the people isn't that high but 1+1=3.
+Expert 00:22:57
+Yeah. Let me qualify and say I can only speak as an outsider observing them. I think their team is good. I hate to repeat it again, but
+I think they beneﬁt a lot from being the larger player in this duopoly. The reason why I say that is because when you're the larger
+Page 6 of 10
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.player in general in a duopoly, you have more margin for error. What I mean is, as an example, if Uber and their team had invested
+deeply into a partnership and it did not work out and they lost a good amount of money, they would be okay. They could just ﬁnd
+another partnership, a smaller percentage.
+Expert 00:23:54
+If you're the smaller, and you lost a major partner, that would be much more diﬃcult to replace. I also think, in terms of the duopoly,
+the smaller player needs to be more nimble, needs to be more eﬃcient, and it needs to be a little bit more innovative to survive.
+Otherwise, you're susceptible to the pricing pressure.
+Expert 00:24:25
+I would circle back. I think their team is good because they take a lot of bets. You could see this in the rideshare industry. You could
+see a lot of the things that they're building, for example, Uber team. Uber team, I would say that's not an insigniﬁcant amount of
+work to spin up, and that's why you haven't seen it with the other rideshare companies. That's somewhat unique. They take a bet. I
+don't know what the proﬁtability is for that. I don't know what their unit economics is for that, but it seems pretty good. They spun it
+up.
+Expert 00:25:06
+Also, being the market leader, they have a lot of insight into what works and what doesn't at scale. When I say that, I mean they got
+deep into the car rental business before about renting cars to drivers and letting them do it. They learned quickly that that business
+was not good. It was easier and faster for them to untangle from that.
+Expert 00:25:34
+The same thing with autonomous. Uber invested deeply into autonomous for years. They divested, then now into forming
+partnerships with all these key partnerships with Waymo and things like that. I'd say Uber does a very good job of creating
+synergies with other companies that are accomplishing what they want to do.
+Expert 00:25:56
+Waymo, for example, is a great partnership. It's great. They're not exclusive, but they have a great partnership with Waymo. They
+have a great partnership with now Delta. They have great partnerships. I also think they do a good job, for example, in their loyalty
+program. They have Uber One, which is a great synergistic loyalty program across rideshare and food.
+Expert 00:26:20
+I think their team is actually very good. I also think, like I said, they have a bigger team. They recruit well. They have great people, a
+lot of, I'd say, the Uber alum. There's a lot of Uber alums at other companies like DoorDash, Instacart. It seems good. It's a good
+team.
+Analyst 00:26:42
+How would you compare Uber to DoorDash, measure of organizational quality, along these lines?
+Expert 00:26:57
+I'd say the DoorDash team is very good. The DoorDash team is very, very good. This is anecdotal. I would say they have some of the
+best data science and analytical people working there.
+Expert 00:27:16
+I think DoorDash, they have a ton of consulting.
+Expert 00:26:57
+They invest heavily in the operations. They have a lot of Amazon people there. I think the DoorDash team is very good. I don't know
+if it's better or worse than the Uber team. I know that they're both very talented, but the DoorDash team, in my experience even
+today is very, very talented.
+Analyst 00:27:41
+Interesting. Thinking about Uber having both mobility and food delivery under one roof, to what extent does that give them an
+advantage competing either against food delivery companies that don't have mobility or against mobility companies that don't
+have food delivery?
+Expert 00:27:56
+You reach COVID, and you're like, "Wow, okay."
+Expert 00:28:22
+Now, when there's impacts to your rideshare business, food delivery picks up. It's not directly inversely related, but food delivery
+was a very popular thing. Now, you come out of COVID, and now you basically have both. Both things are concurrent at the same
+time. I think Uber made some really good investments in Eats. That's clear. That's clear from anyone, even on the customer side.
+Page 7 of 10
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:28:45
+I think in terms of the beneﬁt, you get a couple of beneﬁts oﬀ the top of my head. One, you get some beneﬁts on their loyalty
+program, which I mentioned before, on Uber One, which is good because you get cross-platform beneﬁts around points and
+discounts and things like that. That's super helpful for a customer and locks you in.
+Expert 00:29:04
+I think, two, that kind of partnership, it's probably really good for businesses. That's the one thing I think Uber does really well on
+the corporate side. They get a lot of corporate accounts, and they allow you to book rides, book food all into one platform. That's
+good for the corporation because they get discounts on both of them. I think that's probably an underrated aspect of their joint
+businesses.
+Expert 00:29:33
+I think, three, maybe on the supply side, what they're able to do is move supply back and forth between the two. If you're a driver,
+it's much more rigorous to be a rideshare driver than it is to be in Eats because Eats, you don't need a new car, you don't have an
+inspection or things like that, and you can get approved quick. On the food delivery side, it's super easy.
+Expert 00:29:56
+I think what's good is when there's periods of low utilization, meaning that there's no rides or there's a lack of rides, they can log on
+really seamlessly to ﬁnd the next best earnings opportunity. A lot of their driver base can seamlessly move between rideshare, food
+delivery and continue to stay on the platform, which is very unique.
+Expert 00:30:17
+I think it's very beneﬁcial because if they were just doing rideshare, it's really diﬃcult. You get some synergistic supply beneﬁts from
+Eats and food delivery.
+Expert 00:30:30
+Maybe lastly, I'd say, and this is very obvious, but I think they beneﬁt from those two businesses because they're diversiﬁed. When
+there's impacts, when we talk about the autonomous impacts, to the regulation with California and New York, Boston, they're
+somewhat shielded because their entire portfolio as a company is not entirely U.S.-based, which is the other thing. They have more
+lines of business that they can focus in on and drive growth from. They're more immune to externalities than just a pure play.
+Analyst 00:31:13
+When you think about how material these beneﬁts are, are they suﬃciently material that at some point, you imagine DoorDash
+would need to enter mobility?
+Expert 00:31:32
+I think DoorDash is doing great. They had tremendous growth. I think they're ﬁne. I think the intent of your question is if they were
+to move into it.
+Expert 00:31:30
+There's maybe some synergistic opportunities with a rideshare and food delivery.
+Expert 00:31:39
+If you're DoorDash, I can't imagine they would want to be getting into the mobility space, especially with autonomous. I can't
+imagine they would want to do that, and I don't believe they are. They wouldn't want to do that because doing that would subject
+them to all of those things that we talked about before with the insurance, all the regulatory issues.
+Expert 00:32:08
+Also, DoorDash is interesting because a lot of their supply and a lot of their real growth is in the suburbs, whereas Uber, their
+mobility is more centralized in the cities. It's a diﬀerent strategy. I can't imagine today they would get into it. Possible, but I would
+think that a partnership or something like that would be better for them if they wanted to, again.
+Analyst 00:32:34
+Yeah. The three reasons that you outlined, a partnership would knock down the ﬁrst two, but not necessarily the third, meaning
+maybe there's higher driver retention due to higher capacity, higher utilization of each mile driven, or something along those
+lines. When you think about the beneﬁts of the third reason versus the ﬁrst two, does that third one stand out, in your mind, or
+an afterthought versus the ﬁrst two?
+Expert 00:33:29
+I think it really depends on what the climate is. I think autonomous is a big part of this because I know they're investing deeply into
+more driverless solutions and things like that. I think passenger will take a little longer.
+Expert 00:33:45
+I think there is some eﬃciency to be gained on the marketplace side with supply, like you had mentioned, but there's also an
+opportunity cost and implementation cost that is really high. That's why I summarize and say it's possible. I don't think that they
+would want to do that today.
+Page 8 of 10
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Analyst 00:34:14
+Yeah. This is a slightly diﬀerent way to ask, it's somewhat conceivable that because they have the combination, and if that third
+point is highly material, then that means their unit costs are lower on a per-mile basis versus DoorDash or anybody else. If the
+unit costs are lower, then it's conceivable that the pricing is lower. That's not to say that just because that is there, they're
+necessarily implementing these synergies very well, or that even if the unit costs were lower, it would necessarily have an impact.
+Just to round that out, to what extent do you sense that either the unit costs are lower or that the unit costs are lower and that it
+might be having a pricing impact?
+Expert 00:35:31
+Is it speciﬁcally for Uber and DoorDash?
+Analyst 00:35:34
+Yeah.
+Expert 00:35:41
+I'm not entirely sure about DoorDash. I do think you're right, there are eﬃciencies to be gained on a unit level from having supply,
+but I think their strategies are just diﬀerent. I think food delivery is somewhat regional, and they take diﬀerent strategies. I say that
+because I think there are markets where DoorDash is okay to lose to Uber and vice versa, and they own their markets. It's like a risk
+board, and they're okay with that.
+Expert 00:36:22
+For example, I think on the suburban side, DoorDash has much stronger penetration. I think Uber is okay with that. But I think Uber,
+for example, wants to control California. They want to control a lot of the cities where they do have the supply. Even the supply part
+where you talk about unit eﬃciency, that supply is regional. I think it depends on the market. Maybe let me rephrase this. I think it
+depends on the market. That's the cop-out answer because there are some markets that I'm familiar with now that Uber does not
+even have that much dominance in in terms of market share.
+Expert 00:36:58
+It depends on the market. I [inaudible] maybe, generally speaking, they see general eﬃciencies on the third point, but it depends
+on the market. Sorry, that's a cop-out answer.
+Analyst 00:37:19
+Yeah, no, that's really helpful. Okay. Now, going to autonomous, autonomous is happening. It sounds like you're reasonably
+optimistic on the impact of autonomous on the rideshare companies. To the extent that my interpretation is correct, can you
+elaborate? Either way, can you elaborate on whatever your general feeling is?
+Expert 00:38:04
+Yeah. This is a general feeling. Obviously, nobody knows the answer. Like I said, we're in the ﬁrst inning of this. Everyone has an
+opinion and everyone could be wrong. I generally think that this will be a positive thing for the industry. I think it's a positive thing
+for customers.
+Expert 00:38:23
+I think that what you'll see is Uber, possibly other players, start talking about them being a platform, where you can order these as
+another ride type.
+Expert 00:38:33
+Think about this is, price versus time. If you're in a rush, you're willing to pay more. If you're willing to wait, you save more. It's the
+same thing with autonomous. Autonomous is just another mode. If you're willing to possibly wait a little bit longer for that kind of
+experience, and you want to pay a higher price per ride, you have that option.
+Expert 00:38:50
+If someone wants to order it for a speciﬁc use case, I'm making it up, let's just say they feel more comfortable with an autonomous
+car at night, which is actually a great use case, I think, they can order it, and they're willing to pay for it.
+Expert 00:39:08
+Also, I think it's better for the company because they get better conversion. What each company looks at is conversion intent. We
+call it ride intent of someone logging in, searching for a price, and converting on a session, regardless of mode. I think having more
+options for customers is a better thing.
+Expert 00:39:27
+I also think by having, whatever it is, Waymo, Cruise, you name it, Mobileye, whatever you want to call it, on these platforms, it'll
+allow the prices to come down. The prices will come down for the customers. It'll increase the total addressable market of
+rideshare, which is really the key.
+Page 9 of 10
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:39:51
+I think most people would agree. The market is so large that you can have two players. Actually, you should have two players in this
+market for mobility, at least two players, but I think because of autonomous, you're talking about a third player in general.
+Expert 00:40:05
+The market is so large and growing with that that I think there's a lot to be gained by these companies. I don't think it's a winner-
+takes-all kind of thing. Like I said, prices come down, more availability, more supply, better experience. I think it'll be good for
+everybody. I'm optimistic, at least. The time frame for my vision is questionable, but my end game at the ninth inning, I think, is
+going to be a good one for everybody.
+Analyst 00:40:42
+There's a view that Tesla is the dark horse in this and that the Tesla Robotaxi could come in, and this could be materially more
+disruptive than Waymo or Zoox or some of these other guys having a really big presence. What's your take on the Tesla risk to
+the mobility companies?
+Expert 00:41:31
+Yeah, it just comes up a lot. I always start oﬀ and ask, "Have you been in a Tesla autonomous experience?" I just generally ask
+people that because I own a Tesla. I have full self-driving.
+Analyst 00:41:47
+I have not.
+Expert 00:41:50
+Okay. I have one. I have the full self-driving. I had it for years. It's my primary car. If you've been in that experience, that's where my
+POV is rooted because I have one. I think it has a lot to go. It has a long way to go. If you've also been in a Waymo in San Francisco,
+you also know where that's going too. I think it's easy to talk about these things without actually experiencing it, but when you
+actually experience it, you get a much better idea of how far we are, what inning we are, and, again, in your words.
+Expert 00:42:32
+I'll go back to the Tesla. It's very possible that this is a very large disrupter. I think you hear from Uber leadership that it's largely
+unknown. You have a company and a CEO that's promised a lot of things. They're great things, but it's unclear when and if they will
+ever deliver and if it's vaporware or not.
+Expert 00:43:00
+For now, in the ﬁrst inning, it's not a tremendous risk in the real near term. Also, if you think about the industry and all the things
+we talked about before, it's conceivable that this will take a lot longer if it's successful. Let's just say they ironed out all the self-
+driving kinks and all the weird things that happen. It's conceivable that this will take longer in general than we think. The reason for
+that is largely because of the regulatory. They're going to have to get access. They're going to have to get regional and state-level,
+city-level access to run these things.
+Expert 00:43:44
+You can't just run an autonomous car in San Diego. You also can't do it in San Francisco. For example, I think most people think, if
+you haven't been to San Francisco, and I know you have, but if you haven't been to San Francisco, you're thinking that the whole city
+is just run by these autonomous cars. It's not. They can get on the highway right now. You can only really take them during the
+prime time. At night, you can't take them. They're very limited.
+Expert 00:44:10
+They're not restricted by the company, they're restricted by the city because of the bad accidents with Cruise. It's the same thing.
+Multiply that challenge throughout the whole country. Not to say that it can't happen, like I said, but it's a challenge to allow this
+across everywhere.
+Expert 00:44:27
+I know Austin is going to be a big place for Waymo, but can you get that in Dallas? Can you do that in New York City? It's unclear.
+There's never been an autonomous test in New York City, and New York City is one of the largest markets for them. There's the taxi
+company. How are they going to do this at scale quickly?
+Expert 00:44:43
+We'll go back to Tesla. Even if people have this robotaxi that's just a Tesla platform, they're going to get regulatory access. Two, they
+haven't ironed out how they're going to run the network. There's things that they do in terms of insurance. Those details have been
+very scarce on Tesla's side. I presume that they're in their early innings of trying to ﬁgure this out.
+Expert 00:45:08
+Third, when they do do it, we don't know what adoption looks like. We don't know pricing of these things. It's unclear if people even
+want to get into it. If you're a regular customer and you go to the airport, would you want to get in someone's Tesla, or would you
+rather just call a human or do that? It's not even clear there's a huge part of market ﬁt.
+Page 10 of 10
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:45:31
+Like I said, I think the bigger takeaway is there's so many unknowns. everyone's in a wait-and-see mode to see how this happens.
+Analyst 00:45:40
+We're just about out of time. The last question is, if they're not overly concerned with Tesla, within the autonomous vehicle space,
+what is the primary concern?
+Expert 00:45:59
+I don't think there's concern. I don't think that's the right word. I think these companies are wanting to partner with them. I think
+there was an article a couple of weeks ago or a month ago that said Waymo had suddenly gained signiﬁcant market share in San
+Francisco and was pulling away market share from Uber. Those types of articles cause alarm for people, saying that it's a third
+competitor, whereas I think, understanding rideshare, companies want to partner with Waymo.
+Expert 00:46:39
+I don't think they're competitors. I don't think they're concerns per se. I think they want to leverage themselves as platforms to have
+them, like I said, in that vision of having them on the platforms. That will grow the total addressable market. Uber is deﬁnitely not
+worried, "Oh my God, our business is going to go away," or anything.
+Expert 00:47:02
+I don't view autonomous as I do AI. AI is something diﬀerent, and it depends on what industry it is. AI can replace. Autonomous is
+going to supplement these companies. I think it's a fair question of who's going to own it. I think maybe some of this is just a little
+bit of uncertainty about who's going to own this and what market share looks like, but we're in the ﬁrst inning. This technology
+needs to be approved, and it needs to be in high enough volume that there's real gas there. We're in the ﬁrst inning.
+Expert 00:47:37
+Like I said, if you know anything about Waymo in San Francisco, you know that it takes a long time to get a Waymo. If you open up
+your app, it takes a long time to get Waymo, and it's expensive. Today, there's low availability. It's expensive. It's not a direct
+competitor. I think the way that they're thinking about it is, like I said, partnership and integration, not a competitor pxter se.

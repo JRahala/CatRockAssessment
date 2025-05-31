@@ -1,0 +1,350 @@
+Page 1 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.
+COMPANY DEEP-DIVE
+Former Executive Says That Uber’s International Business Should
+Continue To Grow Double-Digits With Increased Operating Leverage
+DATE PUBLISHED
+17 Apr 2025INTERVIEW DATE
+15 Apr 2025EXPERT PERSPECTIVE
+FormerANALYST PERSPECTIVE
+Investor-Led (Buy-Side)PRIMARY COMPANIES
+UBER
+SMART SUMMARY
+Transcript Highlights
+In the expert's opinion, Uber can sustain double-digit growth in EMEA by leveraging operating eﬃciencies as the business scales
+and increasing the mix of high-margin advertising revenue. This positions the company well to gain share in emerging markets like
+Africa that have greater room for growth versus more mature regions.
+The expert believes ridesharing still presents the bigger long-term opportunity over food delivery, given the larger market size and
+revenue per trip. However, growth prospects remain strong for delivery by expanding into grocery and convenience delivery.
+Compared to competitors, Uber is poised for above-market growth in emerging EMEA countries while matching mature market
+growth rates. Progressing autonomous vehicles could boost margins, but are unlikely to displace Uber's platform reach and scale.
+AlphaSense Assistant is AI Generated
+Table of Contents
+Evolution of food delivery business models.
+Rideshare versus delivery revenue in EMEA.
+Scaling delivery margins through ads and volume.
+Mobility versus delivery market size comparison.
+Autonomous vehicles impact on rideshare platforms.
+Uber's regional strategy across EMEA markets.
+Summary of Uber’s growth outlook and strategy.
+Expert Bio
+Expert was an Executive at Uber, responsible for developing and setting strategy with the Regional Managers. Expert reported to a
+General Manager, ~2 levels from the C-suite.
+Employment History
+Self-Employed (Private)
+Self-Employed • December 2024 - Present • 4 mos
+The South African LGBT+ Management Forum (Private)
+Director • February 2018 - February 2025 • 7 yrs
+Amazon (Public)
+Head of Seller Success • September 2023 - December 2024 • 1 yr, 3 mos
+Uber (Public)
+Strategy & Planning Lead, EMEA Customer Experience - New Verticals (short-term assignment) • May 2023 - August 2023 • 3 mosRelevant Role
+Uber (Public)
+Head of Strategy & Planning, Sub-Saharan Africa • September 2020 - August 2023 • 2 yrs, 11 mos
+Uber (Public)
+Eater Operations Lead, Uber Eats South Africa • April 2020 - August 2020 • 4 mos
+Page 2 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.
+Uber (Public)
+Restaurant Operations Lead, Uber Eats South Africa • October 2018 - March 2020 • 1 yr, 5 mos
+Monitor Deloitte (ex Monitor Group) (Private)
+Consultant • June 2017 - October 2018 • 1 yr, 4 mos
+Interview Transcript
+Analyst 00:00:00
+The call will be recorded so it can be transcribed. Second, you understand the deﬁnition of material non-public information and
+agree not to disclose such information during the interview. You conﬁrm you don't have a non-disclosure agreement or anything
+preventing you from speaking at the companies discussed during the call. If there's something I ask you and you can't answer it,
+just let me know, and we can move on. Finally, you agree not to discuss details of your current employer. Do agree?
+Expert 00:00:19
+I agree.
+Analyst 00:00:23
+Great. The focus of the call today is on food delivery and your former employer, Uber. Wanted to focus on two topics. One is on
+the evolution of food delivery and the outlook going forward. I know your expertise but to the extent that you have more
+perspective, either globally or on the overall strategy and outlook as it relates to the whole company would be helpful, or the
+whole industry as it relates to Uber in particular.
+Analyst 00:00:52
+Similar question on the evolution of Uber and the outlook going forward, obviously, with the emphasis given your expertise on
+food delivery inside of the outlook. Would be curious to get your perspective of how big Africa is. It sits inside of EMEA as they
+disclose it, and get a sense of the proﬁtability and what you think quantitatively, how much of an impact do you think that Africa
+can be relative to the overall company. Before we jump into that, can you walk through your career background experience,
+please, and then we can get into those topics?
+Expert 00:01:32
+Sure. I'd say I started my career out in management consulting for almost ﬁve years and then moved across to Uber Eats, leading
+two teams and operations, and then moving to head of strategy and planning for sub-Saharan Africa, speciﬁcally in Uber Eats. I
+spent almost ﬁve years there as well and then moved on to Amazon to launch the South African marketplace in 2023 onwards, up
+until end of last year.
+Analyst 00:02:13
+Great. How has the industry changed, I think, from 2018 through either 2023 when you left or to today? What were some big
+changes that you observed in the industry?
+Expert 00:02:28
+Sure. From a food delivery perspective, I think 2018, the food delivery industry was still pretty nascent. The large focus was getting
+all the restaurants that you can. The primary focus was selection. First, getting all the restaurants that you need on the app at quite
+a high, it's called marketplace fee, to inﬂuence your proﬁtability, ﬁrst focusing on the large enterprises, your KFCs, McDonald's, etc.,
+because those give you the share, and are most popular obviously because of the volume of stores that they have. They give you
+more coverage, etc., and then moving on to more longer-tail selection.
+Expert 00:03:18
+I'd say the ﬁrst two or three years of Uber Eats, obviously, it launched earlier in U.S., Europe, etc., but it followed a similar playbook.
+You ﬁrst start with your bigger-scaled restaurants or food merchant, and then you move across to your long-tail selection, which is
+"your local favorites" that your customers are looking for.
+Expert 00:03:43
+If customers can ﬁnd KFC, McDonald's, etc., in every other app, including their own apps, how do you diﬀerentiate? You do that by
+going oﬀ the smaller guys, the more local, unique selection. That was the big play, I would say. Lots of focus on selection, lots of
+focus on speed as a diﬀerentiator and also on experience, I would say. Do customers get their orders when they order them? Big
+focus on operations in terms of eﬃciencies and cancellation rates, etc.
+Expert 00:04:17
+I would say that that's the marker, and even as they launch into diﬀerent countries, that's the strategy that you'll ﬁnd plays out. I
+would say from around COVID time, about 2020, big shift into more, let's call it, everyday, it started as essentials, meaning your
+convenience items, etc., like pharma health, all of those. That was mainly impacted by the shift.
+Page 3 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:04:52
+As diﬀerent countries had diﬀerent protocols of lockdown, some locking down, especially in sub-Saharan Africa, you found that
+restaurants were not considered essentials and therefore could not operate on online delivery platforms. There was a big shift
+towards pivoting towards your convenience, groceries, etc., as people stayed put at home.
+Expert 00:05:18
+That was, I would say, the biggest shift that impacted your food delivery businesses to pivot into more convenience and groceries.
+Actually, even if they had spotted that play before, I'd say that's what made it double down. That's what made these businesses
+double down on that particular line of business from around 2019, 2020 onwards.
+Expert 00:05:43
+This became a big diﬀerentiator, I think. What you'll ﬁnd is all of the food delivery platforms tend to oﬀer the same value
+proposition over time. You ﬁrst compete on the selection, then you compete on your speed, and you compete on your reliability.
+The diﬀerentiator becomes competing on, I suppose, other lines of business like grocery, convenience, etc., big focus from that
+perspective that started to come into play.
+Expert 00:06:21
+Now, you also ﬁnd that these grocery convenience stores also started to have their own online delivery presence serving the same
+purpose as Uber Eats was trying to serve at that point in time. You start to experience a diﬀerent shift, one with the quick
+convenience players coming in and competing primarily on speed, getting it to you as quickly as possible.
+Expert 00:06:49
+That's really forced also the evolution of Uber Eats from just signing up your big convenience players to going into dark stores
+because if you can prop up more dark stores everywhere, you can reduce the speed of delivering to customers and enter the quick
+commerce players as well that were doing the same thing, oﬀering a relatively similar value proposition. Everyone started
+competing on that dark-store model, making sure that you have as much selection as close as possible to the customer to be able
+to deliver to that customer as quickly as possible.
+Expert 00:07:29
+I would say the third big shift that really happened was probably, as I mentioned, as these grocery and convenience players start to
+have their own online presence and becoming more and more reluctant to sign up to your marketplaces just because they have
+thinner margins than restaurants, if you're charging a marketplace fee in the high teens, etc., it becomes prohibitive to them to list
+their selection at the right price point.
+Expert 00:08:09
+Uber Eats started to pivot towards Uber Direct, which is more around the last mile fulﬁllment piece. If you can't get these stores to
+sign up into your marketplace, can you still make income from the last mile fulﬁllment using your vast network of couriers, etc.? I
+think that was probably the third big shift that happened.
+Expert 00:08:33
+This was closer to, I would say, 2021 into 2022, where this last mile fulﬁllment became a really big discussion. It was born out of a
+little bit of friction of getting the really big retail players to sign up to a marketplace for a variety of reasons, but still trying to make
+some earnings using the large supply network of couriers. I'll say those are the three big shifts.
+Expert 00:09:04
+I think given those shifts, obviously, there's been a shift to proﬁtability with a lot more pressure to become proﬁtable to prove the
+use case for delivery, because as you know, it's a very low-margin business. There was a really big shift to advertising as a big push
+to get Uber Eats on because that would deﬁnitely help margins.
+Expert 00:09:29
+Obviously, the ads business in general is a really big business, but speciﬁcally to improve net revenue margins from an Uber Eats
+perspective, this was a real big game-changer. I think it's one that came in, I would say, 2021, so to speak, as there was a big drive
+overall from a company perspective to get the delivery business to proﬁtability. In summary, I would say those are the four pushes.
+Analyst 00:10:02
+Basically, it was a nascent market selection, speed, experience. You had COVID rates were big shift to more everyday essentials,
+driven in part by the lockdowns. You had online focused on more on last mile fulﬁllment, and then lastly, focus on proﬁtability
+and shifting more to advertising to augment or help support the low-margin business there.
+Analyst 00:10:28
+If we look at Uber's ﬁnancials here and we see the way they have North America, United States, and Canada, but if you look, this
+extends maybe one year beyond when you were there. U.S. and Canada grew at, I'm just doing the math here, 22%, 23% CAGR
+from 2019-2024. This includes both rideshare and Eats, so it's a lumped-in number.
+Page 4 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Analyst 00:11:02
+If we look at some of their other regions like for example, if we look at APAC 44%, double the growth rate, but on a much lower
+base than when we look at EMEA, for example, which included Africa in there and sub-Saharan Africa, would you say that Africa,
+for example, inside of EMEA had then grew by 2024? Do you have a sense of how much was the mix between, let's say, rideshare
+versus Eats within those numbers?
+Expert 00:11:45
+From the broader EMEA or sub-Saharan Africa?
+Analyst 00:11:52
+EMEA and Africa as well.
+Expert 00:11:55
+I would say it was closer to an equal mix of rights to food delivery. Food delivery EMEA and contribution of Africa to EMEA is
+deﬁnitely on the lower end. I think Africa's not, from a ridesharing perspective, higher mix, but from a food delivery perspective, a
+much lower mix. It just depends.
+Expert 00:12:34
+If you aggregate it, for example, I don't know the aggregated number of Africa into EMEA if you consider both rideshare and
+delivery, however, looking at it by separating the lines of business, for example, the contribution of Africa in EMEA from a rideshare
+perspective is a lot higher than the contribution of food delivery into EMEA. Does that make sense?
+Analyst 00:13:02
+You're saying Africa rideshare was more meaningful than Africa food delivery.
+Expert 00:13:08
+Yes. 100%.
+Analyst 00:13:18
+In EMEA, I'm just using some round numbers here, if it's a $12.5 billion of revenue, let's say last year in calendar 2024, just rough
+split.
+Expert 00:13:30
+About.
+Analyst 00:13:42
+If you look at mobility, which is rideshare, and you look at delivery, on an aggregate basis, what the company discloses, delivery
+has grown faster than mobility. Is that fair to say that delivery also, overall, maybe EMEA has grown faster than rideshare just
+goes oﬀ of a lower base?
+Expert 00:14:08
+Yes, 100%.
+Analyst 00:14:11
+Similar there. These tend to be scale businesses. If we were to look at mobility margins for the company overall or the way that
+they disclose it as a percentage of revenue, they also do gross bookings, but in the percentage of revenue, have gotten into the
+mid-20s and delivery and these had been unproﬁtable business became proﬁtable, but if you look at delivery, those margins have
+marked higher.
+Analyst 00:14:50
+They have the negative. They cross positive in 2022 and then 2023 and 2024 and are narrowing the gap. Delivery at 18% margin
+last year and 29% on mobility, is mobility over-earning and that number goes down, or is delivery under-earning and can reach
+mobility, or how do you think about that?
+Expert 00:15:22
+You mean from a net revenue percentage perspective?
+Analyst 00:15:29
+I was talking more proﬁtability from a margin perspective. Can delivery eventually get to mobility margins, and can those
+margins go even higher?
+Expert 00:15:45
+That's a really diﬃcult one. I would say it all depends on how much more they can scale the ads business because I think that's the
+key proﬁt driver. Actually, for example, on all other cost bases, the biggest one being, let's say, earnings to drivers, if you move the
+Page 5 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.earnings or rather to couriers, if you can reduce something like earnings to courier, that probably has a higher impact on your
+proﬁtability, but all other cost lines, they quite ﬁxed in that way.
+Expert 00:16:36
+The way that I would think about their potential to outrun mobility proﬁt margins would be the ability to scale the ads business and
+the ability to reduce courier costs. That one is a diﬃcult one because in each region, you get a lot of regions, let's say, government
+agencies putting regulations around minimum earnings, etc. That makes it very diﬃcult to play around with earnings, reduce
+earnings, let's say, how much you pay per trip to a courier. You rely on eﬃciencies of volume, but there's only so many trips a
+courier can do per hour, for example.
+Expert 00:17:26
+That one is dependent on major transformations like autonomous deliveries, for example. Even then, there's also some hardware
+cost implications, etc., but only if the investment in autonomous delivery can drive down the cost below courier earnings. Would it
+actually improve the proﬁt margins?
+Expert 00:17:54
+The other piece that I think is a really big driver is ads. The more they invest in ads and the more the ads business contributes, the
+higher that proﬁt margin will be. It's diﬃcult to say. Will it outstrip because I think that's the biggest lever from a proﬁtability
+perspective.
+Analyst 00:18:16
+Let me ask you another way, taking a step back, which is, can delivery continue to grow at such a rapid rate? I'm using the overall
+numbers, but can it continue to grow at a 40% CAGR or 30% CAGR, or 20% CAGR for several years?
+Expert 00:18:42
+I think it's possible. I think it all comes down to the mix of products that delivery can oﬀer and how much more eﬃcient those
+products can become over time, which is what would grow. For example, the higher the penetration of grocery and retail, which is
+probably the key driver of the growth that you're seeing in delivery, the more there's higher penetration of that, the faster it will
+grow.
+Expert 00:19:17
+For example, I would say food delivery in the traditional sense, restaurant, that doesn't have a lot more room to deliver double-digit
+growth because within the delivery space, they consider both restaurants, they also consider your grocery retail, and they consider
+Uber Direct. That's all lumped into the delivery business.
+Expert 00:19:42
+I think the one that has probably reached, let's call it, an area where there's unlikely to be more double-digit growth is food delivery
+in the traditional sense, like restaurants, but there's still a lot to play for from a grocery retail, and there's a big opportunity still in
+the Uber Direct space, both from a growth in terms of top line and also eﬃciency from a cost perspective. Does that make sense?
+Analyst 00:20:11
+Sure. In a vacuum, if we were to isolate though, if this business, let's say continue to grow at a double-digit rate, where the mix of
+business, let's say similar in terms of how much is advertising and how much is core food delivery, though, would just that
+growth alone meaning, if you grew a 10% or 20% CAGR, will that growth alone result in higher margins because of the operating
+leverage in the scale, or would margins stay the same or would they go down because the incremental cost is of that trip is, let's
+say, less eﬃcient, that marginal trip is less eﬃcient? What happens to margin just in a vacuum based on as revenue grows?
+Expert 00:21:04
+It grows. You get higher leverage, I think, the ﬁxed cost base. The ads business is almost a zero-cost business. The more it grows,
+the more it trickles down to the bottom line. Do you know what I mean? It barely has any costs basically, from an ad perspective,
+which is why I said that that is the big, I think, driver that would create that.
+Expert 00:21:33
+From a product mix perspective, if we take away ads and we look at the mix of grocery retail to traditional restaurants to Uber
+Direct, I would say the more there is scale, the more that will translate to better margins because there's still a lot to play for from a
+ﬁxed-cost versus trip volume perspective. Does that make sense?
+Analyst 00:22:00
+Sure. The point though is that for Uber, you think that they can continue to grow at a double-digit rate, and given the market and
+given what they're doing, supported by higher proﬁtability, given the operating leverage as they continue to grow, and then as
+more of the business, let's say, becomes advertising, given that improvement. Is that fair to say?
+Expert 00:22:29
+Yeah.
+Page 6 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Analyst 00:22:36
+If we were to look at the business today, right now, mobility is roughly twice as big relative to delivery, $25 billion of revenue last
+year versus under $14 billion for delivery. It's largely concentrated in U.S. and Canada. Which do you think is the bigger market?
+Do you think it's mobility or do you think it's delivery?
+Expert 00:23:10
+That's a trick question. It's a big debate. I still think it's mobility actually. I think there's a bigger business in mobility than there is in
+food delivery. Mainly, if you look at it from a revenue perspective per trip, mobility will always have the higher per trip revenue.
+Expert 00:23:40
+I suppose because mobility is also diversifying into other product lines, it's giving them the trip volume as well, introducing high-
+capacity vehicles, introducing your, let's call it, Uber career model etc., from that perspective, I think mobility is still the bigger
+business, or the bigger opportunity, bigger market than delivery.
+Analyst 00:24:20
+Maybe reiterate that point again, though, why rideshare is just because more people need to get around than necessarily to get
+something delivered to them.
+Expert 00:24:30
+Yes.
+Analyst 00:24:39
+There's a debate, let's say, in the U.S. or in North America. It's perhaps more mature on the rideshare side, but I wonder if it's
+maybe the same for food delivery. Do you get the sense that at some point, does autonomy take over, whether it be rideshare
+and/or food delivery, and then does that disintermediate something like an Uber where there's another platform that can deliver
+it and there's no need, let's say, for drivers, whether it be on either side? Is that something you see happening internationally, or
+that's a long way away you're not even ever going to happen in your mind?
+Expert 00:25:20
+Can you rephrase that question just so I make sure I understand it correctly?
+Analyst 00:25:26
+In the U.S., there's a perceived risk that autonomous vehicles, let's say, in rideshare will disintermediate, will eﬀectively render
+some of these rideshare platforms less important or unimportant because someone will hail a car, for example, just by using the
+autonomous vehicle that will show up. You don't need a driver for it. Why do you need a Uber, for example?
+Analyst 00:25:59
+I think that in some of these international markets, Africa, they're behind relative to the United States. You'd also imagine that for
+food delivery as well, that the driver, you have to share in the revenue that this would be there. Is that something that's
+discussed? Is this a risk internationally, or it's just still so nascent here and there's so much growth that's not even a factor at this
+point?
+Expert 00:26:29
+I think it's still nascent, but it is discussed. The conversations on autonomous vehicles started, I would say, probably around 2022.
+Uber's investment into Waymo, etc., and autonomous vehicles, this has been a discussion point for a while in terms of how does
+Uber get ahead of or participate in the autonomous transportation space?
+Expert 00:27:00
+I think from that perspective, the bet is if they invest in it and integrate into the ridesharing app as you know it, by oﬀering some, I
+suppose, incentives to customers to use it. It also makes sense to Uber to invest in autonomous vehicles because it drives down the
+price from a driver-earnings perspective to a certain degree. All to say that it's nascent. It is discussed, however, it's positioned as an
+investment opportunity for Uber to get in early and integrated into the current ridesharing model versus seeing it necessarily as a
+threat. Does that make sense?
+Analyst 00:27:47
+Sure. From a competitive perspective, though, whether it be Africa or for EMEA in general, how do you think Uber's set up
+competitively? Can they outgrow the market? They grow in line with the market. Do they grow slower than the market? In other
+words, do you think they'll gain share, they'll lose share? What do you think happens?
+Expert 00:28:16
+This is part of the autonomous vehicle discussion, just general outlook?
+Page 7 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Analyst 00:28:20
+Yeah. I was curious that that came up in conversation, moving on from that.
+Expert 00:28:28
+Okay. The trouble with EMEA is it's an aggregate of a lot of diﬀerent markets. There is a point of view of sub-regionally, i.e., Europe
+versus Middle East versus Africa, what that outlook looks like. Obviously, with Europe having almost a higher share of relative
+importance to the other countries that make up EMEA.
+Expert 00:28:59
+From that perspective, I think the general outlook is Uber is either in more mature or established markets growing at about the
+same rate as competitors, whereas in the more emerging EMEA markets, which are more your Africa, Middle East, it's more of
+outgrowing the competitor.
+Analyst 00:29:28
+It varies by market and varies by product or service line.
+Expert 00:29:39
+Yeah. Usually. There's no presence of, for example, food delivery in Middle East for Uber Eats.
+Analyst 00:29:55
+Sure. Do you get a sense that Uber is emphasizing, or the strategy internationally is more on rideshare or on delivery, or is it very
+speciﬁc to the individual markets?
+Expert 00:30:11
+It's very speciﬁc. The thinking is to prioritize one business line over the other. It's very speciﬁc to the speciﬁc market conditions of
+that country. For example, as you might have seen in some of these statements, Germany launched food delivery quite "late" in
+terms of the other food delivery players quite late in Germany, about two or three years ago. The rideshare business has been there
+for a while. There's no prioritization of one business line over the other as a general global strategy. It's more market by market
+depending on the diﬀerent regulations and conditions to operate, overindexing on one versus the other.
+Analyst 00:31:12
+Just tying everything together, to go back, you talked about the evolution of food delivery, the four key changes 2018 when you
+joined the nascency, but came then selection, speed, experience. We had COVID where it was a big shift to everyday essentials
+and convenience items due to the lockdowns and expanding beyond that. It came down to diﬀerentiation and then speed.
+Analyst 00:31:42
+You talked about the shift then to online and last-mile fulﬁllment, and then overall, it came down to proﬁtability. That was done
+through a combination of operating leverage and eﬃciency and then a shift to more advertising to augment margins as it
+became a bigger mix of business. Within EMEA itself, it's a mix of rideshare and food delivery. Split in terms of rideshare versus
+delivery. Probably sounds like it will outgrow other areas of the world just oﬀ of a lower base.
+Analyst 00:32:17
+I think that Africa is a smaller mix, particularly in food delivery, more nascent. Just me reading between the lines that maybe,
+perhaps can outgrow some of those growth rates, but sounds like in EMEA, I think they could continue to sustain a double-digit
+growth rate, get some operating leverage, particularly as the mix of business shifts to advertising, they grow with it.
+Analyst 00:32:42
+You think that the opportunity here, it's still somewhat earlier stages, particularly relative to U.S. or some of these other markets
+so they can continue to grow there, but it will come down to how much they can grow the mix of business, these eﬃciencies we
+talked about before.
+Analyst 00:33:07
+Autonomy is certainly a topic of discussion that's come up. The playbook going forward, it varies by region or subregion. It's
+harder to piece it together, but you think that depending upon the market, there's some opportunities for Uber to grow in those
+markets. That's just meant to be a quick summary. Is that fair?
+Expert 00:33:35
+Yeah. That's it.

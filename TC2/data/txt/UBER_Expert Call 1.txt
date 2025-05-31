@@ -1,0 +1,662 @@
+Page 1 of 15
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.
+COMPANY DEEP-DIVE
+Former Uber Executive Believes Partnerships and Waymo's Growth Are
+Key to Autonomous Driving Success
+DATE PUBLISHED
+19 May 2025INTERVIEW DATE
+05 May 2025EXPERT PERSPECTIVE
+FormerANALYST PERSPECTIVE
+Investor-Led (Buy-Side)PRIMARY COMPANY
+UBER
+Summary
+The conversation between the client and the expert delved into the engineering, partnership, and economic implications of autonomous driving for
+companies like Uber and Waymo. They discussed the success and challenges of partnerships between Waymo and Uber, the potential impact of Waymo's
+growth on Uber's market share, and the importance of partnerships in the transportation industry. The conversation also touched on the potential shift
+towards driverless vehicles, the impact of macroeconomic factors on ride-sharing companies, and the competition within the autonomous driving and food
+delivery sectors. The expert suggested holding onto Uber stock while considering investing in Waymo.
+Table of Contents
+Uber's Autonomy And Robotics Team
+Partnerships And Market Presence
+Uber Eats And App Dynamics
+Waymo's Impact On Uber's Market
+Autonomous Vehicles And Economic Implications
+Coco Robotics And Delivery Economics
+Lyft's Position And Market Competition
+Future Strategies And Partnerships
+Investment Outlook And Market Predictions
+Expert Bio
+Former Global Business Development, Autonomous Mobility and Delivery Partnerships at Uber Technologies Inc., leaving in January
+2024. This expert can speak to global business development strategy, autonomous vehicle partnerships, last-mile delivery
+innovation, mobility-as-a-service (MaaS) models, and strategic alliances in the transportation and logistics sectors. Founder and CEO
+at Bubbl. Founder at Total Heliski. Former Director at a Rideshare Company, leaving in January 2024. The expert was responsible for
+leading global autonomous vehicle strategic partnerships for them. The expert also worked with several robotaxis and robotic
+delivery companies to launch services on the Uber platform. Former US Intelligent Edge IoT Scale Lead for the Industrial Sector at
+Intel, leaving in September 2022. The expert was responsible for creating strategic ‘whale’ partnerships for a completely new
+partner type for Intel to scale revenue to 350% of targets and provided thought leadership on IT/OT to industry from Intel. Driving
+strategic execution of digital transformational initiatives for Intel to support industrial integrator partners to scale Intel-friendly
+edge compute and AI solutions into the energy, oil and gas, renewables, discrete and process manufacturing, government, smart
+cities, transportation, and smart buildings sectors. Leading cross-functional teams to deliver these initiatives across Intel and
+partner organisations including sales, product, engineering, and marketing. Embraced a steep technical learning curve.
+Employment History
+Bubble (Private)
+Founder And Chief Executive Officer • January 2024 - Present • 1 yr, 4 mosRelevant Role
+Bubbl (Private)
+Founder and CEO • January 2024 - Present • 1 yr, 4 mos
+CyberProtonics (Private)
+Angel Investor • September 2023 - Present • 1 yr, 8 mos
+GreenTek, LLC (Private)
+Angel Investor and Advisor • May 2023 - Present • 2 yrs
+Page 2 of 15
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.
+Uber Technologies Inc. (Public)
+Global Business Development, Autonomous Mobility and Delivery Partnerships • September 2022 - January 2024 • 1 yr, 4 mos
+GreenVault (Private)
+Angel Investor and Advisor • May 2022 - Present • 3 yrs
+Intel Corporation (Public)
+Assistant Executive in Residence, Intel Incubator • December 2021 - September 2022 • 9 mos
+Monogram Technologies Inc. (Public)
+Angel Investor • December 2021 - Present • 3 yrs, 5 mos
+Intel Corporation (Public)
+US Intelligent Edge IoT Scale Lead for the Industrial Sector • May 2020 - September 2022 • 2 yrs, 4 mos
+Intel Corporation (Public)
+Senior Partner Business Development Lead- Optane Technologies • October 2018 - May 2020 • 1 yr, 7 mos
+Interview Transcript
+Client 00:00:00
+Hi. Thanks for taking the time to talk with me. I am interested in learning more about Uber Technologies. Starting oﬀ, how big is
+the autonomy and robotics team at Uber? My understanding is almost all of that, the actual hardcore engineering work, is
+happening at third-party companies you guys are partnering with today. There's not any hardcore engineering going on at Uber
+on the autonomy robotics side, obviously, of engineers.
+Expert 00:00:26
+There is engineering going on on the platform to integrate what they need, and there is engineering going on with respect to
+customizations that have to happen for an autonomous delivery or ride. There is deﬁnitely engineering at the edge. To your point,
+the engineering team, at least when I was there, was not that big. The product and engineering team is pretty small, pretty lean,
+because really what they're doing, their strategy is not to develop any vertical solutions, but just build a platform that people can
+plug into.
+Client 00:00:59
+Got it. When I say engineering, I mean strictly to autonomy and robotics, they're not doing any of that.
+Expert 00:01:05
+Correct.
+Client 00:01:05
+Integration, sure, but that's not that complicated scheme of what Waymo's doing, what Tesla's doing, for example. Having said
+that, there're still a lot of people like yourself and many people that work on in these divisions speciﬁcally regarding integrating
+new companies, new products, and services into Uber for mobility and autonomy. How big is that? How many people are
+speciﬁcally focusing on the future of the Uber platform and how these things might be plugged in?
+Expert 00:01:34
+If I was guessing, overall, it's less than 50. There's a P&L division that's the operations division. When I was there, there might have
+been less than 10. There's product, then there's engineering. I forget if product was in his team, it might have been in the ops team
+but engineering is deﬁnitely not in the ops team, it's in another team. They deﬁnitely had one dedicated person running the
+engineering but I'm trying to work out how many engineers there were.
+I obviously didn't see them all, but meetings I was in, I got the impression it was integrated into someone's job. For example, there
+was a mapping guy and his job was mapping, but he spent a lot of time working on autonomous engineering.
+You've got marketing and you've got business development of which wasn't part of the P&L either. It's like a service arm, which is
+what I was doing. It's like legal, the service arm, HR is a service arm. You had other people I guess in the business development and
+sales people who the AV group relied on to be able to try and sell. You can't just launch an AV service sometimes at least in food
+delivery. It's a three-sided marketplace. You have to get agreements with basically McDonald's and people like that. Given that this
+is a delivery focused call, that's worth mentioning. That was much heavier.
+Page 3 of 15
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:02:55
+I'd say this is delivery. This is also mobility. I would think I would keep the call broad. Probably less than 50 people total working
+on autonomous robotics across engineering, product development, and business development, you name it.
+Expert 00:03:10
+No one working on robotics, I would say that would be zero.
+Client 00:03:13
+Yeah. It's all autonomy.
+Expert 00:03:15
+Yeah.
+Client 00:03:15
+That makes sense. These are a couple high level questions to start with. You were director of business development. What were
+you really focused on?
+Expert 00:03:23
+I was focused on managing existing partnerships and forming new ones for AV delivery and ride. I also did some maternity
+coverage for rent, which was unrelated to AV, but I deﬁnitely did that as well.
+Client 00:03:36
+When you say partnerships, which partners? Obviously, you guys are three-star marketplace. There's all sorts of diﬀerent types of
+partners you have.
+Expert 00:03:44
+The partnerships that I was responsible for were the actual AV partners, the Waymos, the Serves, those people.
+Client 00:03:51
+The actual providers of the autonomy.
+Expert 00:03:53
+Yes.
+Client 00:03:53
+That makes a lot of sense. Just to get a lay of the land, today, my understanding is Waymo is the main partner and they have
+launched a slew of partners the past three or four weeks. As far as revenue generating miles, it's just Waymo is my
+understanding. I think Uber and Waymo are partnered today in Phoenix and Austin. I think maybe sometime next year, later this
+year it'll be in Atlanta as a third market. Is that accurate?
+Expert 00:04:19
+I think so. Didn't I read that they were going into Atlanta with Moove, which is an African company? I thought it was deﬁnitely Austin
+and Phoenix.
+Client 00:04:28
+I think they went with Moove in Miami.
+Expert 00:04:31
+Sorry, Miami, yes, you're right. It was Atlanta. That's right. Correct. Thank you. They were doing Moove in Miami and Austin and
+Atlanta with Uber.
+Page 4 of 15
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:04:39
+Phoenix and Austin is where all the data is coming.
+Expert 00:04:43
+That's right.
+Client 00:04:43
+Got it. As far as Uber Eats, I think that's just Phoenix?
+Expert 00:04:47
+I think so, yes. Today. When I did it, it was there.
+Client 00:04:50
+Okay. Again, these are all pretty broad questions. Obviously, there's an Uber app and there is an Uber Eats app. There's about six
+or eight services available on the Uber app. On the Uber Eats app, there's just one service, of course. Of course, the majority of
+Uber Eats revenue, the GMV, comes to Uber Eats app but some portion comes on the Uber app because that's the whole point of
+having multiple app for lead gen. Portion of the orders or revenue of Uber Eats comes from the Uber Eats app, like Uber Eats on
+the Uber app versus Uber Eats on the Uber Eats app, if that makes any sense.
+Expert 00:05:25
+Yeah, I don't know. That's a great question. What percentage of business comes in from someone opening the Uber Eats app versus
+someone opening the Uber app, not an Uber Eats? Is that what you mean?
+Client 00:05:37
+Yes, exactly.
+Expert 00:05:38
+have got to be honest, that is a question I have never been asked and I do not think I have the answer to.
+Client 00:05:44
+You think it's less than 5%?
+Expert 00:05:46
+Who opened Uber Eats?
+Client 00:05:47
+Yeah.
+Expert 00:05:48
+I agree to my app.
+Client 00:05:49
+I just use Uber. I don't understand the point of Uber Eats.
+Expert 00:05:52
+I don't either. By the way, I believe they go to the same place. I believe that once you select your breath, it goes to exactly the same
+place.
+Client 00:06:01
+I'm sure it does, but I have a follow-up question with that but it's not about that.
+Page 5 of 15
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:06:06
+Okay, what's the follow-up question? I would think it's higher than 5% go to Uber Eats.
+Client 00:06:12
+I would imagine more than 5%.
+Expert 00:06:14
+I would imagine it would be like 35%. I don't know. I know what I do. I just open the Uber app.
+Client 00:06:20
+Yes. I don't know why someone ever uses Uber Eats app. What are you accomplishing?
+Expert 00:06:25
+I wonder why they had it. It's a good question. By the way, the CCO of my new company is ex-Uber, and I think he was the guy
+behind that app, so I could ask him, but not in time for this call.
+Client 00:06:37
+Yeah. Let's just make it simple and say that the Uber app is important to Uber Eats. I don't know what portion of revenue drives,
+but it drives a fair amount of portion. It is important. Obviously, the Uber Eats app is important to Uber Eats too, but the Uber
+app is important to Uber Eats. Fair? Probably fair?
+Expert 00:06:56
+Yes. The Uber app is important to the Uber Eats business, 100%. I would treat them as equally important because otherwise they
+would've retired one. Maybe they're worried that if someone deletes it that they'll not download the other one or something like
+that. They probably got too many users and they don't want to mess with it.
+Client 00:07:17
+For sure. The natural follow up of course is that in these markets where Waymo already has substantial penetration, mostly the
+Bay Area and Phoenix and Los Angeles, and maybe all at the same time, people are going to stop opening the Uber app and that
+aﬀects both Uber and Uber Eats. For anybody who also has DoorDash, they stop getting in the habit of opening the Uber app and
+seeing Uber Eats next to them. They might just lose mind share. Uber Eats will lose mind share because of the eﬀect on their
+sister company or their sister product in Uber.
+Expert 00:07:51
+Did you just say if AV deliveries are oﬀered only on the Uber app? What did you say, sorry?
+Client 00:07:56
+Sorry. What I'm saying is that I'm thinking about a scenario where people just obviously go right to Waymo app or any other AV
+app and because they're not opening the Uber app anymore, they're also going to be a lot less inclined to naturally switch over
+and think about Uber Eats as much because they're looking at Uber Eats the whole time or at least they're quickly glancing at or
+they'll be reminded of it at least. Waymo is a big threat to Uber Eats indirectly as well. Fair?
+Expert 00:08:26
+Yeah, I hear what you're saying.
+Client 00:08:27
+People have a Target app, they have an Amazon app, a lot of people have Uber Eats and DoorDash apps. You start thinking about
+Uber less and, I'll use DoorDash, the mind share starts to fall a bit.
+Expert 00:08:39
+I hear what you're saying. I think hardcore Waymo users, it would be interesting question to ask them what app they use for food
+delivery. What I do know is that Waymo doesn't have a loyalty program. Both Uber and Lyft have loyalty programs that align with
+food delivery. UberEats has Uber One to try to keep all your business on Uber. DoorDash has the credit card with Chase and Lyft.
+Lyft partnered with DoorDash. I think the DoorDash piece is very strong for Lyft. That was a good move because now they're
+Page 6 of 15
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.formidable against Uber. The two are paired together, but they are diﬀerent brands. The question is where Waymo is stealing
+business from. Is it Uber or Lyft or both?
+Client 00:09:21
+Yeah, it makes sense. It's not the core part of my questions, but it seems like something interesting on the margin that could
+aﬀect the ﬁnal usage.
+Expert 00:09:30
+I'll tell you one thing, that it's fairly diﬃcult for Waymo to do Eats deliveries without Uber because they do not have that third side of
+the marketplace and probably do not want to build it, at least not yet. You might get those deliveries happening on Waymo, but
+Uber is not going to let Waymo do deliveries on their app. They'd have to do it on Uber Eats.
+Client 00:09:52
+That makes sense. Hoing direct to that point, when you think about Waymo on Uber versus Uber Eats on Waymo, either way, you
+get my point, what do you think the feedback has been like? How do you think these partnerships have gone so far?
+Expert 00:10:06
+I think people who do the autonomous rides quite like them. When I was there, it was at the start. That's really an interesting
+question too because I know that people that use Waymo here love it and there's a lot of Waymos riding around, but I also know
+that Waymo is doing a huge push right now with advertising and promotional oﬀers. They gave me a free $15 ride the other day. I
+was already a user. I got oﬀered a ride for free. I think Waymo are trying to test all the levers to grow with promotions just like Uber
+was doing.
+With respect to how it's going on Uber, from a customer experience point of view, I think the rides were much easier to get right
+than delivery. From when I was there, we hadn't launched Waymo rides at that point. I think we'd only launched the other ones,
+Motional.
+I would imagine it's going well because I think people in Phoenix were already quite used to AV rides. It's all about what people are
+used to. There had been a lot of operators doing rides in Phoenix for a long time. In fact, Waymo had been doing them for a long
+time already and I think they just brought Uber in. I can't imagine that the rides were really perceived any diﬀerently because I do
+think that Uber probably has done a pretty good job of the UX UI.
+That being said, I personally took a Waymo ride the other day on Uber in Austin and I got frustrated, and I should have known this
+because I did the partnership, but I had a lot of luggage and I happened to be moving hotels but it was the one Uber ride that was
+not the one to oﬀer me and I still accepted it not thinking. The thing arrived 100 ft. around the corner up a hill and I had all this
+luggage and I could not tell the guy to turn around and come back to me. I had to go up the hill to get it. They don't say the drop
+oﬀ.
+What they did wrong was they should have said, "This ride is going to arrive 100 ft. from your house. Is that okay? Do you still want
+the Uber ride?" They didn't emphasize the diﬀerence in the ride, which was the pick up and drop oﬀ. I'm a dumbo. I worked there. I
+should've known this. I was laughing about it because we had all this luggage, we were taking from activating my new company. It
+was lots of luggage, like suitcases and suitcases. I thought to myself, "See that's a basic fundamental thing that they should've put
+in the U.S. by now." I don't know why I didn't.
+I do think people are getting surprises but the fact is people really enjoy the ride in a Waymo and I think that's the piece that mostly
+they care about probably rather than the hailing with the exception of the pickup and drop oﬀ location.
+Client 00:12:50
+Yeah. I use it probably once, twice a week.
+Expert 00:12:53
+You use Waymo?
+Client 00:12:54
+They're absolutely everywhere.
+Expert 00:12:55
+Yeah. Are they doing the pickup drop oﬀs close to your house or not?
+Page 7 of 15
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:13:00
+Yeah, they do it probably within 15 yd, 20 yd. Pretty close.
+Expert 00:13:04
+That's really good. This was around the corner and up a street. The weird thing was I couldn't work out why. The place that stopped
+for me, the street we were on, there was absolutely no reason why they couldn't have stopped in front of the house. I'll be honest,
+that's probably why I didn't really think about it. It was weird. The pickup drop oﬀ was weird.
+Client 00:13:26
+Got it. When you think about the core of this, as Uber switches from human-facilitated rides and deliveries to autonomous rides
+and deliveries, what is the economic uplift that you and your team are seeing and obviously using to justify all of this work in the
+business model? How big is the beneﬁt? That's all this is about.
+Expert 00:13:45
+The biggest long-term thing is we don't want to become Kodak. That was the long-term thing. The uplift is meant to be that it's
+going to be cheaper to provide a ride and also people don't have to tip, that's the other thing. It's technically going to be cheaper
+overall to provide a ride which means it's going to upheaval car ownership and people taking more rides because it's cheaper.
+Basically, disrupting car ownership was the big thing in cities. I think that is playing for the whole industry. I don't think it's just Uber
+that's thinking this way. I think the automakers need to be thinking this way if they're not already.
+We already know that the sharing economy is growing really fast with the younger people. People are used to sharing and they like
+sharing. Car ownership is not as heralded, it's not as needed by younger people. The ﬂexibility to not have to have a car to sell, be
+locked into a lease, all that stuﬀ. It's very viable that if you bring in autonomous rides and they become 30% cheaper because you're
+not paying a driver and even when you obviously amortize with the tech and everything and it's going to be overall a much more
+used service. That's the main crux of it. It's grow the market for Uber and it's not becoming Kodak and losing all your business to
+Waymo.
+Client 00:15:06
+Got it. That didn't really address my question at all just to be clear.
+Expert 00:15:10
+It didn't? Sorry.
+Client 00:15:11
+No, I don't think it was intentional. You're addressing the rationale for sure. Let's just keep it really simple. Uber's economics, it
+varies a lot, but you guys keep something like 40%, 30% when I talk to drivers, give or take.
+Expert 00:15:25
+40% or 50%, but yeah.
+Client 00:15:27
+Obviously, that going up or down would change your model. The driver keeps the other 60%-50%. In a Waymo partnership or any
+other AV, the point is that Uber is demanding they keep their same share, presumably. Maybe they're not. You tell me. Waymo
+says, "We want to be paid the exact same share per human that had their own car was making before," essentially. How diﬀerent
+is that from what's happening? I'm just guessing, of course.
+Expert 00:15:53
+It is very hard for me to talk about speciﬁcs of any deal. I can't talk about really that even now.
+Client 00:15:59
+Just as a philosophy of Uber.
+Page 8 of 15
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:16:01
+Let me explain the dynamics. As a principal, here's what the two parties were caring about, because when they did the deal that I
+did, there were a lot of unknowns, including the success of Waymo in San Francisco. What Uber cared about, could Waymo service
+the ride? If we oﬀer you the ride, you've got to be able to service it and you've got to be able to be the level that you can service it.
+What Waymo cared about is are you going to oﬀer us enough rides?
+Both parties were like, "We can have utilization of our cars. Are our cars going to get used?" is what they cared about and Uber
+cared about, "If we build all this tech and put you on and everything, are you going to be able to service the rides or are you going
+to give us enough rides? It's not just service them, but are you going to give us enough of rides?" Both of those things, can you
+service them and will you give them enough of them? Obviously, apart from that, safety. Is it safe and is it going to be a good user
+experience?
+When it came to the arrangements, whatever we did in the short term was never going to be reﬂective of the long term. Say, for
+example, one party pays the other money. This is not presidential. I think the way that Uber views all of its partnerships and it would
+view it with them would be ultimately a rev share. What that rev share would be would be a function of, I think market power of
+each party ultimately and the more successful Waymo gets, probably the more powerful they get in that negotiation, especially if
+we don't have any other partners.
+Uber's obviously never going to do anything that is going to do two things. One, jeopardize their driver market right now because
+their drivers are really still the most important thing to them right now for Uber. They weren't going to do anything to jeopardize
+that, including in the UX UI, including the ability to ﬂag. At least you couldn't in the old days, you couldn't ﬂag a Waymo. I don't think
+you will be able to for some time.
+They want to protect the drivers. They don't want their drivers to feel like they're going to lose the chance to get a Waymo. Uber, a
+lot of their tech is all about making sure that they can oﬀer rides and match them, etc., and give people the experience and not let
+them know they're going to have it and all these things to try and consider not alienating drivers.
+In terms of like rev shares and whether they would give them everything, here's the thing. Maybe there's a question about volume,
+"Okay, give us this city and that city and then we'll give you a better deal." I bet you it's a volume deal kind of thing, probably
+ongoing. A lot of these terms had not been decided by the time I was there. Both companies had to go in it with the partnership
+idea that knowing that they co-opposition. I think Uber realized that they had stronger market power earlier.
+Client 00:18:58
+Got it. The $64,000 question is, Los Angeles and San Francisco directly compete with Uber for Waymo obviously. The question is,
+will Waymo capitulate and be forced to abandon their own app and have to launch on Uber as they have in Austin? Now, the
+unique thing is, for some reason, in Phoenix, right now, Uber partners with Waymo and competes with Waymo, which is a
+fascinating market case study. They do all of it. They compete with them and they partner with them and obviously, Uber Eats is
+very tightly integrated and probably a really complex partnership.
+In San Francisco and Los Angeles, it's much more straightforward. They're just absolute enemies, just pure competition, straight
+up, very black and white. The question is, will Waymo have to capitulate because they can't get the utilization high enough or
+they can't scale it in some way and economics don't work and so they need to pivot and just partner with Uber as they have in
+Austin? What do you think is going to happen?
+Expert 00:20:00
+I get asked usually the reverse by lots of people.
+Client 00:20:03
+What's the reverse?
+Expert 00:20:04
+The reverse is that they build a strong thing, and they don't want to partner with Uber. They don't want to be on Uber.
+Client 00:20:11
+I'm asking that too. That's all implied. Will it happen? Will they have to? Do you think they'll have to?
+Expert 00:20:17
+I get asked, "Are they going to have to partner with Uber?" as if Uber is going to get their scraps. No one knows. San Francisco has
+been, I think, more successful than I could have imagined for Waymo. I bet if I open the Waymo app now, it'll oﬀer me some sort of
+deal, which is, I remember, what Uber was doing before, back in 2014. They're trying to scale, which tells me that they've got a lot of
+Page 9 of 15
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.vehicles. Maybe they've upped their vehicles and they need to ﬁll the vehicles because they're oﬀering a lot of good incentives, so
+they're taking it to the next stage.
+Of course, you know that on the adoption curve, you've got early adopters and then the next people, and then the next people. It's
+that bell curve. They've left the ﬁrst tranche. They're going to the second tranche. To grow their market, they're having to give more
+incentives to get those people who were less likely to do it to do it. I suspect that's where they are, and the more they invest in the
+vehicle. The question is, will they have to get rid of their own app and just use Uber? It's a great question, and I don't really have the
+answer.
+I think pretty bullishly, they've done a pretty good job in L.A. and in San Francisco. I think Waymo have done a remarkable job of
+building their own user base so why can't they do that everywhere else? They won't be able to do it as fast, though, as Uber can
+everywhere else. I think the Moove partnership was quite interesting, although my understanding is Moove's doing ﬂeet
+operations, and in Atlanta and Austin, Uber's going to do it. I'm surprised why they went with move and not Uber in Miami.
+Client 00:21:57
+Yeah, the more markets that Waymo launches, not to say independent, just independent of Uber, maybe they have other
+partners themselves, each new market they launch and get to breakeven, I don't know the timelines of breakeven, but gets to a
+line of sight to breakeven, their conﬁdence goes up, just skyrockets like, "Oh my god, we can do this. We can do this." I don't have
+the numbers. I have no idea.
+The one interesting thing with Waymo isn't at the mercy of in the same way, because they control that second side of the
+marketplace, which is the vehicle, the human is only necessary for the vehicle because the vehicle doesn't drive itself yet for Uber,
+is when you go from decay of network eﬀects, which we don't see very often in the economy. One of the scary things for Uber is
+when you start to see drivers leave the platform in San Francisco, and then it's over. Waymo wins the entire market, and Uber
+doesn't exist after that.
+Expert 00:22:53
+That's a function of the economy, if you ask me. I think the worse the economy gets, the better it is for Uber.
+Client 00:23:00
+No matter how bad the economy is, if there's no demand for Uber, who cares how bad the economy is?
+Expert 00:23:06
+Is that because people prefer the driverless? Is that what you mean?
+Client 00:23:10
+Yes. That's my experience in Los Angeles is people don't want to use Uber anymore. They just want to use Waymo, especially
+women because the safety factor. It's always interesting. There are very nuanced social dynamics of having male drivers that
+want to talk to girl, women. Not that it's nefarious, they don't want that nonsense. They have a 15-year-old daughter going to
+school. There's all these social dynamics like, "I don't want to awkwardly tell the Uber driver to turn down his music." These are
+very nuanced things socially that you can avoid. You can avoid them at the same price because Waymo is the same price
+basically, or within 10%.
+Expert 00:23:50
+Yeah. It's funny that you say that because I can get an Uber in two minutes, and sometimes Waymo is eight, and I never take
+Waymo.
+Client 00:23:58
+Yes, for sure. If it takes too long, it takes too long, I'm 100%. On the margin, it's deﬁnitely a better solution for the average
+human, I think.
+Expert 00:24:07
+The Waymo?
+Page 10 of 15
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:24:08
+Yeah. Do you think that's what Uber's paying the most attention to? As you said, the driver is the most thing, and if they start to
+see L.A. is not big enough yet, probably but an S.F., these drivers aren't getting rides because Waymo just takes more share in
+these little districts, little markets and then the decay is inevitable because you can't reverse the decay. It's not possible.
+Expert 00:24:32
+I think deﬁnitely when there's an event on, that doesn't happen. In a regular day it probably does happen. Let's think about why
+drivers are driving. I get a lot of them are driving full time. There are a lot of full-time drivers. They are relying 100% on Uber and
+maybe Lyft as well. Don't forget they're probably using Lyft. I don't think Uber is going to lose their driver marketplace. Like I said, I
+think if the economy goes down, they're going to get drivers.
+You raised an interesting point. In the past, I don't think Uber's had to spend as much money on user demand, consumer demand
+as they have on driver supply. I think they've had to invest more money on driver supply than they have on demand. It might start
+going the other way around if Waymo takes a big portion. I also think maybe more people are going to be likely to use it.
+Most days I open up the app, I'm talking about Uber now, it doesn't matter which one, and I don't get a shock about the price
+unless it's New Year's Eve, meaning I ﬁnd I can get a ride anywhere around the city for under $15 which is two coﬀees for the
+convenience because that's saving my other car, my Porsche.
+I think you've got to understand that also the Waymos, when there's a complication like there was with me, with my gear, I'm just
+saying, this did happen, I asked the Waymo to move, they literally had three people on the phone. They could not move the car 100
+ft. They couldn't do it remotely at all. Couldn't do it in Austin. I just think they work like clockwork when they work, but when they
+don't, they don't. I just don't think they've really got that scale yet. I don't think they've worked out how to scale that yet.
+Client 00:26:17
+That makes sense. I think what we didn't quite address was just the economic uplift. Yes, the TAM will increase. Yes, the price per
+ride or per mile will decline with autonomy. It's very straightforward how it's deﬂationary, but I think Dara said a number of
+times, and I don't know why it wouldn't be the case either, is that the business model, forget the size of the market, good
+businesses don't have to have big markets necessarily, gets better. It's a more proﬁtable business when you're not managing
+drivers and market drivers. How much better of a business is it, do you think? Is it marginally better? Is it notable?
+Expert 00:26:55
+I think it's substantially better. You don't have lawsuits. You don't have insurance claims. Insurance costs are the big ones.
+Client 00:27:03
+You said substantially better.
+Expert 00:27:04
+Okay, 20%-30%. To me, substantially better would be anything above 15% better or 10% better. Waymo just put out a thing saying
+it's way safer than a human driver. Of course, there's another factor here that we haven't talked about which is the price of money.
+If interest rates go really up and the price of cars and there's tariﬀs now, although not tariﬀs on American cars, but there's probably
+tariﬀs on cars that are Waymo, so if the price of vehicles goes up, the price of vehicle equipment and the price of money goes up,
+that means the price of holding ﬂeets goes up and the economy is bad because people are unemployed and it's high inﬂation, then
+maybe drivers are going to be cheaper. I reckon the macro economy might make an impact at least on a company like Uber ,and
+what its overall cost is. If you can attract a driver really easily but the cars are expensive to ﬁnance, don't you think that would
+change in the game?
+Client 00:28:04
+Yeah. That's a good point.
+Expert 00:28:05
+We all know that hardware is going down, storage is going down. Waymo is lucky they've got their own cloud company. Google's
+now really investing heavily in nuclear and other things to power data centers and things. They're all investing in renewable energy,
+which probably costs more today, but over time probably won't. I was in renewable engineer at Intel before Uber. That's a huge
+impact, by the way, on all of this, I think, ultimately.
+Page 11 of 15
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:28:33
+Interesting. I've seen partners like Coco Robotics have partnerships. I think they've established partnerships with both DoorDash
+and Uber, which is great for them.
+Expert 00:28:43
+I don't know if Coco did. Did they?
+Client 00:28:45
+Yep. They have partnerships with both DoorDash and Uber now. I've used Coco in L.A. and it's pretty good frankly. How do you
+deal with this restructure? Do you think they're all structured in the same way that a Waymo deal is structured, in a sense?
+Obviously, the terms are diﬀerent.
+Expert 00:29:01
+No, Waymo's a special deal. Waymo is the deal that we had to get done. I'm just saying Waymo is a deal that is very important.
+Client 00:29:09
+When was the deal? How did it do?
+Expert 00:29:11
+I'm just saying Waymo is a very important deal. Uber's core business is rides. No matter what they're doing and everything else, the
+core business is rides in the U.S. The idea of Uber building a platform is to facilitate multiple vendors of rides because if one gets
+too strong, then that's ultimately another Lyft in Uber's side, thorn in their side. Being able to work with Waymo is very important, I
+think. I'm in the mobile business too, I have been in the past, and tech companies need to work with the competition all the time.
+Uber has a lot of experience with [Serve]. I know they did something with Avride as well which does both robots and cars. Uber has
+a lot of experience now with the little robots. The robots can be a bit slow, but there are some good use cases like on campus for
+Coco, for example, and in small neighborhoods. Do you use them in L.A.? They do have them in Santa Monica, don't they?
+Client 00:30:07
+Yeah.
+Expert 00:30:08
+That's right. I didn't realize that. For Uber, it would probably cost them not much more to launch any robot company. The hard work
+was building the user experience for the robot, but they did that with Serve. For them to launch a new robot player is probably fairly
+easy. I know that Japan was quite interesting because I think they launched some stuﬀ in Japan when I was there. Asia, good
+markets for these sorts of robots.
+Client 00:30:34
+Yeah. I think you mentioned the other via a substantial improvement in the economics for Uber or Lyft or anyone when they
+adopt autonomy compared to their legacy methods, human-facilitated rides. Do you think that you'd see or they will see or they
+are seeing a similarly substantial improvement in economics on the food delivery side with Coco Robotics at scale, not necessarily
+at the moment, but incrementally?
+Expert 00:31:00
+Look, the restaurants hate the drivers in general. Restaurants don't get on with drivers. You know how there's this huge
+CloudKitchens business? You understand about that?
+Client 00:31:11
+Yeah, Travis' business.
+Expert 00:31:12
+It's a big deal because it means that the food's not really delivered locally like you do with a robot but obviously there's all these
+little local restaurants that will do it. Drones also maybe on the cards in the suburbs. The big deals, the volume deals, the
+McDonald's, the Chipotles of the world, they're not depending on the city, they're not always in locations that are like in the inner
+city.
+Page 12 of 15
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.You've got to still have the independent restaurants, which is why you need the relationships with the aggregators, like eat toast,
+and someone else they call. It is a very complicated business to integrate autonomous driving into delivery. It's quite complicated if
+you're going through these aggregators, because that's a third layer.
+That's the thing that's a bit of a thorn in the side of delivery. The other thing is the standards. Even though you don't have to tip, it's
+a much cheaper delivery, but it's still an expensive item. People don't want to have to leave their house to go get it. I don't know if
+anybody's getting in the elevators right now, but usually someone delivers it to your door in a city, same with the drop oﬀ, and then
+the restaurant having to take the food and put it in the thing. There's just a lot of friction in the whole process.
+I know that when I was there, they were looking at a runner model. For example, on Polk Street, there's all these restaurants and
+you couldn't really park a car on Polk Street, but you could park a car on a side street, have a runner but the robots will be too slow.
+Delivery is diﬃcult but delivery is a USP for Uber, if they sell delivery to Waymo, for example. I think delivery is a strength and it's an
+asset that Uber have. Lyft don't own DoorDash. Uber have that as a strength over Lyft when partnering with an AV provider.
+Client 00:33:03
+Yeah. That's a great segue with Lyft, which is all of these diﬀerent drivers of the business model are in their very early stages and
+we're of course looking for certain canary in the coal mine. We're looking in terms of inﬂection points across these business
+models. At a company that has an Uber, it might take quite a long time for this to show up because you just have so much
+revenue being generated in markets that are not in any way addressed by Coco or Waymo or any autonomy providers. They
+represent the legacy business whereas Lyft, they could see the eﬀect on their business model sooner from things like Waymo
+because they just don't have the diversity business model.
+Expert 00:33:44
+Yeah. They do have partners now with May Mobility. Lyft is going to be in a bit of trouble. It's interesting, when I was there, Lyft
+were on Google but Uber refused to go on Google Maps because they didn't want to be compared to Lyft.
+Client 00:33:59
+Uber didn't want to go into Google Maps because they didn't want to be compared to Lyft.
+Expert 00:34:04
+On pricing, yeah. Uber were in there originally years ago and then they took themselves out because they didn't feel the need to be
+there. They didn't need to be there to get business quite frankly. They didn't need Google. I look at that and I go, "Well, but Lyft did
+and Lyft is still there." Because they're not there, they're not being compared to Uber but Uber would not go anywhere head-to-
+head against Lyft. Back to Lyft being at risk of Waymo. It's interesting. I think all these companies can all work with each other, but
+Waymo aren't working that way with that many partners. It's always Uber announcing it.
+Client 00:34:42
+Yeah. Uber built their own Maps because of that. Is that what you're saying?
+Expert 00:34:46
+Did they? I don't know. They do have their own maps, don't they?
+Client 00:34:50
+Maybe they use Bing or something. I thought you just said that Uber doesn't use Google Maps because they want to be
+compared to Lyft.
+Expert 00:34:57
+No, I mean you can't get an Uber on Google Maps. I'm sorry, that's what I mean by that. They never wanted to be compared. They
+didn't need it. They didn't want it.
+Client 00:35:07
+They didn't want to be literally on Maps.
+Expert 00:35:09
+I don't know whose maps they use. I don't think it is Google. The relationship between Google and Uber has been tense because of
+past lawsuits. There's been tense relationships.
+Page 13 of 15
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:35:20
+Levandowski and all those guys.
+Expert 00:35:22
+I think it's the auto thing, wasn't it?
+Client 00:35:24
+Yeah, it was Travis's error.
+Expert 00:35:26
+Nasty lawsuits.
+Client 00:35:27
+Do you think that Uber is already seeing declines in revenue in L.A. and Phoenix, in the Bay Area, from Waymo, or is Waymo just
+literally growing the whole market for everybody?
+Expert 00:35:37
+I think they've seen it. I think they have. If it's true that I've heard that they're taking up potentially 20%. I don't know if that could be
+true, but having lived here, I live here. I see them everywhere. Waymo vehicles are everywhere. I don't know. 20% seems like a lot.
+Maybe it's 20% in peak times. 20% sounds like a lot but it was reported that it was 20%. I would have thought it'd be more around
+5%-10% but even that they'd notice. Even 5%-10% would be a huge impact on Uber. It would be very noticeable. Anything above 5%.
+Client 00:36:13
+That's probably a combination of the market growing a little bit but on net, the market growing a little bit and taking share from
+Uber and Lyft. That's probably the most likely conclusion.
+Expert 00:36:24
+Yeah. If you look at the use cases for Uber, it's commuter to the airport. It's the airport, it's commuter and it's social. You look at
+what's driving those. Since COVID, I argue more people are going to the oﬃce than they were during COVID. I'm talking about
+recent last ﬁve years. More people are probably ﬂying and traveling than they were. I would argue more people are socializing.
+More people are commuting than during COVID but less people than before COVID. Traﬃc's come back, it's real, it's here and events
+have come back. I just think Uber has a fairly good idea of what they should expect to see. In terms of in this market, whether it's
+impacted anyone not buying a car or not, probably not.
+What I want to share with you also, which I think is really important to say is that Uber are not just investing in this, they invested in
+a car share company as well and also rent. I was running rent BD and Uber very much look at their business as the whole mobility
+solutions, including scooters, including rental.
+Rental cars wasn't very big, but the car share business I think could be very big because that is the ultimate for Uber because you
+take a ride when you don't want to park and you take a car share when you have to go to Tahoe for the weekend. I think you want
+to look holistically at Uber's business from that perspective. That might be why they did car share. They probably ﬁgure, "Even if we
+lose some business to Waymo, we might get the car share business."
+There's one statistic that I think is important and it's I think it was in their annual report. I read it there at Q1. They have data that
+says that if people use two or more services, they become much more sticky to Uber. They do grocery delivery as well now.
+Client 00:38:13
+Got it. Over the next ﬁve years, let's imagine you're the CEO of Uber now, what do you prioritize? Dara, for what it's worth, all he
+has the position that Uber's in today. All he can do is best just to accommodate for the future. From my perspective, he's moving
+very quickly and being very aggressive. I think that's all he can do. That's the position Uber's in. If you were him or you were in
+his shoes, would you be even moving faster? Maybe you think he's moving too fast. Maybe you think it's less of a risk than he
+thinks, or maybe you think it's more risk.
+I'd love to get your perspective on what you'd be doing. Do you think this is an existential threat to the entire enterprise of Uber,
+Page 14 of 15
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.or at least maybe the mobility side, maybe not the food delivery side? Would you be doing everything you can every minute of
+the day to position this company because there's a non-zero, nontrivial chance that this just becomes Kodak?
+Expert 00:39:08
+I think that's true, the nontrivial chance. Uber's a global business, but like I said, the core market is U.S. rides. That's the thing.
+That's the holy grail they got to protect. I don't know how much Cruise they could have bought for if they could have bought Cruise
+but when Cruise went out of business, that to me was a feel because I was like, "Wow, they could have bought Cruise probably." I
+don't know why they didn't, but maybe they didn't because if they bought Cruise, then Waymo might have said, "No, see you later." I
+think Cruise has disappeared but have they disappeared? Are they going to pop up again somewhere else?
+I know that Mobileye are launching with May Mobility and Uber just did this interesting move with Volkswagen with Mobileye.
+Here's the problem, see with just Waymo, Uber needed some other people and I think they aggressively went after Volkswagen and
+Mobileye, but they're very much behind schedule. Those guys are behind with respect to the technology. They're not level ﬁve yet.
+You've got Zoox and you've got Cruise. Cruise have disappeared at least for now and you've got Zoox and you got Tesla. I would
+argue that by virtue of the fact that they've launched with VW might mean Zoox don't want to work with Uber nor Tesla. I don't
+think Tesla or Zoox would want to work with Uber. For that reason, I think they're up the creek.
+I think he's doing the right thing trying to get as many partnerships as he can. I would be surprised he wouldn't do any more
+investments in some of these companies like Cruise, bring them back to life. I think Uber needs proof. What Uber needs is more
+competitors for Waymo, and they need to oﬀer the best platform for that because then people are never going to want to open two
+apps or three apps. They're only going open two, Uber and Waymo, if it ends up being like that, or Uber and Lyft. I think Lyft have
+got more to worry about than Uber. By the way, if Lyft does decline, that business will go to Uber or Waymo, obviously so they'll
+grow from that.
+Client 00:41:12
+Yeah. Again, that decay and drivers can't get any revenue, they drive less. I have to drive less.
+Expert 00:41:18
+Putting on autonomous vehicles increases your liquidity because it increases the availability. It means that for a rider you can get a
+ride quicker. To your point, you might prefer the type of ride it is. The more Uber can keep their customers sticky and keep their
+liquidity up, the better. If that's not Waymo, that could be someone else because then Uber could become much stronger than
+Waymo.
+If Waymo only have Waymo and if Uber plus Cruise, plus this taxi company, plus this, plus this, plus this, then Uber's got a lot more
+liquidity. Not to mention if you're already using them for Uber Eats, you got your Amex credit card and you're using them for food
+delivery.
+Client 00:42:00
+Got it. My ﬁnal question, and thank you for your time by the way, right now Waymo is the only company in the world to my
+knowledge that has been able to launch at scale and do revenue-generating rides. Tesla's not too far away, but we'll see how that
+goes. There's a lot of people fairly close in China, but not the scale that Waymo is.
+That being said, Dara and Uber, they've struck at least four or ﬁve diﬀerent partnerships with Waymo equivalents in the last few
+months with the goal of getting partnerships live and generating revenue within the year. The partnerships are all forming very,
+very quickly. My bullshit detector goes oﬀ and says there's no way there's four other companies in the world that are already at
+Waymo's technological parity. They can just replicate Waymo on behalf of Uber in the next eight months. That seems absurd. The
+Volkswagen partnership.
+Expert 00:42:53
+I don't think Mobileye are anywhere close personally.
+Client 00:42:56
+You're telling me May Mobility is ahead of Tesla? Get the fuck out of there. Ahead of Waymo? What are they doing?
+Expert 00:43:02
+All I saw was a lot of them collapsed like Motional. Nuro went into a licensing model and then Uber invested in Wayve, which is
+bringing it to any car. I thought that was interesting. Cruise to me was the big upset. That's why I think Cruise are going to pop up
+again somewhere. I really do think they will. I think someone needs them. I was surprised but not surprised that Uber didn't buy
+them. Maybe Uber's trying to resurrect them somehow. It would be in Uber's interest that they get resurrected.
+Page 15 of 15
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:43:33
+That makes sense. You need another neutral player. Anybody outside of Waymo helps Uber. Basically, anyone who's not Waymo
+and maybe not Tesla is good for Uber, I think. Where do you think Uber is in ﬁve years? If you had $100,000 in stock, would you
+sell today and just say, "This is too hard, this is a really unknown future?" Would you hold it? Would you want to buy more? Would
+love to know your perspective on how you think.
+Expert 00:44:00
+I think Uber has a really strong brand globally and that includes Latin America, they're very big in Brazil, Australia. Uber has a very
+strong brand. Uber's fought hard to get where they are. They are also fat, heavy, great meals down at head oﬃce, expensive, and
+the drivers are pissed. They take up to 50% of what the drivers earn. I do think if there's a bad economy, I think Uber will do well.
+Just say if they did launch ﬂeets with Volkswagen, those ﬂeets could start driving well soon. Back to the cars from Waymo, obviously,
+they've got to ﬁnd capital and scale and launch in each market and sole ﬂeet operations, which we haven't talked about, but ﬂeet
+operations and who is going to run that?
+We didn't talk about ﬂeet operations, but I think that's a strategic component of the rides that we haven't talked about, but I think it
+was talked about when I was there. Should we get into it? Should we not? If I look at airports and I compare them to planes, the
+airport function is extremely strategic and it's obviously independently outsourced and that is what Uber could do. All the airlines
+operate out of the same airport, just like they could with these rides.
+I think there could be a role for Uber to play in the management layer of the cars that maybe they'll be asked to do. Think about all
+these small players. They have to have their own ﬂeet ops. Guess what? They're probably not going to want to pay for that. Guess
+what? They're probably going to need that from Uber or partnerships that Uber drivers. For Uber to become that, it's not just the
+act itself, it's the operations too.
+Client 00:45:39
+I appreciate that. Just to keep it concise with the time I have. If you had that money, what would you do?
+Expert 00:45:45
+Buy or sell, you mean or just hold?
+Client 00:45:47
+You feel comfortable, you hold it like, "Yeah, I'm happy having my capital at risk in this business where the next ﬁve years." You
+go on an island, you cannot sell those shares for ﬁve years. It's an illiquid market for ﬁve years, completely illiquid.
+Expert 00:46:02
+Yeah. I'd probably buy Waymo and hold my Uber.
+Client 00:46:06
+You would hold the Uber? Okay, yeah, there you go.
+Expert 00:46:08
+I don't think Uber's going anywhere fast in ﬁve years. I think Uber could have the platform that everyone wants to be on. I think
+competition could enter. The other challenge is in ﬁve years there's Uber, Waymo, Tesla, and Amazon. Can the market hold four
+businesses? You know what? I might sell some of my Uber stock I'd say if in ﬁve years. I don't know if I'd buy Waymo with the stock I
+sell though.
+The risk of Uber is if Tesla and or Zoox come in and don't partner with Uber, then you've got multiple players and Amazon are
+formidable, but they're behind as well. The only ones that are really up there is Waymo, I think right now. Then again, AI is moving
+so far so fast.
+Client 00:46:50
+Absolutely. Thank you for taking the time to speak with me. Have a nice day.

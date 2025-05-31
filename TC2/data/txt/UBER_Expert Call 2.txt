@@ -1,0 +1,356 @@
+Page 1 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.
+INDUSTRY OVERVIEW
+Former Manager Believes UBER and LYFT Can Grow Bookings and AV Will
+Be an Initial Tailwind for Rideshare Companies
+DATE PUBLISHED
+24 Apr 2025INTERVIEW DATE
+18 Apr 2025EXPERT PERSPECTIVE
+FormerANALYST PERSPECTIVE
+Investor-Led (Buy-Side)PRIMARY COMPANIES
+UBER
+OTHER COMPANIES
+LYFT DASH
+Transcript Highlights
+Expert believes Uber and Lyft can continue to grow bookings in coming years and is more conﬁdent in Uber than Lyft given less
+reliability in results and outcomes.
+Expert thinks rideshare should continue to grow in coming years; AV should be a positive for the industry until the ops side
+including insurance, regulations, etc. is ﬁgured out.
+Food delivery does have some natural synergies with rideshare which has beneﬁted Uber.
+Table of Contents
+Airport versus non-airport ride trends for Uber.
+Limited growth prospects in core mobility.
+Future of rideshare and food delivery markets.
+AV partnerships shaping Uber and industry stance.
+Key technological hurdles facing mobility sector.
+DoorDash’s strategic position in delivery space.
+Uber’s role in rideshare and delivery leadership.
+Lyft’s stance in rideshare and delivery segments.
+Lyft’s scaling ambition in European markets.
+Potential acquirers circling around Lyft.
+Expert Bio
+Expert was a Manager at Uber, responsible for competitive intelligence, tracking market share, using data for trends, headcount
+needs, road mapping, running delivery business reviews. Expert reported to a VP, ~2 levels from the C-suite.
+Employment History
+Unemployed (Private)
+Unemployed • August 2024 - Present • 8 mos
+Boston Consulting Group (BCG) (Private)
+Summer Consultant • June 2024 - August 2024 • 2 mos
+Uber (Public)
+Manager, Strategy & Planning • September 2022 - May 2023 • 8 mosRelevant Role
+Uber (Public)
+Chief of Staff, US&C Delivery • September 2022 - January 2023 • 4 mos
+Uber (Public)
+Senior Associate, Strategy & Planning • February 2021 - September 2022 • 1 yr, 7 mos
+Page 2 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.
+Uber (Public)
+Strategic Operations Manager • May 2019 - February 2021 • 1 yr, 9 mos
+PepsiCo (Public)
+Corporate Strategy • July 2018 - May 2019 • 10 mos
+Interview Transcript
+Analyst 00:00:00
+The call will be recorded so it can be transcribed. Second, you understand the deﬁnition of material non-public information and
+agree not to disclose such information during the interview. You conﬁrm you don't have a non-disclosure agreement or anything
+preventing you from speaking about the companies discussed today on the call. If there's something I ask you and you can't
+answer just let me know and we can move on. Finally, you agree not to discuss details of your current employer. Do you agree?
+Expert 00:00:23
+Yes.
+Analyst 00:00:26
+Great. The focus of the call today is on rideshare and food delivery, leaning on your experience formerly at Uber. Would love to
+get your perspective on both Uber and Lyft, then the industry overall, so three topics. One is to get your perspective on the
+evolution of both rideshare and food delivery, how it got to where we are today and what you think the outlook looks like going
+forward separately, independently, but also together.
+Analyst 00:00:55
+Second would be to get your perspective on the evolution of Uber and what you think the outlook looks like going forward,
+where they lean in, what happened to them, so both from an industry as well as speciﬁc to Uber. Similar question for Lyft, how
+they've evolved and how they're positioned. They've been focused solely on rideshare. What do you think happens to them? They
+just announced an acquisition in Europe but they have a partnership with DoorDash, what do you think happens with them?
+Before we jump into those topics, can you just quickly walk through your career background experience?
+Expert 00:01:35
+Sure. In terms of relevant experience, I spent about four years at Uber. Joined right before the IPO and then stayed through 2023.
+Was primarily focused on the delivery side of the business within the U.S. and Canada, which is, as you can imagine, the largest
+segment for delivery globally. At one point, I don't know what the numbers are now, but it was about 25% of gross bookings for the
+company. Worked in that business during hockey stick growth of COVID and quite an evolution, I would say, from being more of a
+nascent business to now I'd say mid-stage in terms of its development.
+Expert 00:02:25
+Focused a lot on competitive intelligence, industry research, I hesitate to say corporate strategy because it wasn't at the corporate
+level, but potentially segment-level strategy, strategic initiatives, and things around governance, etc., so helping prepare materials
+for investors, things like that. Had a lens into how the C-suite was thinking about the business and the outlook. That's my
+experience. Maybe I'll tackle your question around mobility ﬁrst since I know you said you're more interested in that.
+Expert 00:03:13
+Of course, mobility obviously started ﬁrst and so I would say it's much more mature. I think really now there's a lot of talk about
+autonomous, which has been interesting to see in the last couple of years. I think two years ago, obviously, Uber had divested its
+autonomous division to Aurora. It wasn't a huge focus. There was a fairly small team when I was there, sub 10 people working on
+partnerships with some of the big autonomous players but very, very small number of rides. Something that was being done with
+an eye towards the future, but certainly not a company priority or a major company priority, I would say.
+Expert 00:03:56
+I think now fast forward two years, you see even just in the latest investor materials and things that's just very much front and
+center. I think that really marks a big strategic shift. I think in developed markets like in the U.S. and Canada, etc., Uber was able to
+improve its take rate in the last few years through some strategic things which have deﬁnitely been talked about publicly in terms of
+proactively acquiring drivers, spending quite a bit on incentives to bring them back to the platform post-COVID, which positioned
+Uber to have much better of a product in the last few years, much better experience.
+Expert 00:04:46
+Also allowed them to steadily ratchet up that take rate in the last few years, not massively, but somewhat. I think where we are now
+is I don't see that there's that much opportunity in the mobility space for continued increases in take rate. I think there's potentially
+some ﬂexibility around pricing, but that there's a lot of focus in the industry overall on aﬀordability given all the consumer
+sentiment uncertainty and things like that.
+Page 3 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:05:26
+I think that there is going to be continued areas, separate from autonomous, to continue to drive margin expansion. I think Uber
+Reserve was a big initiative to do that. The airport experience where those rides are quite a bit more proﬁtable. Thinking about Uber
+for business and the corporate segment. I think that those sorts of more minor improvements that they're still greenﬁeld for, but I
+would say overall, I don't know that there's going to be a step change other than autonomous. I'll pause there. I can talk a little bit
+more about thoughts on autonomous and how Uber is positioned.
+Analyst 00:06:18
+Sure. One just discreet question and another on the industry. On the discrete question, though, how would you compare to say
+that it's more proﬁtable? How do the airport trips or rides, the economics compare to let's say everyday use or non-airport rides?
+Have do those economics compare?
+Expert 00:06:41
+The gross bookings per ride will be signiﬁcantly higher partially because of some of the fees and things like that. Just in general, I
+think there's an understanding that the elasticity of demand, it's more inelastic for those sorts of rides so the take rates are higher.
+They're just generally larger ticket, higher-margin rides because of that.
+Analyst 00:07:12
+Any way to quantify it though? In other words, to say is if an average gross booking is, I don't know, $20 a ride, for example, if
+airport is higher, that means that a non-airport ride would obviously be lower by deﬁnition.
+Expert 00:07:24
+I know that the revenue margin on gross bookings, I think, overall is about 30%. I believe the EBITDA margin is something in the
+mid-teens. I would guess potentially something a little north of that on airport rides.
+Analyst 00:07:51
+Just more from a booking [per second], if let's say a traditional booking, meaning non-airport, was $15, an airport ride is it $20 or
+is it $30 or is it 2X, is it 3X?
+Expert 00:08:07
+I don't know. I deﬁnitely know it is meaningfully higher for sure...
+Analyst 00:08:18
+Is the way to think about it, though, more just in a vacuum, more just in terms of the ﬂow of funds, though? Is the way to think
+about it that if it's a $20 ride, for example, and you factor in take rates and costs and the margin to the platform versus a $40
+ride, which is the same distance, is it just that you're able to command, obviously, higher price and in turn, you're taking more of
+it even if the take rate percentage is the same, so therefore, that's just why the economics are superior?
+Expert 00:08:56
+It's a combination of both. You'll have a higher gross bookings per trip and then also a higher take of that gross bookings.
+Analyst 00:09:05
+On the industry overall, though, you're saying you think there's less opportunity on the mobility side, but if you listen to what
+Uber or Lyft talk about, and they still say the only, I probably have the number oﬀ, but they still only account for, let's say, 1% of
+all rides in the U.S. or North America.
+Expert 00:09:36
+I think a lot of that opportunity that Uber talks about is in reducing that cost per mile to really unlock the rest of that space. I think
+really that's only possible with autonomous. My point was separate from the autonomous area, I don't see necessarily step change
+improvements. That being said, I think that Uber has deﬁnitely invested quite proactively separate from autonomous as well as on
+autonomous.
+Expert 00:10:08
+Separate from autonomous has invested pretty proactively in these sorts of other areas that are either higher margin or where it
+has a right to win, whether it's corporate travel, etc. I think in terms of the industry overall, for sure, cost per mile coming down will
+be a huge area for them to gain penetration if it can be done.
+Analyst 00:10:39
+These are just public numbers that both Uber and Lyft put out, but they talk about over the next, it was three years at the time
+when each of them put it out, but at this point maybe two years forward or whatever maybe in terms of their outlook, they talk
+about teen-ish percent bookings growth. That's obviously made up of a combination of riders and frequency and price per trip.
+Do those seem like realistic numbers for both of those companies? What are your thoughts there?
+Page 4 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:11:22
+I think so. I think Lyft has been a little less reliable in terms of what they've said they can do and execute in the last three or four
+years. I think Uber has a pretty strong pulse on what those core drivers are and where that headroom exists. I think that's realistic. I
+think the company has since COVID really been able to execute on the core operational MAPSI growth, revenue growth, etc., bottom
+line expansion that it said it would.
+Analyst 00:12:07
+Right. You brought up autonomous a few times, certainly part of the conversation here. If we think about where the industry is
+going, and I'll say rideshare, but obviously, there's food delivery for Uber and Lyft has this DoorDash partnership, where do you
+think the industry goes from here on both rideshare and on food delivery? First start with industry and then we can get into both
+Uber and Lyft.
+Expert 00:12:35
+On rideshare, certainly I think the big question on everybody's mind, aside from, of course, the technical implementation is just to
+what degree are these autonomous players going to allow disintermediation by the Ubers and Lyfts of the world. At least in the
+short term, and when I say short term, I mean ﬁve to 10 years, which doesn't feel short term, but at least thinking about this
+industry, I think likely that disintermediation will exist.
+Expert 00:13:13
+I think the actual operations of running these sorts of real-time marketplaces at scale that can really ﬂexibly and therefore
+aﬀordably handle diﬀerent demand and supply levels and things like that is quite diﬃcult. I think sometimes people underestimate
+or undervalue both the tech and the operational moat that these ﬁrms really have built in the last 10 years.
+Expert 00:13:46
+I do see that being the path forward in terms of Uber, Lyft being really critical to actually commercializing autonomous. After that,
+though, I think it's hard to say. I think it could go either way. I think that the size of the prize is large enough that I don't know that if
+Waymo continues to take oﬀ. I don't know that it's outside of Google's capabilities if they really set their mind to it to commercialize
+it themselves and take Uber out of the equation. We'll have to see, but I think at least in the short term, certainly, they'll be a pretty
+critical partner.
+Analyst 00:14:30
+My words not yours, but tell me if this is correct, over the next, call it ﬁve to 10 years, it's actually going to be a tailwind rather
+than a headwind to get the autonomous partners onboard these platforms to help facilitate that utilization and bring that
+penetration up, but then it's unclear after that then that could be a huge headwind or too disintermediated thereafter. It's a
+positive over the next ﬁve to 10 years, but potentially a huge negative after. Is that a fair way to describe it?
+Expert 00:15:08
+I think so. Yeah, that's how I think about it. I would say Uber, in particular, has positioned itself well in terms of these partnerships to
+really be that partner to help them commercialize in the early days, in the last couple of years and I think moving forward. I think
+Uber, in particular, is pretty well-positioned to do that and certainly resourcing against it, from what they're saying, pretty heavily. I
+think my concern would be that ﬁve, 10+ year horizon, what happens and to what degree, whoever still exists in autonomous, are
+they going to try to cut an Uber out.
+Analyst 00:15:57
+Right. What do you think the biggest barriers are here? Technologically, sure, technology keeps improving and will get better and
+over time technology improves, but even technology, it's not just technology. It's also having the consumers captive. It's having
+regulatory insurance. It's having all these things come in. You have a local market, it's ﬁne, but it's hub and spoke. You can't just
+be in the local market. You need the densiﬁcation if someone is going to have a trip outside of some MSA. Does that even get
+solved in ﬁve or 10 years?
+Expert 00:16:49
+I think that that's exactly right. I think the technological moat is not even the most relevant part. It's deﬁnitely that operational go-
+to-market moat that I think is a lot harder to replicate. I think that that's really where the value that Uber can really bring is. Of
+course, the consumers and the inbuilt tech infrastructure is helpful, but I don't think, in the grand scheme of things, that as hard to
+replicate as the network eﬀects and density and all the operational things you mentioned are. I think that that's where Uber can
+add a lot of value and is, I imagine, adding value in the partnerships they have already. I can talk a little bit about the delivery space
+now if that's helpful.
+Analyst 00:17:50
+Sure. Yeah. I'd be curious how delivery intertwines.
+Page 5 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:17:55
+I think Uber has always maintained that there are these natural synergies between mobility and delivery on the supply side, on
+pricing, etc., which certainly exists. I think deﬁnitely there's operating leverage there. I think so much of what Uber has been able to
+do ﬁnancially in the last four or ﬁve years is really driving that operating leverage. Of course, having just another cash ﬂow
+generating business unit which does share a not insigniﬁcant amount of that tech stack with mobility has been really helpful.
+Expert 00:18:37
+I would say, on the other hand, a DoorDash, I know they haven't really commented on it from what I've seen more recently, in the
+past has always maintained that they don't really see those synergies on their side and haven't really commented much about
+having a desire to expand into mobility. I think that very much could change. I think obviously we've seen Lyft come under quite a
+lot of pressure because of how they've executed in the last three or four years.
+Expert 00:19:11
+I think DoorDash still primarily sees their mission as empowering local economies and have fairly large bets across a lot of those
+things. I think that they're rightfully cautious about going and doing a whole other thing and losing focus, but that's still deﬁnitely a
+possibility. I think in terms of the delivery space overall, four or ﬁve, six years ago, even in 2019, the business was fairly nascent, as
+we think about it, compared to even just today, I would say, across quite a lot of levers, from a technological perspective, from a
+restaurant selection perspective, from a pricing and membership perspective, etc.
+Expert 00:20:03
+I think there's been quite a lot of maturation to the point that I would almost call the core online food delivery portion pretty much,
+I would say, as mature as ridesharing is, maybe not quite. I think, again, less incremental opportunity there. I think a lot of the juice
+has been squeezed out of that in terms of signing all the big enterprise brands, driving selection gains, densifying some of these
+further out geographies.
+Expert 00:20:32
+Of course, there's still more opportunity there always. I think we saw huge step changes in 2021 in terms of those core drivers,
+which I just don't see happening anymore in the online food delivery category. I think, of course, new verticals is still a huge growth
+area. Quite frankly, I don't think Uber is super well-positioned there relative to the DoorDashs and Instacarts of the world, and I
+think has struggled a lot with meaningfully actually growing that business.
+Expert 00:21:11
+Of course, still headroom there, but I would say other players seem to be better positioned there overall. I think it really remains to
+be seen whether or not these players actually will be true competitors, so like an Amazon in terms of being able to deliver anything
+and whether or not people actually go to them for that. I think that remains to be seen. I think a lot of opportunity there, but from
+my perspective, a little unclear how much they're going to be a meaningful player as you think about e-commerce and delivery
+broadly.
+Analyst 00:21:56
+Right. If mobility maybe has a tailwind from AV but could long-term be a threat, and food delivery is very competitive and has
+macro synergies with rideshare though, what do you think happens the industry overall? Is it just not simple? It's blocking and
+tackling. Food delivery, for example, with Uber they keep leaning on food delivery going more international. They keep block and
+tackle, or do they emphasize, let's say, food delivery over mobility because of those threats or vice versa or going to adjacencies?
+Where do you see the evolution of the market?
+Expert 00:22:43
+I don't know. Your question is where would these companies even start to focus if there's shifts in terms of autonomous or just
+more broadly than that? Sorry. I just want to make sure I understand your question.
+Analyst 00:23:08
+Sorry. Just more broadly, they're obviously mindful of the fact that AV is a topic and they're also mindful of the fact that food
+delivery may be even more competitive, let's say, than rideshare for the time being. I'm just more curious, where do you see Uber,
+for example? Do you see them leaning more heavily on rideshare or on food delivery, or do you see them actually going to some
+other vertical that we haven't even discussed?
+Expert 00:23:36
+I think deﬁnitely in the U.S. and Canada and some of I would say the top 10 markets, delivery is important enough to the bottom
+line that it will be deﬁnitely focused. To the competitiveness you spoke to, I think there is a tacit understanding. I think that Uber on
+the delivery side is probably not going to match DoorDash or really close that signiﬁcant gap that has emerged over the last four or
+ﬁve years.
+Expert 00:24:12
+I think to do that would involve an incredible amount of resources, which the payoﬀ just doesn't make sense. I think the tacit
+approach is continue to hold share, try to grow share in delivery. Again, this is a very U.S.-Canada focus, but obviously, that's a huge
+Page 6 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.market to hold share there, improve proﬁtability, etc., grow at least as fast as the overall industry. I don't know that it will be ever
+the main focus. I think, of course, the economics for Uber of ridesharing are just better.
+Expert 00:24:51
+Of course, with the market position that Uber has, especially even just over the last three or four years, I think that that will
+continue to be the main focus. I think in terms of your question on adjacencies, Dara has been pretty cautious about M&A so far
+outside of the core. I think obviously his focus these last ﬁve, six years has really been demonstrating that consistent path to
+proﬁtability, which he's done an excellent job at.
+Expert 00:25:31
+I think he's been fairly cautious around making those, again, step change entries into new categories or huge investments in new
+technologies and things like that. Obviously, he's been around for a while, and potentially with this autonomous threat, I could see
+new CEO, new management, new pressures causing Uber to feel like it has to meaningfully innovate or meaningfully enter a new
+space, but at least in the short term, I don't see that happening.
+Analyst 00:26:06
+Right. What about Lyft, though? If you think your expertise is more on food delivery, but if you look, Uber and Lyft compete head-
+to-head on rideshare, U.S. and Canada, and now with recent acquisition also now internationally in some European markets, Lyft
+would claim that its focus is a beneﬁt to it. DoorDash would say it's focus on food delivery is a beneﬁt so they have similar party
+lines for each of the respective markets. Uber would claim "Well, we beneﬁt from having the diversiﬁcation, some of those
+synergies." Is one of them right, or are all of them wrong, or are all of them right?
+Expert 00:26:59
+To the point around Lyft's acquisition, I think what's become supremely clear, just as you looked at Lyft's performance over the last
+four or ﬁve years since COVID versus Uber's, is that really scale is so, so important in this business and that without it, it's very hard
+to really cover all the ﬁxed costs and R&D, etc. that's required to run one of these marketplaces. I think that Lyft for the longest time
+is very proudly North American-focused and had this mentality that like, "Oh, we don't need to do what Uber is doing. We're going
+to be diﬀerent."
+Expert 00:27:45
+I think that that hasn't worked out super well for them, which is why they're now feeling like they need to expand and really get that
+scale. I think that bottom line is scale is incredibly important. The players are going to try to get that however they can. I do agree
+that both from a management perspective as well as how the street views these companies, I do think that having multiple business
+lines can be a bit tricky. I think not insigniﬁcant portion of why Uber probably lost to DoorDash in the U.S. was because the
+management was UberEats was always the little sister or little sibling to the ridesharing business, was not proﬁtable, etc., and then
+DoorDash just ran away with it to some degree.
+Expert 00:28:40
+I think that having that combination is a bit tough. Obviously, I think the street tends to overindex on mobility, performance, and
+metrics, and things like that relative to delivery as well. I think that that can be a bit challenging when there is a lot of sudden
+improvement in the delivery space. To answer your question, I think they're both right. I think it's possible to do both. I think there's
+a lot of scale beneﬁts to doing both, but it's very diﬃcult to do both.
+Expert 00:29:14
+DoorDash's perspective at least is they see quite a huge TAM already that they're not tapping, of course, within restaurant delivery,
+new verticals. Even more beyond that, I think you've seen them, over the last four years, hint at wanting to not just be a logistics
+provider but really enable commerce more broadly, whatever that looks like. That could look being an open table competitor or
+being a supply chain logistics platform for restaurants, for grocery stores.
+Expert 00:29:49
+I think that they see that space as potentially all where they have a right to win. I think that that's a pretty big landscape that they
+could attack. I think they feel like that's probably their main focus and that expanding into ridesharing or buying a Lyft would
+distract from that, especially given the challenges Lyft has faced and is facing.
+Analyst 00:30:17
+Lyft being in Europe, sure, you get more scale mathematically but it's not adjacent scale or contiguous scale in terms of Europe
+has more regulations because there's more countries. U.S. regulations may diﬀer by state, but they're probably going to be more
+similar with one another than two diﬀerent countries, for example. I get it, mathematically, you get more scale and there are
+probably some shared beneﬁts. It's not like you're going from even U.S. to Canada where it's contiguous. You're going literally
+over so there's no real natural synergies there when you do that.
+Expert 00:31:06
+Yeah, for sure. I think that's why they probably went at the acquisition route is launching natively would be extremely expensive in a
+way that they just can't aﬀord right now. I agree, I think it is very diﬃcult to launch in many markets, and it's why structurally, Uber
+Page 7 of 7
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.will just continue to be in a better place than Lyft.
+Expert 00:31:25
+I think, obviously, the company burned an incredible amount of money over the last 10, 15 years, but that that's given it the on-the-
+ground presence that is very diﬃcult to replicate. I would agree. Deﬁnitely not tough to expand. I think Lyft will still try to do it if
+they can. I would be surprised if they see a huge opportunity for them to gain a lot of share in the U.S. moving forward.
+Analyst 00:32:01
+You're saying for Lyft?
+Expert 00:32:02
+Yeah.
+Analyst 00:32:07
+You're suggesting DoorDash wouldn't be interested in getting into rideshare even though there might be some beneﬁts and look
+a little bit like Uber there does. Is there a natural either acquire for Lyft or someone that beneﬁts from having the customers, the
+marketplace, the tech there or do you think that that Lyft just...
+Expert 00:32:33
+Yeah. I think it still could happen with DoorDash. I think it really depends on how much they see traction in being able to do these
+other things that they hint that they want to do. I would say if they see a lot of traction in broader merchant services, connecting
+economies vision that they've laid out, I don't see them getting big into ridesharing. If they don't see that traction, I think that
+would be an easy way for growth.
+Expert 00:33:08
+I think they have an excellent operating team that would be able to just, in my opinion, probably run Lyft better than it has been run
+so far. I think in terms of the natural acquirer piece, I would say other than a DoorDash, potentially one of these autonomous
+players who's looking to not be disintermediated, but I don't know. That obviously would be an expensive acquisition.
+Analyst 00:33:43
+It's a whole lot cheaper than an Uber, for example. It's bite-size relevant to it. To talk about Uber getting acquired, that would be a
+massive deal. This is something that I get it that if Uber is able to, I'm sure they would want to buy Lyft just to knock out a
+competitor. No more pricing power. It would never pass the antitrust but nonetheless. Just to summarize, you think mobility still
+has some opportunity but it's about driving down cost per mile that could massively expand the TAM.
+Analyst 00:34:26
+Autonomous is a beneﬁt for next ﬁve to 10 years. After that potential true disintermediation, you think both Uber and Lyft have
+grown the teams, but Uber is more reliable in terms of being able to do it, Lyft less so, particularly last few years. You think the
+outlook, it's hard to run some of these platforms there. The AV, that will be a little bit of a challenge but afterward, it's really a
+question. These platforms on the OP side and dealing with regulation and some of those things, that might be their value-add for
+these platforms to not get disintermediated but we'll see.
+Analyst 00:35:08
+It's a positive in the short to medium term, but potentially too disintermediate over the long term. Food delivery has natural
+synergies with rideshare. Although at the same time, it's less focus and it's why DoorDash perhaps has taken the lead in food
+delivery just because it's their focus, and you talk about management in the street there.
+Analyst 00:35:33
+You think that Uber won't expand beyond the core markets. It's very cautious on that, particularly given the AV threat or
+potential beneﬁt that's in what's going on. You think that Lyft they're certain it's a game of scale so that's why they did this
+acquisition. Would have been very tough to have done that organically. You think that DoorDash will likely go along because they
+have some large opportunities on their side but if that doesn't work, Lyft could be a natural acquisition. They could probably run
+it better and get some beneﬁts from it. Maybe a potential AV player would want to acquire Lyft. Fair summary?
+Expert 00:36:16
+Yeah, for sure.

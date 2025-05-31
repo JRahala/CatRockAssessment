@@ -1,0 +1,763 @@
+Page 1 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.
+COMPANY DEEP-DIVE
+Former Head at Uber Technologies Sees Competitive Edge in Autonomous
+Vehicles and DoorDash's Dominance in Food Delivery Market
+DATE PUBLISHED
+06 Feb 2025INTERVIEW DATE
+30 Jan 2025EXPERT PERSPECTIVE
+FormerANALYST PERSPECTIVE
+Business-LedPRIMARY COMPANY
+UBER
+Summary
+The client engaged in conversations with an expert who previously worked at Uber for nine years, focusing on driver support and engagement in the U.S.
+and Canada markets. The expert discussed the evolution of Uber's driver acquisition and retention strategies, changes in the labor supply, demographics
+and shifts in the driver pool, required documents for rideshare and delivery drivers, the impact of COVID-19 on driver supply, potential eﬀects of tightening
+immigration policies, and the competition between Uber and DoorDash. Additionally, the expert shared insights on the impact of automation on companies
+like Uber, Waymo, and Tesla, emphasizing Uber's competitive edge in autonomous vehicles and DoorDash's dominance in the food delivery market.
+Table of Contents
+Introduction And Expert's Background
+Roles And Responsibilities At Uber
+Driver Recruitment And Retention Strategies
+Labor Market Dynamics And Competition
+Diﬀerences Between Rideshare And Delivery
+Impact Of COVID-19 On Supply
+Immigration Policy And Labor Supply
+Competition With DoorDash
+Future Of Automation And Market Position
+Surprising Learnings At Uber
+Expert Bio
+The expert was the Head of Earner Growth and Engagement Support at Uber Technologies Inc., leaving in August 2023. The expert
+can speak to trends with Gig workers and competitors of Uber. Director of Remote Services at Steno and Freelance Consultant. The
+expert is responsible for leading the largest team at Steno across videographer operations + scheduling, post-production video
+editing, technical support, project management, training, QA, and analytics. Prior to Steno, the expert was the Head of Earner
+Growth and Engagement Support at Uber Technologies Inc., leaving in August 2023. The expert was responsible for overseeing
+strategy, operations, and budget for all earner support programs related to onboarding, early lifecycle, regrettable inactivity
+(churn), vehicle rentals, and fleet partner relations inclusive of phone, live chat, in-app messaging, and proactive text message
+outreach.
+Employment History
+Steno (Private)
+Director of Remote Services • October 2023 - Present • 1 yr, 7 mosRelevant Role
+Freelance (Self employed) (Private)
+Advisor and Consultant • July 2021 - Present • 3 yrs, 10 mos
+Uber Technologies Inc. (Public)
+Head of Earner Growth and Engagement Support • April 2020 - August 2023 • 3 yrs, 4 mos
+Uber Technologies Inc. (Public)
+Program Manager, Earner Onboarding Support • September 2018 - April 2020 • 1 yr, 7 mos
+Interview Transcript
+Page 2 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:00:00
+Thank you for taking the time to speak with me about the delivery market, either ridesharing, delivery, or even broadly you call it
+the gig economy. To start oﬀ, could you please give us a quick overview of your background and experience in this space?
+Expert 00:00:15
+Deﬁnitely. I was at Uber for nine years. I'm going to focus on the most recent ﬁve years that I was at Uber because the ﬁrst four, I
+think will be less relevant to what you're trying to understand about the business. In my ﬁrst two years at Uber, I worked on incident
+response, which is how Uber responds to accidents with fatalities, allegations of rape, assault, etc., which is not relevant for the
+conversation. In my second two years after that, I was focused on driver support. How do we get drivers in the U.S. and Canada to
+drive from the moment that they sign up to the moment that they took their ﬁrst trip on Uber? Those were the programs that I was
+working on.
+I then expanded my scope to focus on what you call the earner, which is both the driver and the delivery people that use bicycles,
+motorcycles, or cars to deliver on Uber Eats. In April of 2020, I took over a couple of additional programs, including vehicle rentals,
+which is how we get cars to people who don't have an eligible car to drive on the platform.
+In my most recent role, from April of 2020 to August of 2023, I was leading earner growth and engagement for the U.S. and Canada,
+which eﬀectively meant that I was overseeing how Uber utilized 1,000 customer success agents around the world who were dealing
+with driver concerns related to taking trips, or conducting outbound marketing, phone calls, and text messages to those drivers
+proactively to try to ﬁgure out why they weren't driving more or why they weren't behaving in a way that Uber wanted them to
+behave.
+A good example to tell you what I mean. One of the most successful programs that I ran was a program that was looking at delivery
+drivers who we knew had a car that would allow them to take rideshare trips, but they were not taking those rideshare trips. I had a
+team that was reaching out to them and trying to upsell them on trying out rideshare, and seeing how much more money they can
+make on that platform.
+Client 00:02:18
+That is certainly one of the narrow topics I like to dive in is that, why labor or human beings prefer one model of work versus the
+other between drive and delivery. We can dive into that later. You left in 2023?
+Expert 00:02:32
+Yes, August of 2023.
+Client 00:02:34
+Nine years, and it started in 2014. That was very early days of Uber. A couple of quick questions, and then I will move on to
+individual topics. During your time at Uber, I understand it's nine years in many diﬀerent roles. Were you mostly, for example,
+headquarter oﬃce, in front of a computer, or was mostly on the front line, going through diﬀerent cities, literally on the street,
+talking to those drivers?
+Expert 00:02:59
+That's a great question. I would say that 99% of my time was in front of my laptop, working with my colleagues over Zoom. Prior to
+2020, I was based in the Boston oﬃce. After 2020, when COVID happened, my oﬃce was shut down, and I worked remotely.
+However, I did spend some time on the front lines, especially in the very early days of Uber in 2014. I was sitting in hotel conference
+rooms in front of hundreds of prospective drivers, giving them iPhones, showing them how to use the app, all that kind of stuﬀ.
+Back then, there were just not enough people to do the work, so even though I was focused on the accidents and the assaults and
+that line of business, I was helping out the Boston local team as well. Just because I was a live body, a human being in Boston that
+could help drive the supply there.
+Client 00:03:51
+The 1% in-person, face-to-face on the front line was mostly in the city of Boston?
+Expert 00:03:56
+Yes. The other exception to this is, over my entire Uber career, one of my focuses was oﬀshoring customer support and customer
+success. I spent a lot of time in the Philippines, India, Bogota, Colombia, at call centers, enabling those teams to thrive.
+Page 3 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:04:12
+Three countries, Philippines, India, and Colombia, right?
+Expert 00:04:15
+Yes, those are the predominant three countries that I had, of my 1,000 agents, those are the countries that they were mostly in.
+Client 00:04:24
+You mentioned both delivery and ridesharing drivers. In your last ﬁve years, the ﬁrst four years, understand diﬀerent. Last ﬁve
+years, was that 50/50 between these two types of drivers, or you also had a tilt towards one type of driver versus the other?
+Expert 00:04:40
+It was 50/50 in terms of what I focused on. I was responsible for both, and I was accountable to both business units in terms of how
+I was performing. Prior to COVID, so from 2018-2020, I did have a lean towards drivers because Uber Eats was not as exciting yet.
+When COVID hit and the rideshare industry eﬀectively shut down overnight, and Uber started investing so much money into
+delivery, my focus shifted delivery probably until the middle to late of 2021, when COVID started to become somewhat of an
+afterthought.
+Client 00:05:14
+The other is Uber's global business. You are responsible at leading the earner, engagement, etc. Do you have a geographic focus?
+Was that domestic U.S. or global? Within U.S., do you have a focus on the coastal cities, or inland cities, etc. ?
+Expert 00:05:28
+My role and my focus was on the U.S. and Canada mega region, so all of the United States and Canada markets. Within that, I
+partnered with a variety of teams at Uber to ﬁgure out which markets needed more drivers versus which markets needed more
+delivery people. I would cater my support oﬀerings and train my agents accordingly to push supply in the ways that was best for
+the business. I collaborated with LATAM quite frequently, mostly the Mexico and Brazil markets, which are quite large down there. I
+had less interaction with Europe, Middle East, and a little bit of interaction with Asia Paciﬁc prior to Grab acquiring Uber.
+Client 00:06:07
+I understand you had many leadership responsibilities, but if you allow me to simplify it, your latest role at Uber was leading
+more than 1,000 agents to ensure that Uber's drivers, both rideshare and delivery, are engaged with quality. Is that a good way
+to say it?
+Expert 00:06:24
+I would say less so on the quality side, but more on the engagement side. That was activation. I focused on getting drivers to take
+their ﬁrst trip. I also focused on drivers who had churned and had not taken a trip in 28 or more days, trying to get them to take
+trips again. I also had a couple of niche programs like the one I described to you about getting delivery people to try driving. I also
+ran a program when Uber acquired Postmates, which I think was in 2021 or so.
+I ran a program where we conducted outreach to 150,000 Postmates users, Postmates drivers trying to get them to sign up and
+come over to Uber seamlessly. There was a couple of niche programs on top of my big programs, which were get people to take
+their ﬁrst trip and get them to come back to Uber after they left.
+Client 00:07:13
+Interesting. A side question, since you mentioned about Postmates, maybe I'm a little bit naive, but here. Shouldn't Uber just
+merge the driver app of Postmates into the Uber Driver app and it's just a software operation, or the driver at that time,
+individually has to exercise their own will to sign up on Uber Driver app?
+Expert 00:07:33
+We made a linkage between the Uber and the Postmates app, but the driver had to take the initiative to bring their account over to
+Uber. We did not create the accounts for them. There were some issues there, maybe it was legality or regulation, I'm not entirely
+sure. The driver had to go through an onboarding path. They have to pass an Uber background check, not a Postmates background
+check. Their documents need to be ingested into our system and approved, all that type of stuﬀ.
+Client 00:08:02
+You can't do a few clicks of buttons on computer. It has to be individual human drivers individually do the paperwork again?
+Page 4 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:08:09
+Exactly. They individually create their own account through the Uber app. I was the team that was encouraging them and assisting
+them through that process.
+Client 00:08:17
+Super helpful. I'm super excited to hear that you have so many valuable and sounds like very enriching experience for you as
+well. Let's dive into the individual topic. The ﬁrst one is a little bit high level. If you can just describe to me in a nutshell, typically
+how did or how does Uber manage its driver operation? What I mean is how does Uber identify, attract, then recruit, and also
+retain drivers? In a nutshell, if you can just describe to me, give me some idea there.
+Expert 00:08:45
+I will try, but it's a very large nut that you are talking about. I think for starters, especially in recent times, it is not a question of does
+somebody know what Uber is? That is a given now. Anyone in this country or Canada knows what the company of Uber and what it
+does and how to make money on it by.
+Client 00:09:04
+It's a verb now.
+Expert 00:09:05
+It is a verb. It's a language. It is. In the early days in 2014, it was a question of how do we teach people that Uber even exists, which
+is no longer the case today. Now, the strategy has more shifted to how do they deﬁne the value prop of Uber and how do they
+ensure that the common concerns that drivers would have, which are very merited, usually around safety, payments, wear and tear
+on their vehicle, etc. are addressed proactively, so people feel comfortable trying Uber out. Some of the ways that Uber has tried to
+accomplish this, they have a very lucrative and aggressively marketed internal referral program.
+One of the best ways to make money as a driver is to refer other drivers. There are some drivers who actually had accounts and
+never even took a trip. They strictly had their account because they knew people in their community, maybe through their ethnic
+group or social clubs or whatever it might be, and they were referring 20, 100, 200 drivers a year. Each of those referrals, depending
+on the market, was sometimes upwards of $500. Uber tried to do it quite organically. Obviously, there's a massive marketing budget
+for Uber. We have television, radio, billboard, you name it, Uber does it, trying to attract.
+In terms of retain, that's an area where Uber has struggled immensely over my time there because the competition has become so
+intense, especially in the delivery space with DoorDash and Amazon Flex and Instacart, as you mentioned. It is very challenging to
+retain a driver in that industry because a driver, if they are trying to do what's best for their ﬁnancials, they will work for every single
+provider. On their cell phone, they will have the Uber app open, the Lyft app open, the DoorDash app open, etc., and they will pick
+the trip that they get next that's the most lucrative for them.
+Uber tries to combat this, as does every company, by oﬀering incentives, which is almost like the yin to the referral yang incentives.
+An example would be, "John, if you take 10 trips in downtown Manhattan today, we will give you a $50 bonus," or something like
+that, which tries to retain the driver on that same day or maybe that same week. "John, take 100 trips this week, and we'll give you a
+$500 bonus," or something like that to try to encourage the users to only use the Uber app and not touch Lyft and not touch
+DoorDash and all the others that are out there. That is a broad nutshell, but we can go deeper wherever you would like.
+Client 00:11:40
+Got it. I'm curious, there's a term called a funnel, marketing funnel. In terms of where the origination of the driver, the funnel,
+they come in. You mentioned television, billboards, Facebook, TikTok ads, referrals, within their own community, ethnic groups.
+Not looking for exact or precise, but roughly speaking, is there any one part of the funnel that predominate anyone else, or every
+funnel is evenly split, and they just equally contribute to the ﬁnal outcome?
+Expert 00:12:08
+I don't have a good answer for you, but I'll give you a piece of information which might be equally interesting. That metric that you
+describe of which piece of the funnel is getting the most drivers to come to Uber diﬀers dramatically by what city we're talking
+about as well. I don't know the exact numbers, but I'll give you an analogy here that may be true, maybe not, just to give you an
+idea. In the city of Miami, you have a very large Cuban population, a very large Hispanic population.
+Likely in Miami, where that ethnic group is so strong and close-knit, referrals are a better way of getting drivers to come online,
+where maybe in a more homogenous community like a Kansas City or a Denver, Colorado, maybe incentives and TV ads are more
+popular there. It's going to be very diﬀerent depending on the types of humans and the other types of employment opportunities
+that are available in a given market.
+Page 5 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:13:01
+Got it. Switch the angle a little bit. That's from the company side. Maybe I put it this way, what's in it for them that they come to
+Uber, work for Uber? What exactly are they looking? Are they looking for quick cash before my payday loan after coming, or are
+they looking for ﬂexible lifestyle? They just don't want to be locked into certain hours. Could you talk to me a little bit, or is there
+any dominant feature or dominant ask that they have, or really varied?
+Expert 00:13:29
+It's varied, but you're hitting on some important demographics that we go for. We're looking for people who don't have a stable
+income. We're looking for people who need to supplement their stable income. They work at McDonald's for eight hours a day, but
+that doesn't allow them to aﬀord their life, so they drive for Uber at night.
+Back in the early days of Uber, it was much more common to see a full-time driver, a driver who was doing 40+ hours a week. That
+was because back in 2014, 2015, etc., it was a lot more lucrative for a driver to drive for Uber. Uber was less proven. They had to pay
+more money to get drivers to drive. Nowadays, Uber has a little bit of an upper hand where it's so well-known and it has so many
+synergies and so many algorithms that allow it to be eﬃcient that they're not as desperate as they might have been back then.
+The drivers that we're coveting, we're looking for college kids who want to make beer money, we're looking for retirees who want to
+get out of the house for a few hours a day and stop talking to their wife, we're looking for people who were laid oﬀ and need a gig
+for a month or two while they're looking for their next role. It is increasingly rare that we are looking for people devote 50 hours of
+their week to driving. It just doesn't exist anymore. It's not lucrative enough for them.
+Client 00:14:52
+Interesting. What you're describing, I think there's several dimensions. One is the level of pay because I do remember, 10 years
+ago, some drivers make more than bankers in New York City, and they make newspaper headlines. I remember that time and
+that dimension. I understand the pay. In terms of time commitment, just to clarify, are you suggesting that over the last decade,
+drivers are becoming less full-time and more part-time overall? Is that what you're suggesting?
+Expert 00:15:20
+Yes, that's what I'm suggesting. For a couple of reasons, I think, one, the competitive market enables them to do that. For example,
+on Uber, if you're doing rideshare on Uber, you have to do it right and make a lot of money. You wake up at 5:00 A.M. and you drive
+until 10:00 A.M., then you go home and sleep until maybe 4:00 P.M., and then you start again and go through the night shift, and
+then sleep again. It's a tough life to do this right for 40 hours, 50 hours a week, because you don't want to be driving at 1:00 P.M. on
+a Wednesday. No one's taking Ubers at 1:00 P.M. on a Wednesday.
+The Ubers that they are taking, it's not surge pricing. There's a lot more drivers than riders on the streets, so it's not as lucrative.
+Also, the competition as well. When I take an Uber now, I still look at, I did it much more when I was employed there. It's very
+common to see drivers have multiple phones, maybe a phone and a tablet, multiple apps open because the best way to make
+money in that business as a driver is to take the best trip available to you at any given moment, no matter what application it's on.
+Now that DoorDash is so enormous in this country, they've taken a sizable piece of supply of independent contractors in this
+country. You mentioned early on, you mentioned Lyft. Uber doesn't think about Lyft anymore. Lyft is irrelevant. DoorDash is the
+competitor in the United States.
+Client 00:16:48
+Interesting. You mean from the supply of labor perspective?
+Expert 00:16:52
+Yes, from a labor perspective. Obviously, that's across rideshare and delivery. I know you're not really diving into this, but from the
+consumer side, DoorDash is absolutely the number one competitor in this country. DoorDash is destroying Uber Eats. They're way
+bigger than Uber Eats.
+Client 00:17:09
+Interesting. I probably can come back if I have time at the end of the call. I want to get some of your perspective there too. Since
+we already touched on it, it's a natural segue to the next big topic, which is I try to understand over time how that labor supply,
+the pool of labor has changed. It's a couple of questions here. First is quantity. I'm curious, so 10 years you've been there, how
+would you describe the quantity of supply? For example, are we in, say, a constant undersupply, a constant oversupply, or that
+line has certain pattern of change over the past many years? Could you talk about the oversupply, undersupply, and how that has
+changed over the last 10 years?
+Page 6 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:17:50
+When I started Uber in Boston speciﬁcally, I was looking at the market and there were a lot more riders than drivers, which makes
+sense. Colleges, tourist city. Generally, back then, Uber needed to build more supply as they matured a little bit, and Uber Eats
+started to become more of a business around 2016, 2017. All the way up until COVID, Uber was feeling really good about its driver
+supply position. My role at that time, I wasn't aggressively getting drivers the way that I was after COVID, it was a lot more relaxed,
+and the investments that Uber was making were more on the rider side of the business.
+You could probably read some articles from Dara or maybe from Travis back in the day, where they admit that Uber did not focus on
+the driver experience or the driver application until quite recently. They were much more heavily focused on the Uber experience
+that is more common to the millions and billions of people in the world, which is how they order a ride or order food, not how they
+service that ride or service that food. COVID was a big moment for Uber in a variety of diﬀerent ways, but it really started a culture
+shift, which was we need to be driver-focused.
+They put a lot more money and resources, the driver product teams, driver engineering teams, to build more features in the driver
+app that address big concerns that drivers had over time, that Uber frankly ignored. Drivers always complained that they were
+unsafe, that Uber always if a rider says the driver was drinking, Uber would just deactivate the driver. They would take the rider
+aside almost every time, and drivers were afraid of the drunk people in their backseat. I think one of the components here that you
+might be interested in diving into is the male versus female demographics for Uber drivers.
+You probably can guess what it is, but it's very shocking how many more men than women drive on Uber. After COVID, Uber shifted
+approach. They focus more on the driver, they focus speciﬁcally on women. At that time, I'm not sure if this metric is completely
+accurate. I'm taking somewhat of a historical guess here based on what I know about the business. Maybe 10% of drivers were
+women back before COVID. That number has started to swing because Uber heavily invested in safety. They now audio record some
+trips depending on the market, they show the rider's face. We actually do some checks on the back end of rider accounts to make
+sure they're real people.
+We look for, I think you call it, not the cell phone that you have today. If you go into a seven-Eleven and buy a little $10 cell phone,
+we don't allow those cell phones to use Uber anymore when we used to, things of that nature. They started to invest in, they started
+trying to ﬁgure out what makes the drivers happy besides pay. It's quite hard to pay drivers more. This is a very low-margin
+business, as you know, but they were trying to ﬁnd other ways that they can make the driver happy.
+These were features such as what we called rider destinations. Before COVID, the driver didn't know where the rider wanted to go
+before they picked them up, and we knew that that was a thing that drivers wanted. After COVID, we started saying, "You know
+what, we don't care if we piss the rider oﬀ. Let's give it to the drivers, let's try to invest in them." That's the shift in how Uber
+strategized.
+Client 00:21:14
+Got it. You already predicted some of the questions I was about to ask, and really good conversation. To wrap up on this
+oversupply, undersupply thing, what's your feeling and assessment of today's situation? Do you feel like today is a comfortable
+place just before COVID, or do you feel like, "Oh, right now, we have such an oversupply or undersupply"? What's your
+assessment for today?
+Expert 00:21:37
+When I left in August of 2023, part of the reason that I left is because my team was getting less funding because we were starting to
+feel more comfortable about the driver supply. I think it only could have gotten better leading up to today. Uber brilliantly started to
+merge their rideshare and Uber Eats businesses on the back end to enable a variety of synergies that make it easier for a delivery
+person to drive or a driver to deliver. They continue to ﬁgure out how to merge those supplies together to create one broad driver-
+delivery-person earner supply.
+They continue to invest in that area through things like vehicle rentals, through things like making it super easy for the courier to
+upgrade their account to rides and get a very rapid background check, things of that nature. I think Uber's feeling very comfortable
+today with their supply. You can actually see that if you drive around, probably in Manhattan or on some of the highways in New
+Jersey, you don't see a lot of Uber billboards anymore, at least in this market. They seem to have dwindled down and you can almost
+track how Uber is feeling about drivers based on what you hear on the radio, TV, roadside advertisements, etc.
+The other thing I will add here is I think that Uber is starting to get back into some interesting avenues of maximizing their supply. I
+think you probably remember Uber Pool. Uber Pool was awesome before COVID, and then it went away. They started to bring it
+back in a little bit more with a little bit more force. They're actually in the process of launching, I don't know if it's here yet, but in the
+U.S., they're launching what we call HCV or high-capacity vehicle. This refers to almost like an Uber bus where it's a set route in
+Manhattan. It goes from Penn Station to Wall Street every day, and you pay a small amount and get that bus.
+They're trying to ﬁnd other ways to enable the riders to get serviced and not worry as much about the number of drivers on the
+road. We can talk about autonomous if you want, that's obviously a massive bet that Uber is making. While Dara is very political
+about it, internally, there are a lot of teams and a lot of people focused on making autonomous happen as soon as possible.
+Page 7 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:23:50
+You mentioned about looking at billboard. What you're suggesting is those billboards, I think there's a big one near Bronx. I think
+Uber did a huge one, on top of a building. Those billboards, what you're saying is, they are not only for consumer customer to
+see, they actually also for drivers too?
+Expert 00:24:07
+Absolutely. From what I've seen, it's actually quite rare for a billboard to be strictly rider-focused. I think if they are, it's more for
+Uber Eats because we're so desperate to pull market share from DoorDash. If it's showing a limousine driver or something like that,
+it is certainly not going to be a rider-focused billboard. It would be more driver-focused in that sense.
+Client 00:24:29
+Super helpful. I have a few other quick questions on the change of the labor pool over the 10 years. One is, use a broader word,
+demographic. I think there are some reports either on Uber's side or Lyft's side over the 10 years. I think one metric is
+percentage of driver, English is the home language has been decreasing. In New York City, I think it's very obvious. A lot of drivers
+are migrants, that English is not their primary language, or sometimes don't even speak English at all. I'm curious, is it fair to say
+that over the 10 years, the pool of driver is becoming more migrant versus a native. Is that one trend that is going?
+Expert 00:25:07
+I think that's fair to say if you're looking at the U.S.-Canada market at large. If you break it down by city, you'll see signiﬁcantly
+diﬀerent trends. At large, that's a fair trend to say. One piece of information I'm not sure if you're aware of that might be interesting
+to you. You mentioned immigration earlier on the call and how it's not a thing that you're interested about, but I think it ties in here
+a little bit. In order to drive for Uber, you must have a Social Security number. You have to because Uber background checks every
+driver or delivery person that comes to the platform, and without a Social Security number, we can't run a background check.
+Uber also requires for rideshare one year of U.S. driving history. If somebody comes here, let's say, a migrant comes to New York,
+and they don't get a car. Since they don't have a car because they're using the subway, they decide to just get a Social Security
+number, and they never get their driver's license. They live here for 10 years taking the subway.
+They come to drive for Uber and they can't because we need one year of U.S. driving history, which is another barrier that some
+people don't think about and has been a big pain point in the past for Uber. It's based on, largely, insurance regulation and how
+Uber and its insurers feel comfortable about understanding the driving history of people on the platform.
+Client 00:26:31
+For delivery business and the ridesharing, both require Social Security number?
+Expert 00:26:36
+Yes, because both require a background check, and we can't do that without the Social.
+Client 00:26:41
+The driving history, one year, that is speciﬁcally for ridesharing, not for a delivery business?
+Expert 00:26:47
+That is correct. Because on delivery, especially in New York, someone can hop on a bicycle, so we don't particularly care. The
+background check for delivery is also much easier to pass. For example, if you had a DUI in your driving history, we won't let you
+drive for rideshare, but you could deliver Uber Eats on a bike or even in your car because if you're drinking and driving with a
+hamburger in the backseat, it's much less risky than a John in the backseat.
+Client 00:27:15
+Makes total sense. You mentioned that the picture is more complicated. Are there any counterexamples to what we talked about
+so far? Are there any regions that over the years less and less are working for Uber, or the percentage of pools have lessen?
+Expert 00:27:29
+I don't have a good answer for that for you. I don't want to pretend that I have an answer there.
+Page 8 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:27:34
+Very helpful. The other is gender, which you already mentioned. In my personal experience, I think it's very rare to jump into an
+Uber and it's a female driver.
+Expert 00:27:44
+If your experience is only in New York, it's very diﬀerent because New York, the market is regulated by the Taxi & Limousine
+Commission, which is the only city in the United States that has that type of oversight from the local government.
+Client 00:27:59
+Is that regulation has something to do with the gender of the driver?
+Expert 00:28:03
+In New York City, there are way more full-time drivers because they had to spend thousands of dollars getting their taxi and
+limousine license, their commercial insurance, all that kind of stuﬀ. In New Jersey, it's much more common to ﬁnd a female driver
+because they don't have to spend $5,000 getting commercial insurance on their vehicle.
+You know this about New York, all the drivers are professional, even the taxi driver, they've been doing this for years. They don't
+need a GPS to navigate. It's a much more professional market, and as a result of that, it tends to be more male because historically,
+men drive versus the more casual markets like New Jersey, Miami, whatever, it's much more common.
+Client 00:28:47
+Last question on the gender part, would you say over the years, more and more women are getting on Uber overall, or it is still a
+very, very low minority, like the 10% number you mentioned?
+Expert 00:28:59
+I think it's more like 25%-30% today when you also account for delivery, which for Uber, women feel more comfortable delivering
+food than having a drunk man in the back of their car. With the expansion of Uber Eats, it's enabled more women to come on the
+platform because unlike men, for women, safety is the number one concern they cite as to why they won't drive for Uber. For men,
+it's money.
+Client 00:29:24
+Interesting. That's a good one. The number one for men onto Uber is money, and for women, the number one is actually safety.
+Speciﬁcally just on the ridesharing side, how would you say the percentage of women drivers is? Is that ﬂattish around 10%, no
+change, or has that also improved?
+Expert 00:29:41
+It's improved, but not up to like a 25% number. Uber actually released a pretty cool feature not too long ago where if you are a
+female driver or a female rider, you can put a trigger on your app that says that you only want to get in the car with another female.
+Features like that, along with other safety features that are not female-focused, broader safety features that Uber has worked on
+have enabled.
+Client 00:30:06
+Very helpful. Maybe twist this a little bit. The demographic over the last 10 years based on this discussion, has morphed a little bit
+or shifted a little bit. If I assume there's some demographic that Uber has been losing out or maybe Uber didn't lose any part of
+the demographic because the pie is growing, the composition look diﬀerent, but using Uber has lost any demographic of the
+drivers. If it did, who are those group of people, and where do they end up going?
+Expert 00:30:35
+I think they've lost the full-time driver, the driver who was driving 40, 50, 60 hours a week because those drivers now are probably
+working for a limousine company or potentially driving a truck. If they're driving the truck, they're getting insurance, which Uber
+doesn't oﬀer, and they're making more money. I think they've probably lost that full-time driver because they've lowered the
+amount that a driver can make in any given hour.
+Client 00:31:02
+Do you think the general income level of the households, of the workers who come to Uber, has that level of income shifted over
+the years? Like you said, people need supplemental income or full-time job. Has the target demographic, the income level
+Page 9 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.changed over 10 years, you feel that?
+Expert 00:31:20
+I think it depends on how you deﬁne the income level. If you're looking at it like a household income year over year, I don't think it's
+changed. Uber more and more during the economy and the issues with layoﬀs and people struggling to ﬁnd decent paying work, I
+think it's geared more towards a supplementary income for maybe a higher earning household more than in the past when it was a
+primary source of income for a low-earning household.
+Client 00:31:48
+Interesting. Is that your subjective feeling, or you feel like you are pretty convinced by what you have experienced?
+Expert 00:31:54
+That is my subjective feeling, but it comes from a little bit of experience from my team. When I left Uber, we were talking to two
+million drivers a year, and we learned about them, we ran data on them. It comes from a little bit of that as well, and knowing the
+amount of hours people were driving and the types of humans. We have their proﬁle pictures, we know what the conversations are
+like, getting feedback from my teams. It's a little bit of that experience as well.
+Client 00:32:22
+Just to recap this point to make sure I do understand this nuance. What you're saying is over the decade, Uber driver may have
+shifted a little bit from lower-income households who take the Uber job as a full-time job to a little bit of higher-income
+households who see the Uber job as a supplement to what they are already earning.
+Expert 00:32:42
+Yes. The reason I'm saying that is for something I am certain about, which is Uber is not the right full-time opportunity anymore
+that it was in 2014 when drivers were making more than bankers. Now, there's no way a high-earning household will drive for Uber
+full-time. That doesn't make sense. Only a low-earning household will drive for Uber full-time, but even that has become less
+attractive.
+Since overall, Uber is more attractive, say, as a part-time endeavor, that speaks to me that a high-earning household will be more
+likely to do it because it's after their standard job they want to get a couple more hours, it's after they get laid oﬀ, or they're on
+paternity leave or whatever it might be. It lends itself to more part-time Ubering.
+Client 00:33:29
+Let's move on to the next group of questions, and probably going to be much easier because you already probably answered
+much of it. Competition for those drivers. A couple of angles. One, pure rideshare between Lyft and Uber ridesharing. I hear from
+you, Lyft is not being seen as a competitor anymore. Do you think there are any diﬀerences in the driver pool, the driver
+demographics, who work for Uber and work for Lyft on the ridesharing? Do you think any diﬀerences here?
+Expert 00:33:57
+In the early days of Uber, the people who would drive for Lyft, they were okay making a little bit less money because they felt more
+supportive. Lyft really leaned into the driver as a community. They would have parties, they would have oﬃces, they give out free
+coﬀee in the morning, stuﬀ like that, which Uber never did. Uber was always the black-car professional rideshare service, where Lyft
+was the pink-mustache rideshare service. They leaned into the more social, fun side of things. Lyft also had more relaxed vehicle
+requirements for a long time. Your average Uber vehicle back in 2014-2018 or so was way more attractive and clean than the
+average Lyft vehicle.
+That was partially tied to Lyft's lower prices. They would allow your 2000 Honda Civic with 300,000 mi and scratches all over it, and
+Uber wouldn't. Uber had more strict requirements. It was usually 10 years old or newer, was the limit for a car in almost any market.
+Even today, if you're in New York, you're not going to see a 2015 or older vehicle.
+Client 00:35:03
+Got it. How about today, any major diﬀerences between the drivers?
+Expert 00:35:07
+Lyft was forced to adapt and Uberfy themselves for a few reasons. I think one, they needed to compete for the riders. The riders
+were recognizing, unless the rider hated Uber because of Travis Kalanick or because Uber is big and evil, whatever, they would use
+Uber. It was the better service. The prices were largely the same. I think on the driver side, they recognized that Uber was successful
+in poaching their drivers because Uber was largely paying drivers more. Lyft had to adapt and raise their driver rates accordingly
+Page 10 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.and increase the amount they were giving their drivers.
+In order to do that, they had to degrade the rider experience a little bit. All those people who hated Uber because it was more
+expensive, they didn't have to do that anymore because Uber now was on parity with Lyft in terms of price. Lyft was always a social
+club. It was fun, it was cheap. Uber was professional, expensive, reliable. Those were the diﬀerent value props between the two
+brands that I think have become the same over time.
+Client 00:36:09
+Got it. Let's shift to the food delivery side, and I want to understand the diﬀerences in the labor demographic and labor supply.
+First within Uber, Uber has two sides of a coin, the mobility versus delivery. Let's dive into that one. You work on project, try to
+bring a delivery driver on Uber to drive human beings, and seems to be a challenging task. Help me understand a little bit. I hear
+from you, the gender perspective, the importance of safety. Help me understand, what are the major diﬀerences in Uber delivery,
+Uber ridesharing, their drivers? How are they diﬀerent, age, gender, whatever? Why is it easy, or why is it diﬃcult to move one
+group to the other to do the other job?
+Expert 00:36:49
+In terms of gender, we covered it. Women are more likely to deliver than drive. In terms of other demographic criteria, your delivery
+driver, they have a little bit maybe of a riskier, more diﬀerent background because their background check is less stringent. You
+might be getting people who have a slight criminal history, a slight driving history. I don't want to generalize them too much, but I
+hope you get what I'm leaning at here. Maybe they're a little bit more chaotic, the person who drives delivery versus rideshare. In
+terms of ethnicity, I don't think there's too much of a diﬀerence there. It really tied down to vehicle.
+Back in the day, if you have a 2000 Honda Civic, you can't drive rideshare. You have to drive Uber Eats. The other aspect here is in
+order to drive rideshare on Uber, you have to have a vehicle that you are the insured party like it is. If I'm driving my mother's
+vehicle, I have to say my name on the GEICO insurance document. On delivery, that was not necessarily the case because certain
+markets were a little bit more nimble with how delivery is insured. In addition to the fact that in delivery, you can use a bicycle, a
+motorcycle, you can walk. Generally, the delivery population would probably tend to be a little bit less economically stable in the
+moment because if they had their own vehicle, if they had access to peers or friends or family, that could give them a vehicle, they
+would tend to do rideshare instead.
+Client 00:38:15
+Okay. Just clarify, what do you mean? The auto insurance, children can drive their parents' car with insurance tied to their
+parents' name because insurance will still cover if any accidents. What you're saying is, not under the title of the insurance
+cannot drive for rideshare, it must be the driver's speciﬁc name. On the delivery side, those requirements are looser?
+Expert 00:38:38
+Yeah. In fact, more recently, we stopped requiring insured vehicles for delivery. We only required that you had a registration and a
+driver's license where insurance was always that third document on rideshare. In addition, some markets, there's a fourth
+document for rideshare being the vehicle inspection. In almost no markets is a vehicle inspection required for delivery. You're
+getting lower quality cars, people who have less income because they can't aﬀord the cars that would allow them to do rideshare.
+Individuals who may not be as well connected with their peers or their parents, things like that.
+Client 00:39:15
+You say that four types of documents required rideshare. Could you go through it really quick? Social Security, I think that's a
+start.
+Expert 00:39:24
+We don't consider Social Security a document, but that's the background. There are really ﬁve things for rideshare, background
+check, driver's license, vehicle registration, vehicle insurance. Those are the big four. In some markets, probably about 50/50,
+vehicle inspection.
+Client 00:39:40
+On that delivery business side, could you also run through the major documents?
+Expert 00:39:45
+Yes, it would be Social Security number for the background check. From there, it gets very nuanced because if you're riding a
+bicycle, that's it. We don't need anything else aside from your Social Security number. If you're driving a car on delivery, we would
+need driver's license and registration, but we would not need insurance or vehicle inspection. That's also very market-dependent,
+Page 11 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.but by and large, we didn't ask for vehicle insurance for delivery drivers. Never will we ask for a vehicle inspection. That was never a
+thing for delivery. It doesn't matter if your vehicle has headlights out, brake lights out, doors missing. It doesn't really matter.
+Client 00:40:23
+The registration, is that has to be under speciﬁc human name, or the registration has no name attached to it?
+Expert 00:40:29
+A registration document does have a name on it, but it doesn't have to be the driver's name. That's where the insurance comes in.
+For rideshare, they have to be on the insurance policy.
+Client 00:40:40
+From your experience, what's the percentage of delivery driver will be happily hunky-dory, move over to drive human beings, to
+the ridesharing? Is that common? Is that rare? What's the percentage that'd be happy to move over?
+Expert 00:40:53
+The program I ran was so successful in this space. I wouldn't say many of them were happy, easy to convert, because if they were,
+they would have done it already. In the program I ran, we did it as an experiment. If we were talking to people and getting them on
+the phone, interacting with us via text message, they were 22% more likely to drive for rideshare than if we were not talking to
+them. This told us and our marketing team that we need to get the message out to couriers to delivery people about rideshare,
+because there was a communication gap. When they had one of my agents on the phone with them, they were generally pretty
+interested.
+Their concerns, as I mentioned, were largely safety, but other than that, there wasn't a lot that would stop them. There was a little
+bit of concern about wear and tear on the vehicle. Generally, rideshare drivers put more miles on their car, and maybe it is less
+important, but there is more weight in their car. If you're picking up four passengers with luggage, that's hundreds of pounds sitting
+in your car, that wouldn't be there if you're picking up food. There was a wear-and-tear element as well.
+Client 00:42:01
+Overall, would you say half of the delivery drivers, with some eﬀorts you talk to them, can move over, or do you say less than half,
+more than half? Could you give me some general color there?
+Expert 00:42:11
+Of delivery drivers who have an eligible car, I would say about half.
+Client 00:42:15
+With some eﬀorts, can be persuaded over.
+Expert 00:42:18
+Yes, with some eﬀort. The sales pitch was pretty straightforward. It was, "Do you want to make more money? Go to rideshare."
+Client 00:42:24
+How big a money diﬀerence, working for rideshare, working for delivery? What's the percentage diﬀerence? Are we talking about
+double income, or talking about 50% more? Can you give me some idea there?
+Expert 00:42:37
+I don't know exactly, but I would feel very conﬁdent saying it's between 50% and double.
+Client 00:42:43
+We're talking about hourly?
+Expert 00:42:44
+Yes, I would break it, hourly. That's a good way to look at it. It would be hard to do it based on the whole day of work because of
+how diﬀerent drivers behave diﬀerently and take diﬀerent hours. Hourly is the right way to look at it. Rideshare, I think most recent
+Page 12 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.numbers showed that a rideshare driver in an average market in the U.S. is pulling over $20 an hour, sometimes $22, $25, where
+delivery is probably south of $20, maybe closer to $15.
+Client 00:43:13
+That's including idle time, or does not include?
+Expert 00:43:16
+Yes, that will be including idle time. Another part of the sales pitch is if the delivery person, in order to make the most money on
+Uber, you want as little idle time as possible. In order to have as little idle time as possible, you want to be able to take the most
+amount of trips that you can. By engaging both sides of the market, the rideshare and delivery, you're doubling your chances of
+getting a trip in any given month.
+Client 00:43:41
+Totally. Is there any data source I can follow this earning number, or do you just have to wait for news reports? Sometimes, I
+watch a journal report on numbers.
+Expert 00:43:51
+If I still worked at Uber, we have dashboards and tons of data about that, but externally, I think it's strictly through what Uber is
+willing to report. Usually, I think they report numbers similar to this in earnings calls because they like to ﬂaunt. It's not all about the
+money that Uber makes, drivers are getting paid billions of dollars a year as well.
+Client 00:44:12
+I don't want to hear those numbers. Let's move on to the most recent issue. We're talking about immigration. On the news, I
+think on everybody's mind is talking about clamping down or cracking down on illegal immigration, and also deportation, etc.
+That actually invites a prior example. You were at Uber at that time, which is during COVID. I remember, there was a sharp,
+painful experience of drastic undersupply. I think it was early 2021.
+Expert 00:44:39
+Very painful.
+Client 00:44:40
+That, as a preceding case, I don't know, maybe you say, "Oh, this is irrelevant," or maybe you think it's relevant. Let's dive in here.
+First, if you can just spend a few quick minutes to understand that COVID undersupply, what was going on at that time. I was just
+thinking through in my head, there were three rounds of stimulus checks, two rounds in 2020 and the last round, which is really
+big in 2021.
+How come in 2020 we didn't have undersupply, but the pain of undersupply came in 2021? It looks like there's a lag or delay
+there. Was that a truthful observation? Is stimulus check, especially the third one, the major reason? Help me understand, what
+do you think about this? What caused the undersupply? Share something else, please.
+Expert 00:45:25
+I'll talk about rideshare ﬁrst, because delivery and rideshare behaved very diﬀerently during this time. April 2020, COVID hit. No
+drivers want to drive. They don't want anyone near them in their car, but no riders are riding because nobody is going out to bars,
+nobody's going to the airport. Both sides of the markets tanked, which we weren't undersupplied because we had no riders either.
+Delivery is where we saw the acute undersupply because nobody was going to the grocery store, really. We were all getting
+groceries delivered, food delivered, etc. There were a lot of layoﬀs at that time, and people went to ﬁnd these gig economy items.
+The Uber Eats business wasn't as established in 2020 as it is today. It was still very ﬂedgling. It wasn't thought of as a key earning
+opportunity. Uber was very much still ﬁghting for relevancy against DoorDash, Grubhub, and some of the others at that time. As a
+result, we just didn't have the driver base because we never focused on it. It became a massive eﬀort of bringing drivers over to
+become couriers, which took time. My team was involved conducting outreach to them. Many other teams were involved, the whole
+marketing strategy shifted for Uber.
+When COVID hit in 2020, there were way more people that wanted to eat than drivers that could bring them food. That was where
+the undersupply was really acute at that time. What happened is Uber overcorrected because they focused so much on getting
+people to do delivery. In 2021, the riders started to come back to rideshare way more aggressively than the drivers wanted to come
+back to rideshare. The supply issues switched back to rideshare, and we were undersupplied on the ride side. My team was at the
+Page 13 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.forefront of shifting our approaches to get the right drivers at the right times. That's hopefully a decent breakdown of 2020 and
+2021.
+Client 00:47:21
+Interesting. I understand 2021, people get vaccinated, they go out and see the world again. We need Uber. You say driver didn't
+come back quickly enough. Are you saying drivers stuck with delivery and don't want to come back, or drivers literally sit in their
+home and don't want to come out to drive or driver has another job?
+Expert 00:47:41
+Probably a little bit of all of that. I think the biggest thing is that in 2021, people were still going out and seeing the world, but
+everyone was still wearing masks. COVID was still something on top of people's minds, and drivers were still hesitant to have people
+come into their cars. If we combine this with a previous idea that driving has become more of a part-time gig versus a full-time gig.
+These vehicles are the same vehicles that drivers' children are sitting in the same backseat. It became more of a question of like,
+"Am I safe? Am I keeping my family safe by driving for Uber?" The safety equation actually became a little bit more profound for the
+driver in rideshare.
+Client 00:48:23
+Interesting. The virus, the infection, safety issues, right?
+Expert 00:48:26
+Absolutely. It wasn't a question of, will the driver get sick? It was a question of, will the rider sneeze on the car seat or sneeze on the
+leather, and then their child will touch it and get COVID? That became something they never thought about before.
+Client 00:48:41
+Interesting. I hear your story. I appreciate that. How come, I think from an outsider perspective observing this, the shortage was
+more of a 2021 memory, not 2020 memory? Are you saying that in 2020, the delivery driver shortage was able to be smoothed
+out because Uber has this legacy supply on the ridesharing side that compensated a little bit? The thing didn't come out in that
+manner.
+Expert 00:49:07
+That is correct. Uber was able to ﬁx the delivery supply issue by using its rideshare drivers. Again, there were pains, but it wasn't
+impossible. We were able to get enough people over, then 2021 when it shifted, that's when if you were trying to get an Uber to go
+to the bar, it was very challenging or very expensive. It just swung left and right, and Uber struggled to get it perfect at any given
+time.
+Client 00:49:33
+Fascinating. The last topic, the last question on this COVID thing was in 2021. Now we're looking back, understand there was a
+short undersupply and get corrected eventually. Was that experience like a step function, meaning it came to you very quickly, all
+of a sudden within a few short days, or that shock was a slow-paced, slowly boiling shock that come over in couple of weeks?
+People get time to look at it happening, and then slowly go away. Could you describe to me of what that curve of shock feels like?
+Expert 00:50:03
+Sure. April 2020. The shock was aggressive. I remember Andrew Macdonald, at the time, I think he was the VP of rideshare in the
+U.S. and Canada. He got on a global call in March, and he said that he was forming a COVID strike team with a bunch of diﬀerent
+people to understand how the pandemic would impact Uber.
+Fast forward two weeks, the whole business was shut down. It was very, very fast. That was less aggressive for the 2021 rebound
+where rideshare was undersupply, but it was more gradual. There was no event like the start of the pandemic in 2021 that caused
+the rideshare business to turn back on. It was just a gradual societal shift in how they felt about the disease.
+Client 00:50:46
+Got it. You got the time to keep the eyes open and just watch the shift day by day, versus a sudden shock?
+Expert 00:50:52
+Yes. The sudden shock was 2020. The gradual shift was 2021.
+Page 14 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:50:57
+Great. Moving fast forward to today, let's talk about this hypothetical scenario. No one knows and no one has a crystal ball.
+Maybe you have a strong opinion. I'd like to hear that if you do. How should we think about the potential impact? Today, we're
+talking about a tightening immigration policy, clearly on the book. How do you think about the potential impact on those gig
+economy platforms?
+Expert 00:51:19
+I don't think it's going to cause the same issues that we saw with some of the 2020, 2021 craziness. The reason why is because if
+you want to talk about illegal immigration, illegal immigrants can never drive for Uber because they don't have Social Security
+numbers. That's a whole demographic that Uber doesn't even think about. What Uber is more concerned about is legal immigration
+or the potential deportation of legal immigrants in this country, which I think is a little bit. I don't know if we want to go that far.
+If we're talking about the restriction of legal immigrants coming to America, I don't think Uber is super concerned right now
+because their supply is very healthy. Since COVID and the 2021 years, they got so much smarter about how they maximize and
+optimize across supply. The drivers that do delivery, the deliverers that do driving, they are much more resistant now to big shifts in
+human beings wanting to work in this country.
+Client 00:52:19
+Interesting. What you're saying is, even if we cut oﬀ the supply of legal immigrants, there's no new human beings who come into
+this country, was born outside of this country, but coming to this country, Uber, you think, still will be ﬁne because they have
+enough supply?
+Expert 00:52:36
+I think they will be ﬁne. I don't think that they will maybe thrive in those early days while they're ﬁguring it out, but they're not going
+to have a situation like they did in 2020 or 2021. It'll impact their business, in my opinion, not in a meaningful way. Maybe prices are
+raised on the back end so that we can attract more drivers, come on the platform. Maybe they take a hit a couple of quarters and
+raise referral rates, but it's not going to be a massive business shift.
+Client 00:53:07
+Got it. Obviously, this is a qualitative question. Maybe the feeling, or maybe it's a judgment, that for native local Americans, in
+case we don't have enough new labor coming into these countries, do you think Uber is attractive enough to onboard native
+workers?
+Expert 00:53:23
+I think that's an area that Uber has gotten better at, but I think that they are handcuﬀed by the nature of the gig economy in this
+country and their low margins. Uber has always been trying to ﬁnd ways to explore lengthening their margin. Part of that is that
+they can have a lever to pull if they do need to add $0.05 per hour to every driver, they could do that. The best way I'll answer your
+question is I think that Uber is starting to grow up in terms of how they approach the recruiting of what I will say the core American
+population that you're referring to.
+The other nuance here, everyone who will ever drive for Uber already knows about Uber, likely, because the people who are so
+young today that they don't know what Uber is, Uber will be self-driving cars predominantly by the time that they're old enough to
+drive. The entire pool of humans knows about this product. The question for Uber then becomes how do you value proﬁt in a way
+that just makes them want to do it more than DoorDash or, ultimately, makes them want to do it more than sit at a Starbucks
+counter or McDonald's. That's a really challenging thing to do because Uber is handcuﬀed by it's not a full-time job, there's no
+insurance.
+This presidency has a lot of issues, but I'm hopeful that maybe something that comes out of it is more of a focus on part-time,
+transient labor enabling Americans to work diﬀerent jobs whenever they want. The basis of the Republican Party is you're free, do
+whatever the hell you want. Maybe that's something that comes of it that could be a big beneﬁt to Uber. I'll give you an aside here.
+Uber never took a stance politically, internally, never for a variety of diﬀerent reasons. I think part of the reason why is the
+Republican Party is actually friendlier to Uber's economics because they are more anti-worker rights.
+If a party that's more anti-worker rights inherently enables Uber to defeat local regulations, in theory, pay people less, oﬀer the
+most beneﬁts, whatever it might be. I was going to say some of the bills that have been introduced, Prop 22 in California, they're all
+bills that are introduced by Progressive Democrats. Always.
+Page 15 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:55:34
+I totally understand. The federal level labor regulations under diﬀerent presidents do look very diﬀerent. You touched on a few
+times this competition for workers among Uber, DoorDash, and other even McDonald's, Starbucks, and you mentioned it's a very
+challenging task. Help me understand a little bit, let's simplify this question. Say, just between Uber and DoorDash, these two
+ﬁrms, what's easy for Uber and what's diﬃcult for Uber in competing with DoorDash and driver consumer? You also mentioned
+consumer. Could you help me understand a little bit, what's easy, what's diﬃcult, Uber and DoorDash, this competition?
+Expert 00:56:12
+The main diﬀerence between Uber and DoorDash in terms of how their historical strategy has impacted who they are today, Uber
+focused on metropolitan cities, DoorDash focused on suburbs. That was the key diﬀerence in terms of how they strategized. When
+COVID happened, that gave DoorDash a huge advantage because the suburbs became more attractive, people left the cities. They
+started working remotely more often. That was a big moment that gave DoorDash a huge advantage, which Uber could have never
+predicted. If there was no pandemic, Uber could have won this battle. Uber could have been number one.
+The pandemic defended DoorDash's strategy up to that point. Lucky them. COVID was amazing for DoorDash, it's the best thing
+that ever happened to them. In terms of sets are on the consumer side, for example, I live in a small town in New Jersey. DoorDash
+has way more options with way quicker delivery times for me than Uber Eats. That's just how it is, because DoorDash focused on my
+area of the world. In New York City, I'm assuming in Manhattan or Brooklyn, Uber is going to be just as good, if not better, because
+Uber focused on New York and the downtown area, the predominant market.
+That is the key diﬀerence between the two brands historically, in terms of driver competition, that speaks to it as well. Drivers who
+live in the suburbs are going to get more business if they drive for DoorDash, where drivers who live in Manhattan will get more
+business if they drive for Uber Eats. You know this, it's way less fruitful to have a vehicle in the city than any city. That's why
+DoorDash won that battle, has an advantage there as well, in terms of the demographic, is because most people with cars live
+outside of a major city. As a result of that, DoorDash gets the drivers, the people with vehicles. Uber is still very competitive with
+people with bicycles, walkers, motorcycles, etc. When you're talking about the driver, the person who goes six mi, 10 mi to make a
+delivery, DoorDash wins that battle.
+Client 00:58:14
+I hear what you're saying, but I'm not fully understanding it. Let me quickly clarify. Are you suggesting that in the suburbs,
+somehow drivers like DoorDash a bit more because they get more business?
+Expert 00:58:26
+That's what I'm suggesting.
+Client 00:58:27
+I understand most American households have two or three cars even. We have cars. Why do I like DoorDash versus Uber if I'm in
+a suburb? What is the reason?
+Expert 00:58:36
+Because DoorDash historically focused on the suburbs. They have more restaurant partnerships, they have more loyalty from the
+eater base. Their historic focus has given their business a better foundation in the suburbs. More variety, that kind of stuﬀ.
+Client 00:58:51
+Got it. Lastly, aside from the geographical diﬀerence, one is metropolitan, one is suburban, is there any demographic diﬀerence
+in the Uber delivery drivers and the DoorDash delivery drivers? Any demographic diﬀerences?
+Expert 00:59:04
+I'm not sure, but my subjective opinion would be I don't think so. They all abide by the same regulations. It's not like DoorDash has
+a diﬀerent background check than Uber, at least not dramatically diﬀerent. They pay similarly for drivers. I don't see a demographic
+diﬀerence, but I also am not familiar enough to advice.
+Client 00:59:24
+From what you have seen in the industry, the documentation, the background check probably are the same thing across diﬀerent
+platforms?
+Expert 00:59:32
+Yes.
+Page 16 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:59:32
+Maybe let's quickly wrap it up. This is a super thoughtful conversation so far. I'd like to hear, you mentioned about automation, if
+you can just put a few sentences here. I'd like to hear from your front-seat perspective, watching the industry moving over the
+last 10 years, what's your thought on automation? Do you think it's a plus? It's a minus? I think, as you can see Uber stock price,
+you have little concern of how automation going to impact companies. What's your high-level take on this topic on automation?
+Expert 01:00:02
+It's a little bit subjective obviously. As you know, I worked there for nine years. I know the type of human beings that Uber hires, I
+know the type of leadership that they have. That's certainly inﬂuencing, in my opinion. I think that Uber wins. The reason why is that
+Uber, as we know, is a verb. Waymo is not a verb, Tesla is not a verb. Nobody's Teslas around town. I believe actually the system that
+Uber has built, the data that they have about how people move around cities, how fast cars are driving, traﬃc patterns, it destroys
+anything that Waymo or Tesla can put together.
+I think that will eventually enable Uber to be the most eﬃcient way to get money from your autonomous vehicle, because they are
+going to know how to maximize how an autonomous vehicle drives. Uber changes their arrival times, based on the weather. They
+go very, very deep into how a city operates. I think when we talk about autonomous, when you remove the variable of a human
+driver, Uber's data becomes that much stronger because when you remove a human being who can inputs into that data, Uber is a
+big data company, and their data becomes that much better.
+I think that that's going to be attractive to cities. Cities are going to be behind Uber instead of being behind Waymo or Tesla. I think
+that's going to be important in the long run. The federal government with Elon Musk right now is a big wild card. I hope that
+eventually the federal government sees that you don't want a vehicle manufacturer also being the one that puts the people in the
+cars. I think that opens up a little bit of risk that Uber, they're more of an observant, non-subjective party in that matter.
+They don't care if it's a VW autonomous car or a Tesla autonomous car. I think that gives them a leg up. That's my take on it. I
+foresee a world maybe a decade, two decades from now, you probably know better than me, where Uber is 95% autonomous and
+you call an Uber and you get a Waymo or a Tesla or a VW or a Ford Mustang or whatever else is out there that they're putting on the
+platform.
+Client 01:02:07
+Between the competition, Uber and DoorDash, what's your view longer term between these two companies? It sounds like you
+think DoorDash is also somewhat competitive.
+Expert 01:02:16
+I think delivery is a little bit of a diﬀerent beast here because if my worldview is correct, delivery ends up happening with not a
+vehicle, it ends up happening with a small little cart or maybe a drone or something like that. I think it's a little bit of a diﬀerent
+market in terms of how autonomous could impact it.
+Client 01:02:35
+That's exactly my question. The competition between Uber and DoorDash, the two businesses, what's your long-term view?
+Expert 01:02:42
+My long-term view is that DoorDash has won food delivery. I really do believe that. I don't think that Uber can catch up anymore. I
+don't know if that matters. If Uber hits its other businesses, if it hits on rideshare, if it wins autonomous, and it stays number two in
+delivery, everybody eats food, not everybody takes rideshare. I think within the food area, there might be more pie that Uber can
+have a strong, proﬁtable earnings-driving business even if they're not number one. I don't think they will be number one, at least
+not again. U.S. and Canada speciﬁc, Uber has one other delivery markets, just not this one.
+Client 01:03:20
+I heard in London, they are really strong. This is the last question for the entire conversation. I appreciate you had a long and
+enriching experience working at Uber. What would you say are your most surprising learnings that you have had over that nine
+years? Give you "Aha!" moment, something that you didn't expect and really surprises you.
+Expert 01:03:40
+I would say that Uber is a master of labor, both externally in terms of how they think about drivers, but also internally. Uber, a lot of
+companies, when they need something, a piece of software for example, they'll go pay a third-party company like Salesforce or
+Google or whatever to buy their software and use it. Uber builds everything itself. Uber invests heavily in labor that allows for
+internal automation.
+Page 17 of 17
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Maybe you probably know better than me. Uber has like 50,000 employees today, maybe a little bit more. That's the highest
+number in my opinion we'll ever have. I see Uber ﬁguring out ways to dwindle down their workforce over time and ﬁnd ways to
+automate work faster than any of these other companies can do.
+Client 01:04:25
+Well, thank you again for taking the time to speak with us today. This was very helpful. Enjoy the rest of your day.

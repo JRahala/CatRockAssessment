@@ -1,0 +1,506 @@
+Page 1 of 11
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.
+COMPANY DEEP-DIVE
+Former Director at Uber Technologies Sees Growth Opportunities in
+Eﬃcient Acquisition and Autonomous Vehicles Impact
+DATE PUBLISHED
+11 Nov 2024INTERVIEW DATE
+28 Oct 2024EXPERT PERSPECTIVE
+FormerANALYST PERSPECTIVE
+Investor-Led (Buy-Side)PRIMARY COMPANY
+UBER
+Summary
+The Former Senior Director of Strategy & Planning at Uber Technologies Inc. discussed with the client strategies to improve growth, proﬁtability, and market
+share at Uber, focusing on eﬃcient acquisition channels, underpenetrated segments, and analyzing P&L line items for proﬁtability. They also touched on
+incentives for riders and drivers, diﬀerent Uber products, margins, pricing strategies, and the potential impact of autonomous vehicles on car ownership and
+Uber services. The conversation emphasized the importance of managing driver relationships, providing earnings transparency, and adjusting pricing based
+on user behavior data and local constraints.
+Table of Contents
+Introduction And Expert's Background
+Strategies For Growth And Proﬁtability
+Consumer And Driver Incentives
+Product Margins And Take Rates
+Dynamic Pricing And Driver Relations
+Market Trends And Autonomous Vehicles
+Expert Bio
+Former Senior Director of Strategy & Planning at Uber Technologies Inc. leaving in May 2021. The expert guided Uber's rides
+business strategy and ran Uber's competitive strategy team for a couple of years (pricing, incentives, competition, market share
+influence, etc.) Chief Executive Officer at Lightyear Health. The expert is responsible for breaking capital and funding the business.
+Prior, the expert was a Senior Director of Strategy, Business Operations, & Planning at Uber, leaving in May, 2021. The expert was
+responsible for reporting to the person who ran the Uber "rides and mobility" business. The businesses encompassed how to make
+trade-offs between long-term growth, profitability, and competitive dynamics. The expert also guided Uber's rides business strategy
+and ran Uber's competitive strategy team for a couple of years (pricing, incentives, competition, market share influence, etc.)
+Employment History
+Lightyear Health (Private)
+Chief Executive Officer • February 2022 - Present • 3 yrs, 3 mosRelevant Role
+Lightyear Health (Private)
+Chief Operating Officer • May 2021 - February 2022 • 9 mos
+Uber Technologies Inc. (Public)
+Senior Director Strategy & Planning • February 2019 - May 2021 • 2 yrs, 3 mos
+Uber Technologies Inc. (Public)
+Director Strategy & Planning • February 2017 - February 2019 • 2 yrs
+Uber Technologies Inc. (Public)
+General Manager, Strategy & Planning • October 2014 - February 2017 • 2 yrs, 4 mos
+Interview Transcript
+Client 00:00:00
+Thank you for taking the time to chat about Uber. If you could start by just telling us a little bit about your background. I saw you
+have extensive experience in strategy and planning in Uber. If you could talk about this, and then we have some speciﬁc
+Page 2 of 11
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.questions.
+Expert 00:00:15
+Yes, absolutely. Nice to meet you both. I joined Uber in Q3 of 2014, and I left Uber in Q2 of 2021. I was there for almost seven years.
+My role at Uber was to basically lead the business operations and strategy team.
+Functionally, I reported to my boss who was the P&L owner for Uber's U.S. and Canada ride-sharing business and I helped her think
+through how to make decisions and trade-oﬀs between growth, proﬁtability and market share.
+We basically looked into everything from driver acquisition and retention, engagement, churn to rider acquisition, engagement,
+churn, what was driving growth, each line item on the P&L, how it drove the business.
+We analyzed the marketplace, dispatch search, pricing, incentives. Then I also led Uber's competitive strategy team. Starting in
+2016, I started leading Uber's competitive strategy team. Much of what Uber deploys today in the form of either competitive
+strategy or tactics came out of the work that we had done as a team back then.
+I'm quite familiar with how Uber thinks about diﬀerent aspects of competitive strategy as well as what the diﬀerent drivers are that
+move market share movements over time. Then I also spent time leading Uber's pool business for about 1.5 years.
+I was a P&L owner for that. I've spent a little bit of time on Uber's broader growth strategy, so things like ads, shared rides,
+hailables, Uber Teams and some of the other growth bets that Uber has been making. Then I'm also a little bit familiar with how
+Uber thinks about its platform strategy and other components. Basically, I've worked on quite a few diﬀerent things, and we can go
+into those in more detail.
+Client 00:02:00
+The ﬁrst thing that I wanted to ask you is that you said you were working with strategies focused on growth, proﬁtability and
+market share. I mean, are there diﬀerent strategies to get better in each of these points? If there is like what will you do to
+improve growth or improve proﬁtability and then improve market share?
+Expert 00:02:21
+Yes. I think it comes down to, let's say, that you've got, let's say, you're trying to drive growth. Let's say that today, you are acquiring,
+I'm just making up some numbers for conversation. Let's say, you're acquiring drivers on average for $250 per driver today.
+You can drive more growth by spending more money, but you spend it on whatever you feel is the current most eﬃcient channel.
+The ﬁrst thing you need to do is you need to understand of all the diﬀerent channels that you have, which channel is most eﬃcient
+and so you can track the cost of acquisition across each of those channels.
+Then you would go in and you would increase the budget on that particular channel. That's the easiest way that you can do it. Your
+blended customer acquisition cost per driver might go from $250 to $260 to $270.
+That will be the most eﬃcient way that you have to drive growth in the near term. Longer term, what you would obviously try to do
+is ﬁgure out which segments of the Uber base were underpenetrated, and you would try to tap those.
+As an example, when we were there, we looked at our broad user base, primarily the people using Uber most were young adults
+between the ages of 22 and 45, and they skewed a little bit more male, but that was the age range that you had.
+It was immediately clear that teens were not using Uber and older adults, those that were above the age of 55 were not really using
+Uber that much. Those demographics are very underpenetrated.
+At the same time, within the 21 to 45 age group, you had a decent share of women, but not a lot of women that were using the
+platform. There was an element of what can we do around safety that would get more people onto the platform.
+Those demographics, those segments, use cases, that will be the product-driven way to drive growth. Then, of course, the ﬁnancial
+way to drive growth is just ﬁguring out where can you allocate dollars that would make it most eﬃcient for the business to grow.
+That's the growth side. I can do a similar thing on proﬁtability, that's helpful or if you have questions on the growth side, we can go
+deeper a little bit there and then come back to proﬁtability.
+Client 00:04:40
+No, go ahead. I would like to hear about the proﬁtability and market share also.
+Page 3 of 11
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:04:45
+On proﬁtability, there's two things that we did. The ﬁrst one was we looked at each line item on the P&L and basically said, if we
+benchmark this line item against other companies, similar companies, are we much higher or are we in line with where other
+companies are?
+In places where we were much higher, that gave us a signal that these were areas where we had more fat to cut and these were
+areas that we could spend more time ﬁguring out how we can lower them.
+That's one approach. The second approach is you look at each line item and you say, is this line item core to the service is it a key
+part of service? Does this line item drive growth? Or is this just a thing that we have to get done?
+If it's not as meaningful a driver to growth, then maybe we can ﬁnd a way to do this thing cheaper and then it won't really impact
+growth as much. Looking at each line item and saying, how strategic is it versus not?
+Then is there a way where we can do that particular thing diﬀerently so we can lower the cost, but not really impact growth is the
+other way that we went about looking at how to drive a little bit more proﬁtability without impacting growth as much.
+We like to call that which areas are investments versus which areas are just spend. That's another way that you can do it. Finally, the
+last way is the one that was connected a little bit to growth earlier, which is, let's say that my blended cost of acquiring a driver is
+$250.
+If I actually analyze that by diﬀerent channels and by diﬀerent cohorts, I might ﬁnd that there might be cities where the cost of
+acquiring a driver is actually $500 or $600, and there might be certain channels like I'm making stuﬀ like Facebook ads actually are
+not as well performing and those channels are $700 to acquire driver, while some other channels like Google Ads or indeed ads
+might be doing much better at $300.
+You can start to cut back on spend in the most expensive channels, and that has a disproportionate impact on driving your
+proﬁtability, but a much lower impact on reducing growth. Those are some of the sort of frameworks or ideas that we deployed to
+try and drive proﬁtability.
+Client 00:07:02
+Okay. I have a question. When you're talking about the strategy to improve growth, you said short-term, you usually focus on
+acquiring new drivers and trying to understand what are the most eﬃcient channels to do so. In long-term, you talked about
+underpenetrated segment of Uber, and this speaks more to the demand side of the business. Is it right to think that what drives
+the short-term growth is acquiring new drivers. The supply is important to improve supply. Long-term, you have to focus on the
+demand.
+Expert 00:07:32
+I think what I meant by short term was in the short-term, it's diﬃcult to build a new product or segment and have it drive
+meaningful growth. If you're trying to drive growth in the short-term, you have to do it through spending more capital.
+You might spend that capital on either the supply side or the demand side. It just depends on which side is more constrained at that
+time. In the short-term, it's really about spending a bit more capital.
+In the longer term, it's about building products and services that open up new segments for you. That also could be either the
+demand side or the supply side. In general, in the long-term, you have to do both.
+You have to do both supply and demand. You are correct that in the short-term, these types of marketplace businesses, they tend to
+be supply-driven businesses. Usually, you ﬁnd that you are supply constrained.
+Once you found product market ﬁt, it is usually the case that you are supply constrained. If that's the case, then you have to
+continue to focus on bringing on supply. However, I don't want to say that demand isn't important.
+It is because you might ﬁnd periods in the business where you have quite a bit of supply, but demand is slowing. You have to focus
+on either spending capital to bring on demand or building certain products or services that allow you to unlock the next segments
+of demand. Short-term capital, long-term products and services and then whether you do these things on the supply or the
+demand side in the short-term is going to be dictated by which side of the marketplace you have the bigger constraint on. In the
+long-term, you need to do both.
+Client 00:09:13
+I want to make a question about this demand aspect that you said. I would like to understand what is the most common case for
+a consumer to churn Uber. It was about price, it was about some bad experience.
+Page 4 of 11
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.I'm just trying to understand like what makes like a consumer churn the app completely or what makes it decrease their
+frequency of ride shares and what does Uber can make to kind of in the ﬁrst case of completely churn the app, how they can get
+the consumer back on the app. The second case, you see that there was a consumer that was like riding three times a week and
+now just like riding three times. How can you get the customer to increase their frequency at riding the app again?
+Expert 00:09:55
+The biggest factor tends to be price, as you mentioned. The second biggest factor usually tends to be wait times. How long does the
+customer to wait until the Uber gets to them. Those are the two main factors.
+After that, it's a long tail of things around speciﬁc experiences that they may have had on that particular trip. Let's say, they had a
+really bad driver or really bad experience in that ride or the driver canceled on them a couple of times or they just weren't able to
+get a car somehow.
+Those tend to be the next few factors. All of these factors are inﬂuenced also by competition. Let's say that you have a user that has
+used Uber ﬁve or 10 times. At this point, they seem to like the service, so they're coming up the adoption curve.
+Then all of a sudden, they have a high price or a bad wait time. If you have another strong competitor like Lyft in the market, then
+you're more likely to try and use that competitor too and then you'll start splitting your, you'll either use only Lyft or you'll start
+using both services.
+If you don't have a competitor in the market or the second competitor is a much worse service, then you're more likely to just stay
+with Uber and you're more likely to primarily just keep using Uber even if you've had one or two bad experiences. That's basically
+price, wait times, and then it's a long tail of things like support quality, driver, car and other things like that.
+Client 00:11:24
+On the consumer side, what kind of incentives could you give like the riders to like use Uber more times or ask more delivery?
+What incentives do you get to the demand side? Like what cost does this represent to Uber?
+Expert 00:11:37
+The most popular commonly used incentive type on the demand side is something like get X percent of your next Y trips. Let's say
+that you're someone that's using Uber, we would say, hey, we haven't seen you in some time, get 5% or 10% of your next three
+rides.
+That will be the most common way to do it. Then there are variations on that. Things like if you take the next three rides, then we'll
+give you one ride free or if you take the next ten rides, we'll give you one ride free.
+Or if you take the next ﬁve rides, then we'll give you 25% oﬀ your next two rides. Those would be ways where you can get the user
+to take some paid rides and then give them a little bit of a discount on the next couple of rides.
+Those are the two main ways. Then there are other ways where you just give someone $25 in credit and let them use the credit
+however they would want to use it. That's another way you can do it.
+Then you can also give people credit for speciﬁc ride types or services. Let's say, you're somebody that uses Uber X all the time, I
+might want you to try Uber pool or shared rides. I might give you a discount, but only speciﬁc to shared rides or Uber X. If I'm trying
+to upsell you, then I might give you a speciﬁc discount to Uber Black or Uber SUV, where I want you to try that service so that you
+might use that product, really like it and then start to use that higher-end product more often.
+Or like you said, with delivery, let's say, you only do ride-sharing, I might give you a promotion, but only for delivery. That will be a
+way to get you to trial that type of service. Those are the most common ways.
+Today, Uber is leaning a little bit more into their membership program, Uber One. With that membership program, the idea is that
+some of the beneﬁts in there are funded by Uber, but some of the beneﬁts are funded by third parties.
+Whether it's Marriott or it's United or Delta or some other airline or it's a diﬀerent service brand, then the thinking being that we are
+trying to get you to spend more money on Uber. The more money you spend, the more points you're able to build up and then you
+can redeem those points for beneﬁts either on Uber or one of its partners in the ecosystem.
+Client 00:13:54
+Yes, that makes a lot of sense. On the supply side, what incentives do you get to the drivers and the couriers so they stick to the
+platform?
+Page 5 of 11
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:14:02
+It's something similar. You would basically try to give rewards for increasing their usage or increasing whatever behavior you're
+trying to drive. As an example, you might say to drivers, do 75 trips and get a $100 bonus on top of whatever earnings you might
+normally make as a base earnings.
+That's the simplest example. You can then get smart with it and basically say, let's say, I know that you typically only do 30 to 40
+trips every week because you're a part-time driver. Your colleague may be a full-time driver and typically does more like 50 to 75
+trips.
+I might give you a bonus that says, do 50 trips, which is about 10 to 20 more than you normally do, and we will give you a $100
+bonus. For your colleague who normally does 60 to 75 trips, I might say, do 90 trips and get this type of bonus.
+That's personalizing or individualizing the oﬀer and giving someone a little bit of a stretch oﬀer from what they normally do. That's
+the second approach. A third approach is Uber might say, we really need drivers in these speciﬁc times, in these speciﬁc areas.
+We'll provide these bonuses, but only for trips that happen in these areas. I might say that I need people. It's a really busy weekend.
+We have a bunch of festivals and concerts and it's going to rain.
+I really need people Friday through Sunday. This bonus oﬀer only applies Friday through Sunday or it only applies in the downtown
+area. That will be another way that this gets done. Usually, these oﬀers are called do X and get Y dollars.
+Sometimes the oﬀer is limited to certain times in areas. Other times, it's just generally applicable to everything. That's the primary
+way that it's done. Then similar to the rider side, Uber has a loyalty program for drivers on the supply side as well.
+Same thing, some of the beneﬁts are funded by Uber and some of the beneﬁts are funded by other third-party partners that might
+provide gas discounts or maintenance discounts or various other things. The more drivers drive with Uber, the more points they get
+and they can redeem those points on some of these programs.
+Client 00:16:16
+Talking about the drivers, but now a little bit about the cost of acquiring new drivers. You said there are diﬀerent channels to do
+the acquisition of drivers. One of the strategies Uber adopts is like identifying the most eﬃcient channels to acquire drivers and
+invest more money in those. Could you give me some examples of what are these channels and which ones are more eﬃcient?
+Expert 00:16:38
+The main channels are the ﬁrst one is organic, which is drivers just automatically signing up on their own because they heard about
+Uber. The second one is referrals where Uber would say to an existing driver, if you refer another driver to us, you will get X dollars.
+Then the third major category is paid channels, which is basically digital marketing or any type of model where Uber is paying a
+Facebook, Google, Instagram or some other service to run ads that drivers will see those ads and then come on to the platform.
+Those are the three main channels. Then you have some smaller channels where you can oﬀer to riders that if a rider refers
+another driver, they will get a bonus or you can set up stalls at popular areas where drivers hang out like gas stations and just have
+people that sign up drivers at gas stations.
+Those are the channels. We can focus on these main channels, which is organic referral and paid. Organic is fairly obvious, which is
+just as you build your brand and become popular, more and more people ﬁnd you organically and they're able to sign up through
+the channel.
+Organic is usually the least cost because you're not spending any money. People are just coming and signing up on your platform
+for free. That's the most eﬃcient. Referrals, you can change the referral bonus as you need to.
+It's basically a driver referring another driver that often tends to be a higher quality lead because an existing driver has referred
+another driver and so that driver has probably told the other driver, and that's going to be a high-quality lead because the person
+signing up already knows what they're getting into.
+With paid ads on social media and other services, it produces a lot of volume, but sometimes the quality can vary because someone
+may see an ad, but they might not know what exactly that thing is.
+Within paid, you have a variety of channels. You have things like social media, which is Facebook, Instagram, Snapchat, et cetera.
+You have Google AdWords or search engine optimization. Then you have other channels like job boards like indeed.com and things
+like that. Those are the major sources that you have to run advertisements and try and ﬁnd users.
+Page 6 of 11
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:18:55
+I would like to talk a little bit about the diﬀerent products, Uber has. On the last few years, Uber released a lot of new products
+and a lot of low-priced products. I was wondering, one of the screening questions you answered, you said you could talk about
+how this aﬀects the company margins and go into the details of the trends of each business line margin over the couple of years,
+over the last few years. If you could talk a little bit about this, it will be very helpful.
+Expert 00:19:23
+Sorry, just to clarify, you want to go through Uber's diﬀerent products and then what the margins look like for each product?
+Client 00:19:31
+Yes, exactly.
+Expert 00:19:32
+The most popular or the biggest product at Uber is Uber X. Uber X is the ﬂagship product. In terms of margins, Uber X, it varies a
+little bit by geography, but Uber X is going to be closest to the margin that you see for Uber as a whole.
+The reason for that is Uber X tends to be at least in the U.S., it tends to be about 80% to 90% of Uber's total volume and revenue
+comes from Uber X. In international geographies, that's a little bit less the case because Uber X is still a more expensive product in
+international markets.
+Other products tend to be fairly signiﬁcant like shared rides or hailables, et cetera. In terms of the actual margins, how do I describe
+this? Let's assume that Uber's, let's say, Uber's current total EBITDA margin in the U.S. is for mobility is about 7.5%, and that's Uber's
+adjusted EBITDA margin as a whole for the mobility business.
+Then the Uber X business is probably going to be a little bit higher than that. Let's call it, slightly less than 10% is going to be the
+Uber X business. Uber Black tends to be a more premium product. It usually has slightly higher margins.
+That's probably going to be slightly higher. Same thing with things like Uber XL, Uber SUV, those are your higher-end products that
+have a little bit more margin. Then on the other side of the spectrum, when you look at things like shared rides or hailables, which
+is things like auto and motor, those are going to have lower margins.
+Those are products that are typically more popular in emerging countries. India, Latin America, so those countries generally have a
+slightly lower margin than places like the U.S. or U.K. Then these products themselves have a slightly lower margin.
+Those products might have a lower margin on an adjusted EBITDA basis. I'm just giving you a general range of the delta between
+the margins across these types of products.
+Then you have other products that we build things like Uber for Business, which tends to also be a high-margin product. That's,
+again, going to be something around 10% margin type business, maybe slightly less.
+Those are the main ones. Then you've got a couple of other things like ads, which is probably the highest margin business at Uber. I
+don't have a great sense of exactly what the margin would look like, but ads today is a very, very high-margin business.
+That's probably producing much higher adjusted EBITDA margins. Then you have products like families and teens, which are also
+on the higher end part of that spectrum, call it, the 8% to 10%. On the low end of the spectrum are going to be things like shared
+drives and hailables, autos and motors and then everything else is going to be either at the Uber X or slightly higher margin level.
+Client 00:22:22
+Just a question on this topic. We talked about margins, but when you talk about gross bookings, how is the ratio of each of those
+products? Do you have a ballpark number, like what percentage is maybe to UberX, Comfort, or Black?
+Expert 00:22:35
+I would say that it varies a little bit by geography. Let's maybe look at the U.S. In the U.S., I would expect that maybe 85% UberX, and
+then you have about 3% to 4% Uber Black, 1% to 2% SUV, 2%, 3% UberXL and then the remaining 2%, 3% in shared rides. That's
+roughly what you're going to see as a split. And then internationally, you might see UberX be about 70%, 75% and hailables be the
+next largest at 5%, 10%. And then Uber Black, SUV, XL, shared rides make up a little bit of the rest of the volume in equal split.
+Client 00:23:10
+One last question about this margin is, do you think this low-priced products, they have a lower margin, because they are new
+products and Uber is still ﬁguring out how to ramp this product? Or is it going to be like this in the long term? They will have
+Page 7 of 11
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.lower margins on the long term.
+Expert 00:23:27
+I would anticipate that they will have lower margins in the long term that doesn't necessarily have to be the case, but usually, it
+ends up being the case. The reason for it being these products are usually used by users that are more price sensitive.
+And so what you ﬁnd is that if you reduce the price a little bit, it drives a lot of volume. So if I'm Uber, I can either try to maximize the
+percentage margin or I can try to maximize the dollar margin. And usually, companies are trying to maximize their dollar margin.
+And so if I reduce the percent margin a little bit, I can drive a lot of volume, which then allows me to maximize my dollar margin.
+And so typically, these products are run at lower margin levels in order to be able to maximize the volume and maximize the dollar
+margin.
+Client 00:24:17
+And in relation to the take rate, is it the take rate also varies from product to product and if you could give me a little detail about
+how it varies?
+Expert 00:24:26
+The take rate also varies product to product. And I think it generally follows a very similar pattern to the margins, because the rest
+of the cost structure tends to be fairly similar across all of them. So the take rate is the main driver of what happens on the margin
+side. So you've got UberX's take rate and then typically on Uber Black SUV or XL, you will have a slightly higher take rate. Same on
+Uber for Business and Teams. And then on shared rides and hailables, you'll have a slightly lower take rate because of that price
+sensitivity.
+Client 00:25:00
+I would just like to jump in and ask a question about take rate. So two questions. The ﬁrst one, if you look by category, so just
+looking Black or X or whatever, does the take rate is the same for today or if we are in the prime time, it's diﬀerent from the
+hours of the day with lower demand?
+That's the ﬁrst question. And the second one, it's about some soft ways that Uber can do to increase take rate without the earner
+realizing it. So maybe not showing the price that the consumer are paying, but just showing the price that they will earn by doing
+that ride. So just trying to understand the soft ways of increasing take rate that does not have a lot of friction.
+Expert 00:25:40
+Sorry, could you repeat the second part of the question again, soft ways of take rate?
+Client 00:25:46
+So maybe if you imagine that you can do an increase in the take rate and it will appear to the driver that in the ride that will cost
+$50, you will know that, but at the end of the ride, you will see that you just earned, 70% of it. But maybe if you do not show the
+driver, how the price will be from a consumer perspective, you just show to the drivers, the price that you will earn by the ride,
+you can increase more of your price without the driver realizing.
+Expert 00:26:15
+Understood. The ﬁrst question you had was how take rate varies by time of day and maybe during peak hours versus not. So one
+thing that may be helpful is to just start with how pricing works at Uber. So pricing varies a little bit by some markets like the U.S.,
+where regulations are little bit diﬀerent than other markets internationally.
+So in the U.S., the way pricing works, pricing is actually decoupled between the rider and the driver side. And what I mean by that is
+based on how regulations work in the U.S., Uber can charge the rider a completely diﬀerent price that is decoupled from how prices
+are calculated for the driver.
+This is diﬀerent from how it works internationally, where internationally in certain markets, Uber has to pay the driver a ﬁxed
+percentage of what they charge the rider. So I'll just use some simple numbers.
+In international markets, if Uber charges the rider $10, they must pay the driver 80% or 75% of that fare. And so the driver must get
+$2 or $2.50, whatever the commission rate is in that market of that rider's fare.
+That's how it works internationally. In the U.S., that's not the case. So Uber can charge the rider $20 and pay the driver $7.50 or
+Uber can charge the rider $5 and pay the driver $7.50. So it's completely decoupled.
+Now, the implications of that are is, number one, Uber's take rate varies, however they want it to vary. And it's not a ﬁxed take rate
+Page 8 of 11
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.like it might be internationally. So that's number one. Number two is Uber can choose to take more margin or less margin on
+certain trips, however it sees ﬁt based on the objectives that it's trying to balance.
+So to your point, when demand is really high and there's not as much supply, Uber can choose to take a lower take rate to
+incentivize more drivers to be online and to work and to complete trips in that period.
+And when things are a little bit slower, then Uber can take more take rate, because there's a lot more supply on the platform and
+they're able to leverage the excess supply to take more take rate.
+And same can happen geographically, et cetera. So what Uber ends up doing is they have an algorithm where they understand the
+elasticity of demand and supply in certain times and spaces, and they will use that to ﬂex prices in order to maximize the number of
+trips or revenue that is completed or throughput in the marketplace, and they will vary their own take rate in order to do that.
+So that's kind of how pricing works in the U.S. They're changing take rates all the time, and they're not trying to change take rate
+per se. They're just trying to change prices, so that they're able to maximize throughput in the marketplace, maximize the number
+of volume that is just completed in the market, and that ends up resulting in diﬀerent types of take rates. Before I go to the second
+question, I'll pause here and see what questions you have on this one, because I know it's a little bit of a big topic.
+Client 00:29:21
+How can I say, it's tough to understand like what happened in each case, but the general rationale is pretty clear, because at the
+end of the day, if I understand correctly, and please correct me if I'm saying something wrong, the main additive about this is
+providing the consumer with a predictive supply, predictive estimated time of arrival and nice prices.
+So Uber willing to decrease their take rate in order for a long-term value for the consumer to see that the platform is always
+providing them with rides in less than ﬁve minutes with aﬀordable prices. So am I right?
+Expert 00:29:57
+Yes, that's exactly right. The transparency is a slightly diﬀerent point. And you're right that, that is also an important factor, and that
+will come into question too. But what they're trying to do is just ﬁgure out how to drive the best market clearing price and be able
+to dynamically oﬀer that price to both riders and drivers in real time as often as they can so that they can make it the most eﬃcient
+marketplace. And as a function of doing so, the take rate is changing all the time, but that's just a byproduct of trying to make it the
+most eﬃcient marketplace possible.
+Client 00:30:33
+And so just to understand, how all this dynamic that you just said that sometimes the take rate is higher, sometimes it's lower.
+How does it challenge with the drivers? So how does Uber manage this relationship with the orders, especially for this dynamic
+take rate, sometimes for the same ride, the driver will earn 70% or maybe 85%, depending on the hour of the day?
+Expert 00:30:56
+Good question. As you might imagine, drivers are not very happy when Uber's take rate is very high and their own take rate is kind
+of low. So they're not very happy about that. And so Uber has to be careful at how much they ﬂex this.
+So one of the things that happens with company is there are some guardrails that they will often put in place. And so I'm just
+describing to you how this might happen. So one guardrail is you might say, "Uber's take rate can never exceed 50%."
+And because that's anything above that, the driver is going to be very unhappy whether the driver might think Uber is trying to
+price couch them or ﬂeece them. And so Uber will never take more than 50%.
+And so that's one guardrail you can put in place, and that allows you to somehow maintain a certain relationship with the driver. The
+second thing you might do is you might say, "Look, if the driver is new to Uber and they have done less than 50 trips, the driver is
+still early in their life cycle.
+And if you piss them oﬀ, then you're going to risk churning them or losing them much more." So you will not take a high take rate
+on a driver, when they're ﬁrst new to the platform and less than X trips.
+And only after that point, will you start to ﬂex this and do a higher take rate on their trips. So that's another way, where you can
+make sure that you get the driver to a certain amount of usage on the platform, before you start to do some of these types of
+things, that allows you to minimize churn on the platform.
+Those are just two examples that I described. And I use those examples as being two sort of key moments or places, where you
+might see high levels of driver churn. And so there are other things you can do like that, that allow you to preserve your relationship
+with the driver while still running these types of strategies.
+Page 9 of 11
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:32:51
+I have a doubt, it's, through this earning relationship, how does Uber manage the earners' view about how much they are
+earning. So does Uber say it's better to look at a monthly time period than to see how much you earn by mile.
+So I'm just trying to understand, especially because you have all these moving parts to see how much rider cost, how much the
+driver will earn, how much Uber will charge the take rate. So because of all those moving parts, if you talk to full-time earner, that
+was like their platform for a long time, maybe they realize that if they do the same ride from A to B in diﬀerent days, diﬀerent
+time zones, like they will earn diﬀerent amounts of money. So how does Uber explain this to the earner, so that they not feel that
+they are being cheated by the platform?
+Expert 00:33:39
+It's a good question. It's deﬁnitely an ongoing struggle or diﬃcult thing to do. So Uber does a couple of things. The ﬁrst is they're
+fairly transparent upfront in saying, I guess it varies a little bit by geography.
+So I'll describe the U.S., where it's a little bit diﬀerent than international. Actually, let's start with international because that's what
+the U.S. used to look like, and then I'll describe what the U.S. looks like now.
+So the old model at Uber was they will tell a driver in your geography, your base rate is going to be x, meaning per minute, you will
+receive x cents per minute and per mile, you will receive y dollars per mile.
+And then this is the base fee that you will receive and your price is going to be a combination of these things. So at the end of every
+trip, when the driver completes the trip, they will be able to see a fare card that says, "This trip was seven minutes and two miles
+and therefore, this is the base fare, this is your per mile fee times the number of miles, this is your per minute rate times the
+number of minutes, and therefore, this is the total amount that you earned."
+And they'll also show what the rider was charged and what the driver was paid. So it's quite transparent. And so the drivers can see
+that at the end of every trip. And then at the end of every week, and so if you're a driver, you can just go into your app and you can
+scroll through all of your trips and see each trip, how much did you make.
+And then I'll also show you how much you were tipped. So how many tips did you receive on every trip. Then what Uber does is at
+the end of every week, they send the driver a summary, like a weekly summary.
+And in that, it will show how many hours the driver drove, how many hours they were busy, moving passengers around, how many
+trips they did, and the total that was earned in earnings, tips, incentives, any promotions they received oﬀ of those and then each
+individual trip listed.
+So they provide sort of the details as well as a summary for how much the driver made per week and then the driver is able to use
+that info to calculate, "How much did I get paid per hour," et cetera, if they want to.
+That's sort of how they're doing it. Now bear in mind that in the U.S., as I mentioned earlier, the driver's price is decoupled from the
+rider and the Uber is also changing the driver's price. So the only diﬀerence is that upfront, Uber is not able to give the driver a per
+minute and per mile rate.
+So instead, what Uber does is every trip that the driver is dispatched, they get a little thing in the app that says, "This trip is going
+from place x to place y and you will earn $9.22 on this trip, do you want to accept it?"
+And so the driver can see what they will make on the trip before they even do the trip. So they can see what they are going to earn
+on that trip. And they can choose to accept it or not. And then once they accept it, everything else is the same as what I described
+earlier, which is at the end of the trip, the driver will see a summary of all the charges and what is the calculation that gives them
+the ﬁnal price.
+And then the driver will get a summary at the end of the week that shows all the breakdown in details. So by doing this, Uber is
+making it transparent so the drivers will always know how much they will get paid for that trip, before they even accept the trip, and
+then they'll know how much they got paid after the trip with a clean breakdown and then they'll have a weekly summary at the end
+of the week from Uber.
+Client 00:37:19
+So I would like just to ask a question now about still pricing, but more about pricing and take rate now. I think that in each
+diﬀerent city that Uber operates, diﬀerent constraints appear for Uber pricing.
+So if you are in probably New York, where you have a great subway system, like subway price probably will be a parameter in the
+equation of pricing. But maybe if you are in L.A. that you don't have a really good public transportation system, this will not be a
+constraint.
+Page 10 of 11
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.So I'm just trying to understand, how is the model about pricing the rights? And how these local constraints and speciﬁc issues as
+good or bad public transportation system or even their purchase power if you want to develop in emerging countries, all of these
+parameters and speciﬁcs are taking in account when you're deﬁning how you price the rides?
+Expert 00:38:10
+So let's say that you are starting today in a city altogether like brand new, I think you do a little bit of what you're describing, which
+is you might say, "Okay, I need to come up with a number for my per minute and per mile rate or some other way to price this."
+And so you're exactly right, you would look at what is the cost of living in that city. And then you would look at what are the available
+means of transportation, how good is the public train or bus system, how prevalent are cars, what is the cost of ownership, what is
+the cost of gas in the market, et cetera.
+And you could use some version of those to price the rates. But I think the way that Uber has evolved is Uber did a version of that
+exercise like 10, 15 years ago and said, "This is sort of where we can start in the city."
+But what they've done now is that they use the elasticity data that they have collected over millions and millions of trips over the
+years and let's say that I pick L.A. and in L.A., I started with a $1 base rate, a $1 per mile rate and a $0.20 per minute rate, that's kind
+of what I started.
+But now that I have elasticity data, which is the actual user behavior data, I can use that data to say, "Okay, should I lower the price
+by 5% at this particular time, because when I do, I see that demand is very elastic or am I okay to increase the price by 2% at this
+other time, because when I do, demand is not that elastic."
+And so in some ways, that's a real-time elasticity driver that's always going to factor in user behavior based on how things are
+changing. So to your point, let's say, tomorrow, if somebody built an amazing subway system connecting two diﬀerent areas of L.A.,
+not all of L.A., but just two diﬀerent areas.
+What you would see over time in Uber's data is that the elasticity would change for that area, based on what it used to be a year
+ago. And so Uber's dynamic pricing engine and algorithm would see that data and it would automatically recalibrate prices to know
+that something has changed in a material way on this route and Uber would then lower its prices, because there's a more
+competitive option and so you can see that users have become more price sensitive.
+So in some ways, this dynamic pricing engine is doing what you're describing, but it's doing so in a more real-time way based on
+actual user behavior data.
+Client 00:40:38
+So I just have one last question. It's about you've been there for a long time in strategic segment. So I'm just trying to understand
+what is more of a long-term trend, how do you see these new generations owning less cars. Do you think that this will be a
+positive trend for Uber? Did you see those trends reﬂect in your numbers through surveys and studies that you did inside?
+Expert 00:41:00
+You're right. Let's say that people are owning less cars over time that bodes well for Uber. Because obviously, if people don't own a
+car, then they need ways to get around and they can use public transit even if it's good in a city for some things, but they're not
+going to be able to use public transit for all their needs. And then they will look to services like Uber to meet those needs that they
+can't get through public transport.
+So that is very much correct. And one of the things that Uber is trying to do is to get people away from this car ownership culture
+that is very prevalent in the U.S. So that's deﬁnitely one of the main goals of Uber to do. And as there are other services that provide
+rental cars or some type of car sharing, all those things are helping lower car ownership.
+That said, what I'll sort of say to you is when I think about when Uber was ﬁrst started or even when I ﬁrst joined Uber, it's not the
+case that car ownership has reduced very meaningfully in the U.S. over time. Even today, it has reduced, but probably only a little
+bit. And if anything, during COVID, car ownership probably has gone up a little bit as more people have moved to the suburbs, as
+more people didn't want to be in another person's car during that period, so more people bought cars, et cetera.
+I don't think that car ownership has come down a lot. It may have come down a little bit over the last 10, 12 years, but it hasn't come
+down materially. And so what that means is even today, while Uber is an amazing service and Uber is somewhat cheap, it's still quite
+expensive. And anyone that is driving some long amount of miles or kilometers over the course of a month or a year, they are better
+oﬀ just owning a car.
+And those people do own a car and they take some Ubers, when they're going to the airport or they're going out to drink when it's
+not convenient to drive the car. But lots of people do still own cars. And there's a lot of work that needs to be done through either
+autonomous or through shared rides or through other things to bring down the price to a level, where people will ﬁnd it so much
+Page 11 of 11
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.cheaper to use these services, where they no longer own a car altogether. That is still not really the case in the U.S. for the most
+part.
+Client 00:43:21
+I just wanted to ask one last question. You mentioned AV. Do you think this in the longer term could be something that really
+makes people buy less cars. How do you think this will impact Uber's pricing and make people use more of Uber services?
+Expert 00:43:37
+Yes, absolutely. And by the way, I'm happy to go over time by ﬁve, 10 minutes if you need me to. So the way that pricing and car
+ownership sort of works at Uber is I've done a study when I was there, where you can look at the cost per mile of owning a car and
+you can compare that to the cost per mile on Uber. And you can then say, I'm just going to make up some simple numbers. Let's say
+that to own a car, I buy a car for $20,000. And then I have a weekly and an annual cost of gas and maintenance and insurance, et
+cetera, some repairs.
+And so my total cost is $30,000. And for $30,000, I am driving x thousand miles every year as I come and go from work and I do
+groceries and errands and other things. If you do all of that, you can then say, "If I drive so many miles, my cost per mile is x or y or
+z dollars." You can get this curve, where you can see that the cost per mile decreases the more miles you drive once you own a car,
+because you have that ﬁxed cost and the upfront cost of buying the car. And then after that, you have an annual cost, but that
+annual cost is less.
+So your cost per mile of owning a car is reducing the more you drive it. Uber's cost per mile is somewhat more ﬁxed, because it's
+just based on how many Ubers you take. So what you ﬁnd is if you're driving something like 5,000 to 10,000 miles in the U.S. in your
+city. If you do less than that, you should use Uber, because the cost per mile of owning a car is higher than Uber.
+If you drive more than that, then the cost per mile of owning your car is lower than Uber. Now, when something like autonomous
+comes in, what happens is that you are able to lower the cost of Ubers by maybe 30%, 40%. And so if you lower the cost of owning a
+car by 30%, 40%, then all of a sudden, that calculus changes quite a bit and a lot more people for whom it made sense to own a car
+will now shift on the curve.
+And for them, it's going to make more sense to be able to give up their car or use just Uber instead, whether it's autonomous or
+driverless or with the driver. That's sort of the way that you can think about it. So the amount of reduction in car ownership will vary
+based on how much Uber is able to reduce the price from autonomous.
+And we have to see what that looks like, because obviously, we will be able to remove the driver, which will reduce a bunch of the
+cost. But at the same time, there will be other pieces in the value chain of autonomous. There will be ﬂeet operators. The cost of the
+autonomous car is going to be more, because those cars are more expensive.
+You'll need more maintenance, you'll need more repairs, you'll need a place for these cars to park when they're not being used and
+things like that. So those things will add some cost while we can remove the driver cost. And is the net savings 50% or 30% will
+dictate how much people will give up their cars and reduce car ownership over time.
+Client 00:46:42
+Great. Well, thanks for your time and insight. Have a wonderful rest of your day.

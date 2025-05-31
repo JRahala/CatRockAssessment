@@ -1,0 +1,578 @@
+Page 1 of 12
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.
+COMPANY DEEP-DIVE
+Former Director at Uber Sees Balancing Supply and Demand as Key to
+Growth Amid Autonomous Vehicle Shift
+DATE PUBLISHED
+15 Apr 2025INTERVIEW DATE
+15 Jan 2025EXPERT PERSPECTIVE
+FormerANALYST PERSPECTIVE
+Investor-Led (Buy-Side)PRIMARY COMPANY
+UBER
+Summary
+The conversation between the client and the expert delved into various aspects of Uber's business in the mobility market, focusing on supply dynamics,
+regulatory challenges, growth opportunities, and the impact of autonomous vehicles. They discussed the importance of balancing supply and demand,
+improving factors like price and time to increase demand, challenges in big metro markets, diﬀerences between P2P and ﬂeet drivers, and the potential shift
+towards autonomous vehicles. The expert emphasized the signiﬁcance of maintaining a healthy balance between supply and demand for sustained growth,
+exploring alternative sources of supply, and the implications of having drivers as employees in the ecosystem.
+Table of Contents
+Introduction And Expert Background
+U.S. Mobility Market Dynamics
+Supply And Demand Challenges
+Fleet Model And Economics
+Autonomous Vehicles And Future Prospects
+Market Eﬃciency And Competition
+Expert Bio
+Former Senior Director of Product - Vehicles for Uber, leaving in June 2024. The expert served on Uber’s senior leadership team for
+two years as Senior Director of Product for Vehicles and can speak to all areas of the screening. Founder & CEO of Airloom AI. The
+expert is also the Co-Owner of allister. Before these roles, the expert was a Senior Director of Product - Vehicles for Uber, leaving in
+June 2024. The expert served on Uber’s senior leadership team for two years as Senior Director of Product for Vehicles. This was a
+global role. The expert was a member of Uber’s Mobility SteerCo, Autonomous SteerCo, and Hailables (Taxi) SteerCo. They
+participated in monthly leadership reviews that spanned mobility and delivery. Before Uber, the expert was the Chief Operating
+Officer of Crowd Cow, leaving in December 2021. Crowd Cow is a direct to consumer food company, focusing on sustainable meats,
+seafood, side dishes, and complete meals. At Crowd Cow, expert is responsible for leading product, engineering, analytics, growth,
+and customer care teams. Prior to Crowd Cow, expert was an executive with Amazon holding various leadership roles over 12 years.
+Among those roles, expert conceived the idea for AmazonSmile, Amazon’s first major philanthropic program. Expert developed the
+concept, built the team, led implementation of the program, launched, and then scaled it. By the time the expert moved off of the
+program we were making programmatic donations to over 100K charities every quarter. To date, over $285MM has been donated
+through AmazonSmile. Expert was also a founding board member of the AmazonSmile Foundation, the non-profit we created to
+facilitate donations from Amazon to non-profit orgs. At Amazon, expert was also the Director of Deliver Experience, running the
+Amazon Day program for prime members, and the Director of Alexa International responsible for all non-US Echo and Alexa
+devices.
+Employment History
+Airloom AI (Private)
+Founder & CEO • July 2024 - Present • 10 mosRelevant Role
+allister (Private)
+Co-Owner • June 2024 - Present • 11 mos
+Uber Technologies Inc. (Public)
+Senior Director of Product - Vehicles • August 2022 - June 2024 • 1 yr, 10 mos
+Crowd Cow (Private)
+Chief Operating Officer • May 2021 - December 2021 • 7 mos
+Page 2 of 12
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.
+Crowd Cow (Private)
+Chief Product Officer • November 2020 - May 2021 • 6 mos
+Amazon.com Inc. (Public)
+Director, Delivery Experience • July 2018 - April 2020 • 1 yr, 9 mos
+Amazon.com Inc. (Public)
+Director, Alexa International • April 2017 - June 2018 • 1 yr, 2 mos
+Airbnb Inc. (Public)
+Director of Product Management • October 2015 - March 2017 • 1 yr, 5 mos
+AmazonSmile Foundation (Private)
+Vice President and Board Member • October 2013 - October 2015 • 2 yrs
+Amazon.com Inc. (Public)
+Director, AmazonSmile • February 2011 - October 2015 • 4 yrs, 8 mos
+Amazon.com Inc. (Public)
+Senior Manager, Gifting • October 2008 - February 2011 • 2 yrs, 4 mos
+Amazon.com Inc. (Public)
+Manager, Social Applications • July 2006 - October 2008 • 2 yrs, 3 mos
+Microsoft Corporation (Public)
+Program Manager • July 2004 - July 2006 • 2 yrs
+Bensussen Deutsch (Private)
+Web Architect • November 2000 - June 2004 • 3 yrs, 7 mos
+mylackey.com (Private)
+Code Lackey • February 2000 - October 2000 • 8 mos
+Interview Transcript
+Client 00:00:00
+Thank you for taking the time to speak with me today about Uber and the rideshare and food delivery industries in general. To
+start oﬀ, could you please give us a quick overview of your background and experience in this space?
+Expert 00:00:13
+I spent two years at Uber from August 2022 through June of 2024 as senior director of product for vehicles, and so that was a few
+diﬀerent things. The area of product and technology I was responsible for is anything where an Uber driver is driving someone
+else's vehicle. That's a pretty large chunk of Uber's supply worldwide, and it really diﬀers per country.
+There'd be some countries where it was quite large. Essentially, all of Uber's supply in countries like Spain that have regulations that
+prohibit individual drivers, or P2P as we call it, that leads out to largely rentals in the Americas, quite big in Brazil, one of Uber's
+biggest trip markets, and largely ﬂeets in other parts of the world where a ﬂeet owner would own the vehicle.
+They would hire drivers to drive their vehicle. In the ﬂeet context, the ﬂeet gets paid and then pays the driver a salary or rev share.
+In the rental context, the driver rents the vehicle and they get the earnings and they pay the rent. There's all the ﬂeet tech and
+tooling.
+I was responsible for, how these companies would manage their business on Uber vehicles, drivers and performance. I also took
+over about halfway through my time at Uber, Hailables, which is all the taxi tech, taxi as well as motorcycles and three-wheelers in
+certain countries like India, so an additional source of supply and tapping into that existing taxi supply.
+Finally, I had sustainability tech across Uber, so basically technology and products to help enable go towards electric vehicles. Was a
+member of Uber's mobility SteerCo as well as autonomous SteerCo.
+I'm deﬁnitely deeper on the mobility side of the business than delivery, although I have a reasonable understanding of the delivery
+side as well since there's similar supply dynamics. That's a good overview.
+Page 3 of 12
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:02:03
+As a member on the mobility SteerCo, Uber drivers driving someone else's vehicle, whether that's the rental model as in Brazil, or
+whether that's a ﬂeet model, I think that's a sizable fraction of the supply. The majority of the business is drivers driving
+personally-owned vehicles. Do you have perspectives into those markets and those dynamics that you'll be able to speak of?
+Expert 00:02:25
+Absolutely. In all the forums, mobility SteerCo and others, monthly tech days, other things, there was always a discussion of overall
+supply. I was the key product leadership team as well. My boss at the time there is now chief product oﬃcer and oversees product
+for all Uber supply.
+Client 00:02:43
+Maybe I'll just ask at the highest level, would love to understand your perspectives on the U.S. mobility market. I think our
+understanding is that that business is roughly maybe a little bit less than 1/2 of the overall mobility business.
+The growth outlook for Uber's business in the U.S. speciﬁcally for mobility obviously has a big impact on the performance of the
+overall business. Could you maybe just share some thoughts of what the dynamics are and what the outlook is for Uber's
+business in the U.S.? Uber is not a new thing obviously.
+And so trying to gain better insight into the ways in which Uber is continuing to grow in the U.S., and what that means in terms of
+how quickly Uber is likely to be able to continue to grow in its U.S. mobility business over, call it, the next three to ﬁve years.
+Expert 00:03:31
+What I would say is a couple of diﬀerent forces at work in the U.S. As you're aware, where Uber got its start in its number one
+competitive position. Lyft is obviously a meaningful number two. Not a lot of threats from other traditional rideshare companies.
+There've been a bunch that have come up, the Altos and Revels of the world that try to have a little niche.
+They just have a lot of challenges. I don't think there's a lot of concern from some of those individual players getting a big foothold.
+U.S. is super important because the revenue per trip is so high compared to other parts of the world, like Brazil and India that have
+a lot more trips but much lower revenue.
+The big story in the U.S. long-term is, one, there's headwinds from regulation in diﬀerent places. Obviously, New York is a very
+important market for Uber and all the regulations there. The taxi commission is trying to basically ensure that the Uber drivers get
+paid enough and get utilized enough, hence they put regulations in place.
+Uber's had to throttle supply to maintain higher utilization rates and meet those regulations. That's a headwind in New York
+speciﬁcally. Other headwinds in states like California is the cost of operating vehicles especially for companies that own these
+vehicles because the insurance is so high, because the judgments and litigation don't protect them at all as they do in other states
+or countries. The big gorilla out there certainly in the U.S. really ﬁrst is autonomous.
+It's a little longer term, but the biggest, call it the scariest scenario for Uber for the U.S. growth prospects is not necessarily that
+companies like Waymo and others, Cruise is a little less of a concern these days, but that Waymo basically cherry-picks and launches
+in all these cities, and then skims oﬀ this kind of nice chunk of demand.
+It may not make a huge diﬀerence nationwide, but it's the best trips and the most expensive ones and the riders that ride the most
+for commute, and that Waymo just continues to skim oﬀ the top of the U.S. market from a revenue perspective. It's not so much
+about a coverage nationwide, it's just a cherry-picking thing.
+That really informs Uber's strategy on autonomous in general is a concern about that strategy. Autonomous is a big part of the
+longer-term growth prospects for Uber. Just being the best platform for autonomous operators, and then really the demand
+platform for that, such that the autonomous companies, they focus on the tech.
+They get their demand from Uber as opposed to doing the vertically integrated like Waymo, where Waymo would love to be the
+demand side and then own the whole stack, but they are hedging their bets and trying to get more utilization by partnering with
+Uber or Lyft. That's just a high-level run through of the U.S. from diﬀerent key factors.
+Client 00:06:24
+You alluded to it a bit in talking about what part of the risk from the Waymo story might be, but it'd be helpful to understand a
+little bit where the growth is coming from in the U.S. I don't know whether the right way to think about that is on a geographic
+basis.
+I know the company's talked about trying to expand its mobility and delivery businesses in less dense markets and growing
+beyond the major metro areas, New York, Chicago, L.A, San Francisco, and into either expand in Tier two and Tier three cities or
+maybe that's expanding into the suburbs and less urban markets.
+Page 4 of 12
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.If you think about just the traditional rideshare dynamics, how do you think about the growth dynamics in those very various
+subsets? Is there still growth in the major metro areas, or is a lot of the growth coming from less penetrated markets? How do
+you think about the opportunity for traditional rideshare to continue to grow in the U.S?
+Expert 00:07:21
+I guess I can't really build a bridge speciﬁcally across those markets, but there's deﬁnitely opportunities in each of those segments,
+in the urban markets, in the suburbs, as well as, given that Uber is asset-light on the P2P side, from the Tier three, Tier four
+markets. It's just that the way the company is going to grow in each of those markets is a little diﬀerent.
+Each of them have their own kind of ﬂywheel. This is something that is very important in Uber, is that if you can attract supply,
+everything is good, because the ETAs come down, which means the prices come down, because the P2 time, it's called the time
+where the driver is going to pick up the rider, is lower, and so the fares come down and the rider experience is improved, especially
+relative to competitors.
+That just drives the ﬂywheel of then more demand, creates more trips, which is better to attract more drivers. What you see in some
+markets, either that are oversupplied versus demand, that's the case even when there's relatively low demand, is that the drivers
+don't earn enough.
+They still have pretty eﬀective supply acquisition channels that attract new drivers, but if the drivers don't get those trips early on,
+then they will churn. It's just this bootstrapping problem in the very small places and getting markets to be healthy where there's
+reasonably matched demand and supply, and then it just keeps leveling up.
+The tactics by which Uber tries to grow in those diﬀerent ways tend to be very diﬀerent in the markets. Like New York, it's throttled
+and constrained, but still the notion is that they can attract more supply without running afoul of the utilization targets and they
+keep doing that. I'm trying to think about a better way to think about the kind of bridge between growth opportunities, between
+urban and suburban.
+Client 00:09:14
+I think you're alluding to some markets where there's potentially too much supply and not enough demand, and there is a
+scaling problem that goes along with that, because ultimately, you need to grow the demand. Otherwise, the drivers don't end
+up earning enough and they therefore leave the platform.
+I would imagine there are other markets where you've got the opposite problem of potentially too much demand and not
+enough supply, and then there's a question of, are there ways that Uber is continuing to be able to grow the supply in those
+markets to maintain some healthy growth?
+Maybe there's the in-between where you've got matched up supply and demand. I guess the question in those markets is how
+mature they might be and therefore whether they're continuing to grow or whether there's some kind of natural asymptote
+that's been reached from a supply and demand perspective.
+Expert 00:10:07
+Yes. It's really diﬀerent. You mentioned a U.S. focus. Two key stories here, one, it's very diﬀerent in diﬀerent countries. It's not a
+uniform thing globally, so diﬀerent markets have very diﬀerent characteristics. There's new growth areas, especially in Latin
+America and certain cities that are really coming on strong in terms of a demand side.
+The revenue per trip is lower, but in general, strong growth drivers obviously versus more mature markets. The other thing to keep
+in mind is that supply creates demand. That's the one way to think about it. Over the long-term, that's the key thing to know, is that
+more supply helps everything.
+You can get more trips, as I said, all those factors I mentioned below, then the demand comes and you keep ratcheting up more
+supply and demand. There are certain markets where they're really oversupplied, and so then obviously, the focus becomes more
+towards demand.
+Over the last ﬁve years, there's been a huge push on supply in all these weekly deep dive, supply growth forums. More recently, the
+supply position has become much stronger. Now, in more and more markets, you're in a position where the supply is healthy and
+the next lever needs to be leaning on demand. There's never going to be a loss of focus on supply.
+Client 00:11:23
+If I'm piecing together what you're communicating, it sounds like in maybe more markets, there's either adequate supply or
+potentially even oversupply based on the kind of initiatives that Uber's had over the last years to grow the supply base, and so
+maybe undersupply is less of a problem today or a constraint on growth than it might have been some years ago.
+Page 5 of 12
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.I want to come back in a little bit to understand a little bit about how Uber has succeeded in growing the supply. As you just said,
+the question then becomes, "Okay. How do you grow demand?" Uber is a very mature concept in large metro area .
+It's not necessarily intuitive or obvious to us that there's substantial change in the penetration of Uber from the consumer
+perspective, that is driving a big step change in the demand function. You think about maybe the most mature markets from a
+demand perspective versus the less mature markets from a demand perspective.
+How should we think about the growth outlook for Uber's mobility business in those more mature markets in the U.S. versus
+maybe those less mature markets in the U.S.? How large are those sub-markets for Uber's mobility business? What does that say
+about the outlook for Uber's mobility business to maintain strong growth over the medium term?
+Expert 00:12:41
+Big topic there. I would say that in order of priority for Uber, there's the big metro markets continuing to drive growth there. There's
+still a signiﬁcant opportunity for it to grow demand, but not just an easy button necessarily to do it. The next one is the suburban
+ones, especially if you focus on U.S., still signiﬁcant.
+A little more straightforward like supply tactics, and the same thing with the broader. The traditional method of just trying to focus
+on growing supply equates more and were more undersupplied in the smaller markets and the lower population density areas.
+There's a bunch of questions there. Take one aspect of that question and a speciﬁc aspect to dive into.
+Client 00:13:22
+It sounds like that's where the supply position is better obviously, denser markets are easier to grow supply and demand in a
+concentrated geographic area. The focus there is now, "Okay. How do you grow demand?"
+As we think about breaking apart the drivers of demand, you can get more users onto the platform, people downloading the app,
+would be one way. The other way would be to have them be using the app more frequently maybe instead of using it once a
+week to go to a restaurant on the weekends, maybe they're using it to commute, they're just using it more frequently generally.
+Three would be, I don't know, maybe there's some pricing aspect to it in terms of getting people to trade up from the UberX
+product to the Comfort product to the Black product and so on and so forth.
+As you think about the opportunities that you've seen for the company in the most mature markets, which of those drivers are
+the ones that are expected to contribute to growth? How do you think about the rough magnitude of what can be sustained from
+either user growth or frequency growth or pricing growth that'll translate to overall growth of the business in those markets?
+Expert 00:14:30
+There's one phenomenon over the last few years that I think has depressed demand and turning it around is probably the biggest
+opportunity. It's not one of the ones you mentioned exactly, although it does relate to the rider experience.
+Price, time, ETA, and cancellations, those are the factors that the more those improve, the more demand comes in because it just
+makes the product better. A few years ago, especially pre-COVID, the state of some of those factors, especially ETA, cancellations,
+and price, is worse.
+If you look at urban markets especially where it used to be, four or ﬁve years ago, you might get a one-minute ETA, now that ETA is
+two minutes or two versus four. I don't know if you've felt that being an Uber rider, but it's deﬁnitely the case. There's a couple
+things to play for that.
+In general, Uber over the last few years, there's more and more transparency about the trip information to drivers. Before, the
+drivers could see very little prior to accepting the trip and they basically just took the trips and some were better than others, and
+that higher acceptance rate of trips led to a better rider experience.
+Let's say their trip was short or maybe the drivers weren't all close, they would still get a high acceptance rate, and that would
+create a faster, lower ETA, and so forth. As Uber's launched driver-facing features over the last number of years that have given
+drivers more transparency, sometimes their hand has been forced to, in other cases, it's a competitive thing.
+Drivers then can cherry-pick. What driver does is they like certain types of trips better. Some drivers like long trips. If the time to get
+to the rider is longer, they will let those trips pass by or they will not accept them. It's not just a single feature for the driver that's
+had this. It's rolled out diﬀerently in diﬀerent markets.
+In some cases, they get a whole menu of trips and they just let them passively decline. That's been good for drivers in general, and
+that's been a way to make drivers happier, but because they can cherry-pick, there's more trips where it takes longer to match with
+a driver. The longer it takes to match with a driver, the worse the rider experience, ETAs may be a little longer. Ultimately, when
+those factors are worse, the rider demand goes down.
+Either competitive products or alternatives become more favorable. I would say over the last number of years, especially in these
+Page 6 of 12
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.urban markets where they have the most frequent riders and the best revenue, especially in the U.S., reversing that trend and
+trying to do things to claw back the better rider experience but without running afoul of employment law requiring drivers to
+accept trips, that's a huge thing within Uber.
+I would say that the number one focus area to get demand growth back is to not just only remove transparency for drivers where
+possible, but to ﬁnd ways to get driver acceptance rate up, reduce cherry-picking, and thus lower ETAs and improve the rider
+experience.
+The other things you mentioned, yes, there are other tuck-in ways to drive growth. Trying to upsell people into other products,
+Comfort, or other ones. There will be initiatives and a focus on doing that, but it's general supply growth.
+Client 00:17:45
+We're talking about the big metro areas; I think you previously shared that these were markets where Uber has successfully been
+able to grow supply to a very successful degree over the last number of years.
+Based on the last comment that you made, it sounds like the quantity of supply might have increased on a simple measure, call it
+number of drivers or number of cars active at any given point in time, but there's been an oﬀset, which is maybe the quality of
+that supply is worse. I think you mentioned that the acceptance rates are low.
+The drivers might be "active," but the rate at which they're accepting rides is lower. On some eﬀective supply basis, maybe the
+supply position isn't as positive as just the number of cars might indicate.
+I guess two things, part of this sounds like it's obviously complicated, it's wrapped up in employment law, it's wrapped up in
+regulations, it's wrapped up in all sorts of things, and it's very local in the sense of what's true in New York City is diﬀerent from
+what's true in Massachusetts, is diﬀerent from what's true in Seattle.
+As you think about it, one, are there ways that you think Uber will be able to overcome these supply challenges to improve the
+rider experience and accelerate demand growth by alleviating the supply issues that you mentioned in these big metro markets,
+or is this really an unsolved problem?
+Without a real solution, your perspective is that the demand is ultimately going to be very constrained by the inadequate or the
+low quality of the supply. How should we think about that and how that evolves?
+Expert 00:19:21
+I would say there's two main thoughts, one is, take employment law and risk from employment litigation. Uber, they've done certain
+things to try to be on the right side of that. One thing that is getting underway is to actively re-evaluate those decisions, and
+eﬀectively, the level of risk the company is willing to take on in certain markets to try to grow or improve the quality of supply.
+You made a good distinction there regarding quality and quantity. That's one general strategy is to re-evaluate those things and
+potentially take on more risk. The other one is related to my area of ownership from product technology side, is alternative sources
+of supply.
+In New York City, for example, there's been a lot of headway in recent years, bringing taxis onto the platform. Hailables is the area
+Uber this falls under. When you bring on taxi supply, obviously taxis, they have a diﬀerent dynamic because Uber is not their sole
+source of supply. They also fall into this kind of lower quality supply bucket, but they ﬁll in the margins.
+They can help improve the supply position, although there's a headwind a little bit about some riders prefer not to take a taxi.
+There's also ﬂeet supply. I'm focusing on the U.S. here, although to some extent, these factors are in other countries. Employment
+ﬂeets have not been traditionally a huge source of the U.S. business.
+They are a growing opportunity and area of focus, like California in general, cities like Las Vegas and L.A., Uber can subsidize or put
+its foot on the scale to grow ﬂeet supply through BD and other arrangements and grow a new high-quality source of supply. It's a
+smaller segment, but a high quality and a growing segment to add these ﬂeets.
+You do not have all the issues that you have with the P2P drivers of cherry-picking because in a ﬂeet context they're generally
+incentivized to basically accept all the trips they're given. That's another part of the strategy on the U.S. speciﬁcally, although it's
+true in many other parts of the world, is to grow the ﬂeet supply and grow this source of high-quality demand.
+Client 00:21:27
+How quickly can Uber grow its users and how quickly can it grow its frequency basically in these large, more mature, penetrated
+metro areas in the U.S.? You've highlighted as a constraint to that, some of these supply dynamics speciﬁcally around the quality
+of the supply.
+Page 7 of 12
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.I guess the question would be, what's the status quo in terms of how quickly Uber is able to grow demand in these more mature
+metro areas? To the extent it's diﬀerent across diﬀerent metro areas, I'm happy to do it market by market, but can you help us
+understand, what is the trajectory and the momentum for the business? What is the outlook based on the status quo?
+As you think about some of these improvements to the market and the user experience, whether that's taking a diﬀerent
+approach in terms of the transparency information that's shared with drivers, growing alternative sources of supply, taxis, or
+that's private ﬂeets, that additional supply then unlocks some improved demand growth that is today constrained. How should
+we think about what it looks like today and what it could look like to the extent that some of these supply challenges are solved?
+Expert 00:22:35
+Absent those initiatives, I don't have numbers to share, relatively given it's an early market and fairly mature, the opportunity for
+growth is relatively low as the baseline. There's some small movement there. It's not zero. They can maybe carve a little bit more
+share from Lyft or other things through the core experience improvements.
+I would just say that it's not a foregone conclusion, Uber can or will take a big swing on the driver transparency side and there are
+certainly trade-oﬀs for driver experience, but that's one. The other bet, which is not going to be an immediate one of huge payoﬀ,
+but it is bearing fruit is the growing ﬂeet supply.
+That is one that I think will build over a couple year time frame, and it has been building over the last couple years, and so I think
+can increasingly become meaningful in a three-year time frame. The other ones changing the driver transparency, that could have
+some big moves and some thrash.
+That's not silver bullet I would call it, but the quicker move Uber could make to improve the rider experience and grow demand. The
+only question is, are there costly trade-oﬀs that work against that on the supply side by removing that transparency, either mix shift
+of drivers going to Lyft as an example or not being happy with economics and churning?
+Client 00:23:53
+I think in the third quarter, Dara mentioned on the call that the U.S. mobility business had grown its gross bookings 17% year
+over year. There was an investor conference that was held in December, and the company came on and communicated, but there
+were some concerns raised on the call regarding autonomous vehicles and Waymo One in San Francisco.
+The response had been to highlight the fact that San Francisco, as an example, as a mature market was sustaining growth rates
+that were above the national average. With those two data points in mind, 17% for U.S. mobility overall, San Francisco even a
+mature market with the most direct competitive threat from AVs growing above that.
+When you talk about relatively low baseline growth in these mature metro areas in general, just to level set, is that signiﬁcantly
+lower than the 17% for the U.S. overall and the 17%+ in San Francisco, or is it relatively low relative to history when this business
+was growing 20s and 30s percent in many markets. Large metro areas, are they GDP plus growth markets for Uber at this point,
+or is there more opportunity than maybe is coming across in your comments?
+Expert 00:25:05
+I wouldn't necessarily expect accelerating growth rates in these mature markets, just with increasing size and penetration, maybe
+maintaining or slightly softening over time. I wouldn't put too much into my statements on numbers here exactly, I can talk more
+about factors and trends.
+Client 00:25:22
+The trajectory and the maturity of the business in San Francisco, is that dramatically diﬀerent than Chicago, L.A, Miami, New York
+and other major markets, or is it fair to think about those as all being mature markets that have their own idiosyncrasies, but
+that, nonetheless, have similar levels of maturity and similar growth opportunities ahead?
+Expert 00:25:44
+The one message I would say, and I don't have the numbers on hand for each market, but that it really varies. Every market is its
+own thing. San Francisco might have certain factors there that are positive. New York, again, taxi. In some cities, taxi has been an
+area of supply growth, which has helped. Others, not so much.
+Each city is diﬀerent, so I think averaging them would be tough, and I wouldn't necessarily ascribe 17% across all urban markets
+because they're all similar. The same thing is true in countries for Uber. It's all over the map. I don't have the speciﬁcs for the city to
+refer to and abstract and give you some general statements.
+Page 8 of 12
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:26:23
+Maybe we can touch on a couple other topics. One, given your experience in ﬂeet, are the unit economics for Uber diﬀerent for
+the ﬂeet business compared to the traditional P2P, I think as you call it, rideshare model? If ﬂeet is growing in Uber's mix, how
+does that change the business model and what Uber's economics look like?
+Expert 00:26:43
+At high level I could say, "Yes, the unit economics diﬀer. There's some puts and some takes." Because the ﬂeet is "higher-quality
+supply" with higher acceptance rate, lower cancellation rate, it can be more directed. Uber can pay a little bit of a premium for that
+ﬂeet supply.
+It works out because it's higher quality supply and has less better rider experience from that supply, and so it pays for itself in that
+way. The other thing to know is that ﬂeets, they get commercial insurance.
+They pay for that themselves and they get better rates than P2P drivers. In many states, like California, they have protection from
+some of this litigation, and so that also makes ﬂeets a more attractive source of supply.
+It's not like you just completely remove the insurance cost line item from Uber when it's a ﬂeet vehicle, and I think is one big cost
+item which has been increasing over time and very concerning for Uber, and so shifting mix to ﬂeet supply, in a way, improves unit
+economics in general by mitigating the eﬀect of rising insurance costs.
+I think in diﬀerent countries, there's diﬀerent deals. In some cases, there's just general longer tail ﬂeet partners and ﬂeet supply, it
+could be anywhere from three to 10 to 100 to 300 vehicles in a ﬂeet. They just sign up and they get the rack rate in terms of
+revenue.
+In other countries, obviously like Spain is all ﬂeet. Uber wants to be an asset-light business, and technically, they are, but in a way, a
+lot of funds have been spent buying large stakes in ﬂeets. Moove Spain is an example.
+There's Moove, the one out of Africa, Everest in India, and others where Uber makes investments in these companies and then gets
+the stake. They don't technically own the assets, but they are eﬀectively buying into ﬂeet supply in that way. That also changes the
+unit economics.
+A ﬂeet partner, they might have 8,000 vehicles, and Uber having a controlling interest, they might then just manage that business to
+neutrality and just keep piling investments back into growing vehicles.
+All those are diﬀerent reasons why the unit economic diﬀer for ﬂeet versus P2P. Net-net, Uber is happy with that change because of
+the higher-quality supply, the ability to scale, in some cases, faster, and to grow supply more surgically through these ﬂeet
+arrangements.
+Client 00:29:06
+What I'm trying to get at a little bit in terms of understanding the diﬀerences is, the Uber business model is fascinating because
+so many participants are in the ecosystem and need to derive value from each transaction essentially.
+It's simpler in the mobility business where you have the consumer who wants a good ride experience at a fair price, you have the
+driver who wants to earn an attractive wage for delivering that service, and you have Uber who wants to obviously earn a proﬁt
+for connecting the supply and the demand and being the asset-light platform.
+When you start thinking about adding ﬂeets to the mix, now you've got a third party that is another component in the
+ecosystem, they are now the ones providing the drivers who are now employees of the ﬂeet operator.
+They're also the source of capital, though they might have some funding from Uber, as you just mentioned, in terms of buying
+and maintaining the vehicles. Their business model looks diﬀerent than an individual driver's. They're, nonetheless, able to pay
+the driver a salary as opposed to some ride-based fee.
+We've discussed a bunch about the regulatory and labor issues that have constrained Uber's ability to grow supply and grow the
+quality of the supply in the U.S. in many markets and for many diﬀerent reasons. We've talked about ﬂeets as being one solution
+which involves converting drivers into employees not of Uber, but of a third party.
+Lastly, I observed that in the U.K., the regulations evolved in such a way that I believe all drivers in the U.K. are now classiﬁed as
+employees and not as independent contractors. I know there's been a lot of public discourse around this.
+How should we think about the viability of having drivers as employees and the kind of quality and the stability of the supply that
+that oﬀers, relative to it widely reported as not being a viable prospect for Uber's business model in the U.S.? How should we
+reconcile those things?
+Page 9 of 12
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:31:01
+What I would say is, if you're a ﬂeet operator in the U.S. and you're just getting the rack rate in terms of fares, it's a hard business
+model. You've got companies like Tower that if you're a lean operator and you have that operations mindset, you can eke out a
+business with a couple hundred basis points of margin and it's a decent business.
+I do not think there's a bunch of the ﬂeet operators in the U.S. that are not lean operators. They're VC-backed, they want to get big
+fast. They don't get the funding because investors don't want to buy vehicles. They try to brand themselves as a tech company and
+get investment based on that, but at the end of the day, it's just an asset business.
+There is a prospect for growth for the lean operators to continue to grow and scale, do it smartly, and do it by negotiating with Uber
+and getting favorable terms, in terms other bonuses or kickers or things in their contract, that make it a better deal because they're
+playing ball in how fast they grow or where they grow or which cities they launch.
+I think it's only becoming more viable in the U.S. for the partners that Uber chooses to partner with, but I would say it's not so viable
+as a general business model for your average. The diﬀerence between a ﬂeet is you have to fully account for all your costs, your
+purchase of the vehicle, and depreciation of that and maintenance and driver salaries and everything else.
+Whereas in the P2P business, it doesn't necessarily pencil out for somebody to buy a vehicle just for Uber there, but by utilizing the
+vehicle they already have, it makes it work. Although, for a lot of P2P drivers, they eventually churn.
+That is because it's a temporary thing or it doesn't necessarily pencil out to be a really good deal. There's just a constant inﬂow of
+new P2P drivers that reﬁll the ranks. That's what I would speak to ﬂeet viability.
+Client 00:32:56
+It brings up a good point though, which is, in the ﬂeet construct, the ﬂeet is paying the driver a salary, but ultimately, you've got
+another business that needs to earn a proﬁt or wants to earn a proﬁt, whether or not that's a good business or a proﬁtable one.
+Obviously, it doesn't sound so obvious.
+They're getting some fee from Uber for providing the supply, and from that, they need to pay their drivers and they need to
+service their vehicles. From the driver's perspective, can you help me understand a little bit two things?
+You mentioned the high levels of churn amongst Uber drivers and the fact that for many of them it's a temporary thing. How
+should I think about whether Uber drivers like being Uber drivers, whether they earn an attractive amount being Uber drivers,
+and how do they think about the relative prospect of being a driver for Uber on an independent P2P basis or being an employee
+of an Uber ﬂeet?
+Is one of those more attractive to them than the other? I realize there's a lot of news out there, but a lot of it is biased and
+wrapped up in all sorts of political things that don't really get to the heart of the issue, which is whether the high turnover of
+Uber drivers that speak to a level of dissatisfaction that is just pervasive or is there a diﬀerent way of understanding it?
+If there is some dissatisfaction, the ﬂeet model, is that something that's more attractive and therefore helps grow and stabilize
+both level and quality of Uber supply in the U.S., but then also, maybe in some international markets?
+Expert 00:34:29
+A couple of diﬀerent ways. Speaking about the P2P driver, you get a big inﬂux of these P2P drivers in diﬀerent countries, especially
+the U.S., it's relatively easy to do that. You have immigrants or people that have access to a car that meets the criteria, it's the sole
+criteria and no criminal record, and so you get a big inﬂux of new Uber drivers.
+For a lot of them, there's pretty high churn because while it was easy to get started, they may just not get so many trips and they're
+not busy all the time, so they're not earning a ton. They're earning, call it, minimum wage.
+For some, they like the ﬂexibility, like I've deﬁnitely talked to drivers who like to be able to decide when and where they drive, and
+that's a valuable thing to some people versus having a boss or not needing to get a job with a boss.
+Others basically churn or they grumble or it's a ﬁll-in because they just don't see the amount of demand they're getting and the
+price per trip is enough to be locked in and loyal to Uber. You deﬁnitely see that high churn on the P2P.
+I don't know that it's a big factor today about a P2P driver switching to then drive for a ﬂeet. A lot of ﬂeets, at least the ones I've
+talked to, they try to hire professional drivers or people who might have been a delivery driver before. They're not just trying to hire
+somebody who's done a little bit of driving for Uber P2P, they're trying to hire people who are already drivers because they drive
+better and they drive safer.
+They're drawing from a diﬀerent pool; it's just not a substitution eﬀect. They're not high-paying jobs. Some people, they get an SUV
+or Black and they can run it for business and they're doing airport runs, you can do all right for a lot of the UberX drivers.
+Page 10 of 12
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.The ﬂeets, again, it's a business, trying to do high volume and relatively low margin, but if they can consistently earn some margin,
+they can build a business, but it's never going to have an attractive proﬁle for VC, I don't think.
+It's a people business. It's like running a restaurant. A lot of people do it low margins, and it's a lot about people-driven and
+relatively low-skilled people. You have to just feed the beast with those people. They churn and they complain about the job even
+though they take it.
+Client 00:36:45
+I think with the ﬂeet you said, that's maybe a more professional driver as opposed to someone who's just doing it on a temporary
+basis. Pausing on the ﬂeets for a second, with the general P2P model, based on those comments, I recognize that being an Uber
+driver is not a high-paying job.
+As you think about the high rates of churn of drivers, I recognize that there's net immigration in the U.S. and in particular into
+large metro areas. Everyone's turned through the platform, everyone's been an Uber driver before who would fall into that
+demographic who needs that sort of thing.
+If every year you're losing 50% of your supply and you need to ﬁll that in, and you're trying to grow that above and beyond what
+you started with, it just speaks to a need to constantly replenish the pool of supply, the question would be whether that reservoir
+runs out.
+Expert 00:37:36
+I don't know if it ever runs out, but where the equilibrium is, aﬀects the rate of inﬂow. This is one factor at play for Uber, imagine the
+economy tanks there's a lot of people that are on the workforce available that don't have jobs, then your rate of inﬂow of new
+drivers will be higher.
+Still, you have easier acquisition, and so maybe you don't need to pay as much in terms of driver acquisition costs. It helps some
+things to ﬁll in pockets of supply. It's never going to dry up because Uber would then do things, raise prices, or improve other
+factors such as some of these transparency features for drivers to reduce churn or to make Uber more attractive.
+That comes at a cost to the overall business as well. It is absolutely a balance. That is one of the big prospects obviously of
+autonomous, is that big headache of drivers and employment law and all these insurance to the same degree, and that's one of the
+reasons why obviously everyone is focused on autonomous down the road. It pushes that problem oﬀ to the side, at least to the
+more rural or suburban places versus in the urban.
+Client 00:38:43
+Maybe we can just pivot to autonomous then to get your thoughts there. I know you talked about this world where Waymo
+scales in some of the metro markets and siphons oﬀ the best performing parts. How do you think about how this evolves?
+The worst scenario in how this develops is that autonomous vehicle technology remains relatively concentrated in terms of who's
+able to develop ﬂeets and those ﬂeet owners, i.e., Waymo, potentially Tesla at some future point choose to vertically integrate
+and own not only the vehicles but also the distribution platform for that mobility supply.
+I know that's very diﬀerent for the future that Uber envisions where you have multiple autonomous ﬂeet developers,
+proliferation of the technology, they're all seeking to monetize and optimize their ﬂeets by using Uber as a platform to distribute
+that distributed supply base that is then available. What is your views on how this plays out? What's the most likely path?
+Expert 00:39:42
+There's those two big paths where the Waymos and maybe Teslas, they ﬁgure it out the vertical thing, they get enough vehicles and
+the ETAs are low enough that they can have high utilization, and then they also ﬁgure out a way to lower vehicle cost over time and
+get it to pencil out.
+Right now, early on, that's why they're partnering with Uber to improve and increase utilization of these vehicles and get the
+numbers to get things in the Black faster. I've taken Waymo’s in Phoenix and other areas, and if you like that experience, the
+product and the ETAs are pretty good, and so I do believe that Waymo, we'll see on Tesla.
+I think they will be able to have an eﬀective vertically integrated cherry-picking strategy in cities over time, and so that is the real
+risk. What Uber would like to do in an arm-wrestling fashion is if they could basically prove the demand.
+If they prove that it's better to partner with Uber on the demand side than be vertically integrated and get Waymo or someone to
+shift focus and treat Uber as the best source of demand. If I'm Waymo, you can have your cake and eat it too by continuing to grow
+your own vertical and you ﬁll in with Uber demand.
+Page 11 of 12
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:40:55
+Waymo seemed to take that approach. Phoenix was launched on an independent basis way back in 2018, I believe. San Francisco
+was then launched on an independent basis. They came out with Austin and Atlanta for this year, and those are going to be
+partnerships with Uber.
+They then went back to partner with Uber in Phoenix, and then they announced Miami for 2026. They're contemplating that as an
+independent market. It seem to go back and forth in terms of what they're doing. Their hand is in force.
+Is there a true beneﬁt that you think Uber will be able to demonstrate to autonomous ﬂeet developers whether that's just
+Waymo or whether that's a broader, more diverse set of AV ﬂeet developers? Do you think there's real value in the platform that
+they should seek to partner with Uber, or do you think they're more likely to be successful if Uber goes alone?
+Expert 00:41:47
+I think absolutely there is value. That's why you've seen Waymo partner, when they have your cake and eat it too because you get
+demand. You get people exposed to Waymo vehicles because they take Uber trips and oﬀer to Waymo, so it helps on your customer
+acquisition side, they get to experience a Waymo or another vehicle.
+If you have a good-enough density of vehicles and product on your own, that's the bet I think Waymo would take. Why it's not a
+one-way door is they might experience Waymo ﬁrst on an Uber app and trip, and then they like it and then they just go straight to
+Waymo to always get the other Waymo beneﬁts and they just prefer that.
+You're in this window, maybe outside of San Francisco and Phoenix, where as a rider your best option which Uber is betting on is
+having access to a hybrid network like Uber where your ETA is low, you go to one app, you're going to get a trip faster, and your
+price is going to be good as well, and so you just keep going to Uber.
+That's long-term, Uber is always the better experience. Depending on the state of supply and demand, even time of day, there's
+issues during commute or not, and so that's the bet Uber's making by bringing autonomous onto Uber.
+Uber continues to be the best rider experience because you can have whatever you want, you have SUVs, you have X, you have
+autonomous. That being the main distinction versus your person that, in a city like San Francisco, who just uses rideshare for their
+commute and there's enough Waymos, then you're just a Waymo user. That's the fork in the road.
+Client 00:43:22
+From a technological perspective, I was surprised to see GM shut down Cruise. It's obviously a well-capitalized competitor that
+has poured a lot of time and investment into the space to try and get autonomous vehicles right. I think it just speaks to how
+diﬃcult it is to achieve real autonomous capabilities.
+As a result, there's certainly only one commercially operational ﬂeet in the U.S. today, which is Waymo. Tesla's talked a lot of talk
+about what their plans are in that respect, obviously there's diﬀerences in the technology they're using. I'm candidly less sure on
+the capabilities of Zoox. I know they're not operating commercially.
+As you think about autonomous vehicle technology broadly, does it strike you as being the sort of technology that could remain
+concentrated in just the hands of a few people that have been able to crack the code in terms of being able to develop truly
+autonomous capabilities? Speciﬁcally, Waymo. TBD on Tesla if they're ever able to make progress there.
+Do you view it as somewhat inevitable that this technology, as it progresses, will just proliferate beyond that, which would be
+supportive of a more diverse ecosystem of autonomous ﬂeets? Which way is probably better into the world that Uber envisions
+and how they envision ﬁtting into the landscape?
+Expert 00:44:40
+I think like Uber and Lyft, two main players in the U.S. anyway in rideshare, and then a bunch of other little, tiny ones that are in
+pockets. For the vertically integrated companies, I do think it's going to be just a couple. It's going to be like the Waymo and the
+Tesla that have enough vehicles or capital, technology, and data to get that to work.
+You're going to have a bunch of others. The autonomous landscape really stacks up into three layers. There's the AV tech layer,
+there's the ﬂeet operations, and then there's the demand side. Waymo's doing all three. Uber really wants to own that demand side.
+There's a bunch of other players on the AV tech side, and so I think if I'm GM or others, you're going to have these AV tech
+companies like Motional or other ones, as an example, who they build tech that's installed in other manufacturers' cars, and they
+basically sell their tech to the manufacturers who don't have to build it themselves.
+You're going to have the ﬂeet operators. In some cases, the manufacturers may go into ﬂeet operations themselves. You have the
+Hertzs of the world and the other ones who are going to pivot over time to leverage their ﬂeet operations know-how, and Uber will
+support that in diﬀerent ways, like with traditional driver-driven ﬂeets.
+Page 12 of 12
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.On the other side, you have the vertically integrated companies having to get better at ﬂeet operations, the Waymos of the world,
+although they may also partner with ﬂeet operators just to do the operations piece of the Waymo-operated vehicles.
+There's a few diﬀerent strategies that are forming, and we'll just see a couple in the true vertically integrated and we'll see more on
+the AV tech side that sell their tech kits to manufacturers and OEMs.
+Client 00:46:26
+I think the key point is that for those AV tech guys to have success, they need to be able to develop the same capabilities that
+maybe Waymo alone has today, in terms of being able to deliver an AV kit to pick auto OEM, Toyota or whomever, for those
+manufacturers to deliver to either their own private ﬂeets or third-party ﬂeets, autonomous-capable vehicles that could then be
+put onto Uber's platform as the consumer-facing.
+Maybe there will only be a few vertically integrated guys that have the technology, build the ﬂeets, and in at least certain
+markets, own the demand platform as well. Therefore, compete directly against Uber, and that would be the Waymo model.
+Do you think that there is also going to be an ecosystem of other AV technology and AV-capable vehicles that will exist in parallel
+that could use Uber as the conduit to reach end consumers?
+Expert 00:47:20
+Yes, I do. It'll be more concentrated in the vertically integrated players to be able to do all those things. There are more players on
+the AV tech side that their goal is to sell the tech to OEM, and then there's other ways.
+They obviously partner with Uber, especially on the delivery side as well, all these delivery robots, they're trying to be a tech
+company. I think you'll see more of those continue and some will still churn, but only a couple that go after the vertical owning the
+stack.
+Client 00:47:50
+Just back on two points you raised, one being a lot of markets having an excess supply and Uber needing to get into spur
+demand, and the second point being driver pickiness with the increased transparency. Could you describe a little bit of, one, if
+supply is going to drive demand in general in this market, how do individual cities or markets end up with excess supply for
+sustained periods of time?
+How do you pair that idea of excess supply with driver pickiness? Why doesn't that market become more eﬃcient on its own, to
+the point where drivers have to take everything or they're not going to get any rides because there's too much supply to start
+with?
+Expert 00:48:31
+Couple things. The same transparency factors I talked about in the U.S. are not really as evident in other countries, because Uber
+isn't really forced to do those things. There might be elements of it they use as a way to attract drivers from other competitors, do a
+little driver-favorable feature to do that.
+If you take a country like Brazil, high population, there's lots of potential drivers out there. The big force there when Uber thinks
+about supply and quality supply is they drive for multiple players, not just Uber, and so it's how much attention does that driver
+have to want to accept the Uber trips versus the ones from inDrive or another platform.
+You just remove the transparency, when you think about other countries, to some extent. The main challenge there that Uber thinks
+about is, you have these competitors that are blowing lots of money like Uber used to do, and they come in and they're heavily
+funded by someone, think about Bolt in the EU, inDrive, and they're willing to do irrational things to attract drivers and riders,
+paying more for trips or charging less.
+Uber's got to weather that storm and forced to follow in some respects or wait it out for those companies to get rationalized, to
+start complying with regulations which Uber has to do or be a little bit more ﬁscally conservative and not blow so much cash. The
+competitive dynamic looms larger in other countries than really the U.S.
+Client 00:49:57
+Okay. Thank you again for taking the time to speak with us today. This was very helpful. Enjoy the rest of your day.

@@ -1,0 +1,865 @@
+Page 1 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.
+COMPANY DEEP-DIVE
+Former Manager at Uber Sees Strong Growth Potential in Tier One and
+Two Cities and Competitive Edge in Global Markets
+DATE PUBLISHED
+14 Apr 2025INTERVIEW DATE
+14 Jan 2025EXPERT PERSPECTIVE
+FormerANALYST PERSPECTIVE
+Investor-Led (Buy-Side)PRIMARY COMPANY
+UBER
+Summary
+The conversation between the client and the expert delved into Uber's growth trajectory in diﬀerent geographies and industries, focusing on the competitive
+dynamics in the food delivery market, breakdown of payments, and growth potential in Tier one and Tier two cities. Discussions also touched on the growth
+trajectory in Tier three and Tier four markets, international markets like Southeast Asia, and various markets like Japan, Australia, Latin America, the U.K.,
+and France, highlighting Uber's competitive positioning and strategic focus for sustained growth.
+Table of Contents
+Introduction And Expert Background
+U.S. Delivery Business And Growth Strategies
+Pricing And Unit Economics
+Competitive Dynamics And Market Segmentation
+International Delivery Business Overview
+Southeast Asia And Australia Markets
+Latin America Market Insights
+Europe And U.K. Market Strategies
+Global Growth Opportunities And Conclusion
+Expert Bio
+Former Sr. Manager Strategy of Ops at Uber, leaving in June 2024. The expert spent three years working on different business units
+within Uber across delivery and mobility for different regions In a global capacity. Director of Product Management for Mastercard
+Incorporated. Former Sr. Manager Strategy for Ops at Uber, leaving in June 2024. Prior to Uber, the expert was the Manager-
+Finance and Strategy Analytics at Estee Lauder Companies Inc., leaving in November 2021. The expert was responsible for global
+analytics, working with Estee Lauder corporate on supply chain and finance, what thee future pipeline looked like for launches,
+which region was going to grow and in which areas. The expert handled logistics planning and financial planning.
+Employment History
+Green Dot Corporation (Public)
+Director Of Product Management • June 2024 - Present • 11 mosRelevant Role
+Mastercard Incorporated (Public)
+Director of Product Management • June 2024 - Present • 11 mos
+Uber Technologies Inc. (Public)
+Senior Manager Strategy Operations • November 2021 - June 2024 • 2 yrs, 7 mos
+Uber Technologies Inc. (Public)
+Sr Manager Strategy Operations • November 2021 - June 2024 • 2 yrs, 7 mos
+The Estee Lauder Companies Inc. (Public)
+Manager Finance And Strategy Analytics • July 2021 - November 2021 • 4 mos
+The Estee Lauder Companies Inc. (Public)
+Senior Financial Analyst - innovation, strategy and supply chain • June 2019 - July 2021 • 2 yrs, 1 mo
+Page 2 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Interview Transcript
+Client 00:00:00
+Thank you for taking the time to chat about Uber and the rideshare/delivery industries that it operates in. I'd say our main focus
+and the key point that we want to touch on on this call is understanding essentially where and how Uber will continue to grow
+and considering the diﬀerent geographies that it operates in, both diﬀerent countries as well as maybe major metro areas versus
+other sub-markets within those countries, taking into consideration obviously diﬀerences between Uber's mobility and its
+delivery business.
+Thinking about the drivers of growth, whether that's their ability to continue to grow their user base or to get users to use their
+platform more frequently, whether it's the introduction of new products, essentially just trying to combine all those topics and
+get a better intuition for the business's trajectory over the medium term, call it, the next ﬁve years.
+Something that is part and parcel of that conversation is a better understanding of Uber's competitive positioning, which again, I
+think we understand is diﬀerent in diﬀerent geographies and between delivery versus mobility and even in diﬀerent sub-
+markets. Understanding your perspectives on that will be very helpful as well. It'd be helpful maybe if you could just start by
+giving us a little bit of more detail on your background at Uber and in these industries more generally.
+Expert 00:01:26
+I've been in the data science industry for almost 10 years and I've been working across diﬀerent sectors primarily focusing on
+understanding and building transformational businesses using data and machine learning algorithms. My last role, where I spent
+almost three years was at Uber Technologies.
+Within Uber, I worked across delivery and touched a few pieces of mobility. For the longest time, I think for a good two years, my
+role was we built out the North America Uber Direct platform. What Uber Direct is it's basically the last-mile delivery that gets
+powered through Uber. It's somewhere between delivery and mobility and that's why I have an idea about both of these ﬁelds.
+Basically, when you go to an Apple website or you go to a Walmart or a Sephora website and you select delivery in two hours or four
+hours and you select that window, that delivery is powered by Uber, so it's a white-label delivery service that was powered using
+Uber's platform so we would use the same drivers that are on the Uber platform, but use that to fulﬁll deliveries for a partner.
+What I spent my time on for two years was building up this product in North America. We scaled it from about maybe 100,000 trips
+per week to almost becoming now ﬁve million trips weekly, and almost $10 million in gross bookings, and that's how much we've
+grown as a business in the last two years, some major milestones. We also focused on a lot of diﬀerent geographies. We worked
+with us across diﬀerent markets and globally because this was the ﬁrst time we tried something like this.
+I also spent about a year after this, after we scaled this team. I started out as the second hire on this team and then we grew it and
+by the end I was leading a team of almost 20 analysts and individuals and leads all working on this project, that's just a testament
+on how big our business had become over two years and how we scaled it. In my last year at Uber I moved into a diﬀerent role, and
+that was primarily around packages and within the delivery space.
+That was a global product which we launched in not just Brazil, but Brazil, Puerto Rico, and U.S. as a pilot, which is packages where
+you can ask an Uber driver to go pick up, if you want them to buy something from a speciﬁc store for you, they can buy it and
+deliver it to your apartment or to your doorstep. Not just transferring stuﬀ, but also having that buy option in store so you can buy
+like two shirts of Old Navy or they can pick up your dry cleaning.
+That kind of product service was something that we started with and that was a product we built out for various markets looking at
+where the growth was, so this was a global role. That's how I looked at multiple facets of this business and its multiple geographies,
+and just being there and building out this product while being so close to the ground operations team. I think we can have a good
+conversation and maybe that can be a starting point for us moving into our next phase now.
+Client 00:04:35
+Okay. One I think high-level thing that would be helpful to better understand in your background is, recognizing that the Uber
+Direct business is a growth area for the company on the delivery side, the packages, the courier service, the retail pickup sort of
+business that you were talking about as well is an example of a new product that the business is expanding.
+Clearly, you were building it as a new product, and therefore is an area of growth. Can you please comment a bit more just on
+your level of exposure and experience with understanding the trends impacting what I've described as the core mobility in terms
+of rideshare and the food delivery aspects of the restaurant delivery?
+Expert 00:05:19
+Yeah. We spend a lot of time working on these trends with the core mobility and delivery teams. Both of these teams they function
+separately. We used to sit somewhere in the middle with both of these, and it's very critical for us to understand the trends as to
+where the focus is, where are we going to grow, what markets are we going to grow? The reason being, if we're growing a new
+product, even in Direct, we were using the supply of delivery and mobility. We were using, the way we call it demand and supply, so
+Page 3 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.the supply, the people who would be delivering the food or the products in either case was using the mobility core business as the
+base, and also the delivery business.
+We've worked very closely with the restaurant delivery business. That was like our daily bread and butter because we were in the
+same business unit as well. Everything that we did, delivery and Uber Direct went hand-in-hand from a mobility point of view, which
+is the ridesharing side of the house. I've been very involved with the supply generation, in which market are we focusing? How are
+we growing supply? There were a lot of conversations about where the supply, why should we focus, what should be the growth
+areas? Signiﬁcant time spent on supply analysis, even for the ridesharing business as well, globally. Does that help provide a little
+bit more context?
+Client 00:06:43
+Yeah, that does. Can we start then with the delivery business where it sounds like you spent a bit more time recognizing that you
+had some exposure to both delivery and mobility? Can you just maybe give us your overarching perspective on the U.S. delivery
+business, and starting in particular with the restaurant delivery business, but then maybe talking as well about some of these
+other products that you were involved in developing?
+Can you give us a sense for essentially the growth algorithm for how Uber is continuing to grow its delivery business in the U.S.?
+Be able to understand whether that's from continuing to grow the supply of restaurants or whether that's growing the supply of
+couriers? How should we think about the ability of the Uber U.S. restaurant delivery business to continue to maintain a healthy
+growth trajectory over the coming ﬁve years?
+Expert 00:07:38
+Yeah. I think deﬁnitely we can speak a little bit more about the North American business. One of the things that you will notice is
+that at least in North America and in Canada, both actually, we're CP1, which is basically we have maintained our market leadership
+ahead of competitors. We've had really fast expansion, as you've already seen. That has primarily come from a lot of expansion into
+restaurants.
+We talk about two things, we'll talk about the supply side in terms of the restaurants and the actual availability of inventory, and
+then we'll talk about how we're growing the customer base and increasing the orders on the demand side and generating demand.
+All teams at Uber are actually split as two and we tackle it as supply and demand-based verticals, and everyone works on either of
+these two sections within the business.
+On the supply side, where we try to sign on more and more restaurants, what we're seeing is that our sales team is working really
+hard to get more and more deals through. The deals that are coming through with restaurants is primarily not through individual
+deals that we're signing with restaurants, it's happening through partnerships with partners such as Olo, such as Toast, such as
+Square, which are basically aggregators. Every small restaurant goes to an aggregator for their ordering delivery system, for setting
+up their entire orders like their online system.
+We work directly with these partners such as Olo, such as Toast, to get all that volume directed through Olo to us. That's how the
+channel ﬂows. All of our deals and how we get volume is by working with Olo and Toast and Square. These aggregators are where
+maximum volume lies.
+The reason why I say the growth is not saturated there is still a long way to go is because there are multiple competitors in the
+North American market. As you would know, we have Grubhub, we have DoorDash, we have a lot of other competitors who actually
+have been cutting us. It's been cutthroat in the deals market in the restaurant space I would say. Deﬁnitely, pricing is an important
+potential where it comes down to, "How do we price these deals to get more and more partners to sign with us through Olo?"
+Having partnerships through these aggregators is something that is a big driver for growth for us.
+Client 00:10:00
+Can I just ask some questions about that? That's actually interesting and not something that I was familiar with. If I understand
+what you're describing correctly, it sounds like the restaurants that you're winning onto the platform in many geographies are
+not necessarily ones where the Uber Eats restaurant delivery business is developing a one-to-one relationship with that speciﬁc
+restaurant, but rather the partnership is actually happening with the payment provider for that restaurant.
+That payment provider to the restaurant then becomes a funnel to both process payments on behalf of the merchants, but then
+also to direct their online delivery orders through Uber Eats for fulﬁllment, is that the right way to think about how that works?
+Expert 00:10:47
+Yes. If you think about every small restaurant, like if you're in a city like New York or you have any local restaurants which are
+individual chains, so obviously we have tie-ups with the bigger chains, which is one part of it, which is your Olive Gardens and Pizza
+Hut and Domino's, which are big chains and nationwide chains. Domino's was a big one for us last year, where we onboarded them
+on the platform and that was a big value driver.
+Page 4 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Along with that, the way to increase penetration is through local restaurants. If you are in a city and you know the local food carts or
+you know the local food trucks, you would want to order from there and have that local experience. These local restaurants actually
+don't have their infrastructure or the bandwidth to do the online ordering system to get their internal systems up to speed and then
+set up delivery.
+That's where these partners such as Olo, Toast, Square, these have tied up with the restaurants and they provide a ready-made
+plug-and-play system for restaurants to just log in and be able to manage their entire online delivery system. That's what helps all
+the food delivery apps to then do tie-ups with these payment providers, so as I explained.
+Client 00:12:03
+Okay. How does the competitive dynamic work in that sense then? I recognize that Uber Eats might be a market leader in some
+geographies, particularly maybe some dense metro areas. I think our general understanding had been that DoorDash is the
+largest food delivery platform in the United States, much of which might be attributable to the fact that they are historically
+speciﬁcally focused in suburban markets where demand really exploded with the onset of the pandemic.
+Just given their scale, given their sophistication, DoorDash when I say that, I would have to imagine that they are making inroads
+and partnerships with the same relatively concentrated set of aggregators that you were just talking about, Toast or Square or
+whomever. How does the competitive dynamic work when partnering with these aggregators in order to win these non-chain
+merchant accounts in terms of getting volume directed to Uber Eats in a given geography versus that same volume going
+through a partnership between Square and DoorDash, for example?
+Expert 00:13:08
+I think that's a great question. Let's say there is a delivery from Toast, there is a live bidding that happens, an auction, so these
+aggregators have an auction model, and it is based on that auction, whoever wins gets the delivery. There is a live auction that
+occurred. The auction for diﬀerent restaurants, diﬀerent chain, diﬀerent places happens on the basis, it could be price, it could be
+delivery, it could be your past order reliability.
+Reliability and how you've operationally been performing in a certain area is a key factor in some of these options as well. Have you
+been on time 99% of the time? What's your average on-time rate? What's your average completion rate? These are the two core
+metrics that are used in Uber and that is our daily bread and butter. Those play a big factor into how you win these orders.
+As you mentioned historically, DoorDash, especially in the suburbs, they've had a much bigger supply, they've had much bigger
+ﬂeet and they've always done better than us, rather than New York and bigger towns have always been an Uber-dominated market.
+However, you will see that that is changing slowly and quickly because our reliability or our operational metrics as we call them, are
+actually much better than our competitors. This is feedback not just from data that we've seen, all the feedback we receive from
+customers, from end users, all of them.
+What we've seen is then slowly, over six months, we have seen in certain markets, the auction model, so we call it how many orders
+are we actually winning in the auction model? If there are 1,000 orders that showed up in the auction, how many did we win out of
+that? The win rate as it's called. Our win rate has successfully gone up month over month as we looked at a six-month chart. That
+actually becomes the foundation for us getting more and more orders as we do better, as we increase our supply.
+A big factor to increase that is either be competitive on pricing and improve your operational metrics. Now, how do you improve
+operational metrics when DoorDash has already always been superior in the suburban market? You will see in the last one year, if
+you listen to any conversation about Uber, there is a lot of focus on suburbs. We have shifted our strategy, as I was saying, the
+supply and demand vertical.
+On the supply side and the driver side, we are spending signiﬁcant amount of time in increasing our ﬂeet in the suburban markets.
+You will notice that our ridesharing, so not just delivery, but also mobility, both of these markets, people on the ground have really
+spent a lot of time onboarding new drivers onto the Uber platform, whether that's through incentives, whether that's through
+membership programs for drivers, a lot of diﬀerent features which make people onboard onto the platform. That's how we're trying
+to balance it and move forward in this.
+Client 00:16:08
+Yeah. I want to come back to some of what you just described in terms of trying to, it sounds like, essentially grow the supply,
+and by improving the supply in the suburbs, that's able to improve the eﬃciency and the reliability with which you're able to fulﬁll
+orders for restaurants. I do want to come back in a minute to some of what you're saying in terms of pricing, recognizing that
+this is a competitive market, and so pricing is obviously a consideration. We'll come back to it.
+First, can you just help me better understand how this auction model works? I'm still a little bit confused in terms of how it works
+speciﬁcally, what I mean by that is, I would have thought that the orders themselves are going to be coming in from consumers
+from a speciﬁc platform. Those consumers will either be using the DoorDash app or they'll be using the Uber Eats app. Taking a
+simplistic model, if we assume those are just those two competitors in a given market, whatever app the consumer places their
+Page 5 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.order through has essentially won that order.
+The restaurant isn't going to take the order through Uber Eats and then be able to put it into this auction process and then bid it
+out to DoorDash to fulﬁll the order. An Uber Eats order that comes through the Uber Eats app is an Uber Eats order. Help me
+reconcile those two intuitions for how this market works in terms of, on one hand, it's a consumer-directed thing and the
+restaurants on the back-end are selecting whether to be part of one or multiple platforms, potentially in partnership with these
+aggregators. Second, this other model that you described, where there's a live bidding process for orders in real-time, it sounds
+like.
+Expert 00:17:53
+I think you're right. I should have clariﬁed that this auction model happens for a small percentage of orders. You're right, when you
+log into an Uber Eats app, the order goes through Uber Eats. There are certain cases where restaurants can turn out the option of
+backup ordering. Let's say if they feel that the ETA from Uber or the drivers are not arriving, you will see there are multiple instances
+sometimes when deliveries just keep getting cancelled, or you don't have a driver that's picking up the order.
+There are instances in the suburbs where restaurants can sign up for choosing a diﬀerent provider, an Olo or let's say Toast at that
+point can make that switch for them if it's a backup order, so if there've been two or three instances where an Uber driver hasn't
+shown up to make sure the order goes through.
+That is a small percentage of orders, and I should have clariﬁed that, that for Olo and Toast, the auction happens for a small
+amount of orders, but that becomes critical in deﬁning the path forward with the restaurant and solidifying your position. Your
+intuition is right, that's how it is on the Eats side. It is only for a small percentage of orders that work as backup orders that are
+called as backup orders, within the industry that go through this auction process when there have been multiple cancellations.
+Client 00:19:17
+Got it. When you're talking about the win rates that you're seeing under the auction model, you're pointing to that as evidence of
+the momentum that Uber has in terms of improving the eﬃciency and the productivity that they're able to oﬀer to restaurants in
+those edge cases where there's essentially some either overﬂow or some backup delivery provider that's required to fulﬁll a given
+order. That's indicative of where the momentum is going, in terms of where they are going to. Who among the delivery fulﬁllment
+providers they are most going to support in terms of partnering with on a direct basis? Is that the right way to think about it?
+Expert 00:19:58
+Exactly. As we'll move into the pricing conversation, obviously pricing is a big factor, how much volume you're going to get, but then
+these other nuances help you move the needle when pricing cannot be changed much, so these become your leverages that you
+can win volume using without letting go of the price.
+Client 00:20:18
+Okay. Maybe we can pivot then to talking about pricing a little bit. When Uber talks about pricing with respect to a restaurant
+that they're partnering with, what's the right way to think about pricing? Is it a commission rate that the restaurant pays on the
+order value? How do you frame the pricing conversation?
+Expert 00:20:37
+I would say every pricing contract is diﬀerent. There is no standardized way of pricing. It is very diﬀerent from chain-based
+restaurants, what we would charge for an Olive Garden versus a Domino's, and depending on the size of the partner, the deal. I can
+give you example the types of models that exist.
+Client 00:20:56
+Sure. Maybe just to simplify it, I'm focused on the non-national chain restaurants, but rather the local mom-and-pop restaurants,
+maybe they have one or two locations but not 50.
+Expert 00:21:08
+Yeah. The way we think about pricing at the most based level, the most basic without any thrills, without any changes, if I had a
+most basic contact, the way we think about pricing is distance-based pricing. Earlier like a mom-and-pop store, where volume, it's
+not going to be a lot of orders every month, it's going to be medium size. Usually between zero to maybe three mi. or ﬁve mi., X
+would be your charge for delivery, then ﬁve mi.-10 mi. would be a diﬀerent pricing, plus there would be a commission on the basket
+value.
+There are two components, one is the distance and second is the basket or the cart size that comes in. What's going to be the size
+of the cart that we can oﬀer? That's your baseline core way of just thinking about pricing. Other things come in such as volume-
+based discounting, there are things such as Uber Ones where you could get like, "Are they signing up for Uber One-based kind of
+Page 6 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.oﬀers? Do they want to enable Uber One membership oﬀers on the restaurant?"
+The other thing that is doing very big, which is helping us grow signiﬁcantly, is something called RFOs, which is restaurant-funded
+oﬀers. When you open the Uber Eats app, you see there are oﬀers, like spend $20, get 5% oﬀ, or buy one get one free, buy one get
+20% oﬀ. A lot of these oﬀers are being modeled. Our data science team is helping to model these for individual restaurants where
+we show the restaurant the beneﬁt they can get by having these oﬀers on their website.
+What that would mean in terms of how many more orders it could bring them. If they oﬀered such a promo, what would be the
+incremental beneﬁt to them? While there is a cost associated with RFOs, what that's really helped to bring is bring volume to both
+the restaurants and to Uber Eats, both at the same time.
+Client 00:23:00
+Yeah. Those restaurant-funded oﬀers, based on the name, they're paid for by the restaurant.
+Expert 00:23:06
+Yes.
+Client 00:23:07
+Okay. I just want to make sure I understand this because we're getting a little bit into the topic of unit economics which I did
+want to better understand. When you talk about X dollars per delivery fee within a given radius plus some commission rate, all of
+that is payments that are being made by the restaurant, correct?
+Expert 00:23:27
+Correct.
+Client 00:23:28
+Okay. There is some other per delivery fee that is being charged from the end consumer, is that also right?
+Expert 00:23:35
+Yes.
+Client 00:23:35
+The driver who's delivering that order is being paid out of the combined delivery fee plus commission paid by both the restaurant
+and the consumer, is that the way to think about it?
+Expert 00:23:47
+Yes. The tip that the consumer adds, that's 100% transparent.
+Client 00:23:51
+The tip is above and beyond the gross bookings on a given order? That goes directly to the courier?
+Expert 00:23:57
+I would say don't think of it as one is to one. Random example, just for the sake of simplicity, Uber got $10 for a certain delivery
+based on the customer fee and from the restaurant, so marketplace fee plus from the restaurant we got like $10 for this particular
+delivery. It's not that exactly from this $10 would proportion what the courier would be paid.
+We've spoken about the distance-based pricing, the courier pricing is a completely diﬀerent model and not related to the pricing
+that we're charging here, because there could be factors such as real-time supply, real-time search, availability of couriers. It's a very
+diﬀerent dynamics that determines the pricing of what the courier will get paid per trip. Sometimes it could be higher than what
+probably you would think you're making on the delivery, so just saying that.
+Client 00:24:50
+I think that's clear. What I wanted to make sure was that it's not that the restaurant is then paying the courier some other
+amount. Uber is getting value from the restaurant in the form of the delivery fee plus the commission, there's another delivery
+Page 7 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.fee being paid by the consumer. The courier is getting paid some other amount that Uber then pays them directly, which is not a
+function of what they're taking in from the restaurant and the consumer, but ultimately it comes out of that total when you think
+about the business on an aggregate basis.
+I think you mentioned that there's no standard way of doing it, you mentioned that this is going to be diﬀerent between a
+national account and a mom-and-pop store. It sounds like it even matters depending on the type of geography that you're in,
+where if you're a restaurant that's doing a lot of deliveries that are longer, maybe to people as far as 10 mi. away, what you pay is
+going to be higher than if you're maybe a local restaurant in a city that's doing lots of very short distance deliveries.
+I think the company has talked about a $30 order value for a restaurant delivery in the U.S. Can you help me just understand, of
+that $30, that's the total order value, how to break that down into what is Uber getting paid by the restaurant and by the
+consumer, and then what's going to the courier? How should I think about the rough percentage breakout of that 30% into where
+that value gets attributed for the fulﬁllment of the order?
+Expert 00:26:26
+These are just very broad stroke ranges that I'm trying to provide here. As you know, there's too many complications and nuances
+to it. On a simple basis, let's say you have a pie of 100%, almost 20%-30% would actually go towards driver earnings, because there
+is a clear indication of the payouts depending on every market conditions and things like that. That 20%-30% is directly going
+towards courier payouts.
+If that's the average cart value, let's say $30, as you mentioned, is the price of the cart, probably Uber would make around 20%-30%
+of that, that would be the commission and the take rate that we would get from the consumers and from the restaurant.
+Combination, that may be around 20%-30%. Let me just give numbers, that'll probably be easier. It's very high level. If the cart value
+is $30, on average you could say that Uber was probably getting in about $6 of that, 20%, let's say $6-$7, and then our average cost
+to the driver, let's say for a small delivery which is just two mi. or three mi. away, would be around $5.
+Client 00:27:35
+Okay. $6-$7 goes to Uber, and $5 goes to the courier. That's $11-$12 going to Uber and the courier. The restaurant is getting $18
+essentially.
+Expert 00:27:45
+No. If that is coming to Uber, let's say $6, restaurants are getting $24. Out of that $6, Uber is paying the courier. The courier is not
+getting any money from the restaurant.
+Client 00:27:57
+Got it. Uber collects $6 or $7, and then Uber pays the courier $5. That means that on a $30 order, Uber is only making $1 or $2?
+Expert 00:28:06
+If you thought about it at a unit economics and just at an order level, that would be probably accurate, not more than $2 or
+something for accurate for a $30 basket. This is again being very, I would say, optimistic and just very high level.
+Client 00:28:22
+Got it. I know I'm bouncing around a little bit, you're touching on a lot of things that are helpful for me to understand. Maybe if
+we could just go back to some of the conversation that we were having around the North American delivery market and where
+Uber is growing, I know we were talking about some of the competitive dynamics and how Uber is winning and the momentum
+that Uber has demonstrated, both from being able to price competitively as well as by being able to demonstrate eﬃciency in
+being able to fulﬁll orders, which incentivizes restaurants to partner with Uber over the primary competition, which I think in
+many markets today is going to be DoorDash.
+Can you maybe help us understand just a little bit, if you were to break down the U.S. food delivery business for Uber, how should
+we think about where the growth is coming from? If you were to segment the market into maybe the most mature, most highly
+penetrated metro areas, New York, San Francisco, Chicago, I'm not sure what the biggest metro areas are for Uber, I would
+suspect that those are in the top 10.
+If you were to separate those from suburban markets where Uber has historically not focused, one, what's the trajectory of
+Uber's food delivery business in those two markets? If you think about just the relative size of those two businesses as you think
+about the next ﬁve years, which is the larger contributor to growth over that period?
+Page 8 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:29:52
+That's a great question because literally one year ago we restructured our teams to start thinking about based on territories and
+size of the markets. Baiscally, we've segmented all of the markets that we operate in North America in ﬁve diﬀerent categories, so
+we go from Tier one to Tier ﬁve. We categorized each tier by not just the supply that we had, not how many orders we were getting,
+but also how many drivers or couriers did we have in that, so a combination of, "Are we doing great in this market from a supply
+and from an expansion perspective, or do we need to invest a lot more energy to grow in these markets and that we're not
+performing great in?"
+As you mentioned, Tier one` is the New York SF, Atlanta is actually a really big one for us. Miami is another big one. You know your
+top Tier one cities. That Tier one, is about, I would say, it's easily 15%-20% of our delivery business, and it's actually doing great.
+Great in the terms of operational metrics are good, you're winning above the competition, you have strong reliability, everything's
+working well. Anything you do better is only going to make more money, so there's incremental value that's going to come there.
+There's no issues or gaps there in terms of performance.
+We have Tier two, Tier three, Tier four, and Tier ﬁve. Tier ﬁve is probably the ones that we don't work out of, like maybe places in
+Hawaii, in Alaska where we're not really functioning. We said that that's maybe 2% or 3% of the business that probably we're not
+going to get in the next year, and we focus on this later.
+The cities in the middle, Tier two, Tier three, Tier four is depending on size. Tier two is actually the ones that are growing very
+quickly, but Uber's delivery is not growing at that pace, it's not up to the mouth there, cities such as Nashville, New Orleans, San
+Diego, those markets, which have a lot of inﬂux of orders, but Uber historically has not been trending well there. That's where we
+strategize, for each of these tiers, what needs to happen over the next two years to make us a market winner there. That's how
+we've actually planned it out.
+One of the things that we're really targeting in Tier one and Tier two, Tier 1s we've already gotten most of the restaurants in, your
+deals are in, so it's like, "How do you get incremental value here?" One of the things that's really working for us in Tier one and Tier
+two is actually grocery expansion, and that is a key lever that you will see called out in all of these Uber calls. Dara mentions it
+multiple times. Grocery is a big pillar of growth, and it falls within a delivery because it uses, I would say, the same tech stack, the
+same pool of drivers, the same algorithm. Grocery is a big lever for us to grow in these markets.
+On that example previously, Uber probably kept about $1 or $2, let's say. If it's a grocery delivery, that $2 would deﬁnitely be 3X of
+that price. One, because baskets are much bigger, and second, there is much more room for growth and the pricing is actually more
+favorable for Uber in terms of proﬁtability. That is actually a big lever for Tier one and Tier two. I'm just going to pause there,
+though I know I spoke a lot. Does this help? Is it giving you context?
+Client 00:33:14
+It's really, really helpful. Maybe if I could just double-click on that one more level, and I think you mentioned Tier one, New York,
+Atlanta, Miami, San Francisco, big chunk of the business, there's a big chunk elsewhere, but it's sizable, 15%-20% of the total.
+When you say it's doing great, I know you speciﬁed that that's on a relative basis in terms of gaining share, your operating
+metrics are good, you have supply, etc. If I split that apart and I say restaurants in Tier one and I exclude the opportunity from
+grocery, what's the rough trajectory that those markets are growing at?
+I have to imagine that those are the most mature, you have all the restaurants on the platform already. Consumers are used to
+food delivery. It's oﬃce workers like myself who order to their desks or order to their apartments, so I would have to imagine
+that your consumer penetration is also relatively mature. I don't know if that means it's saturated. What's the trajectory for those
+businesses when you think about the core restaurant delivery business alone before you add in new delivery products like
+grocery or like any of the other newer businesses that you were speciﬁcally involved in?
+Expert 00:34:29
+You would actually be surprised that they're still growing in strong single digits and early double digits for Tier one as well, quarter-
+over-quarter. It's like when you think that probably we've matured to a point where you're probably not doing 20%+ growth quarter-
+over-quarter in New York City anymore because it's obviously at a much higher rate itself, but it is still very strong single digits or
+early double digits for some of these markets.
+I think that's still the trajectory that we're looking at at least for the next two or three years. One, because speciﬁcally these are
+towns that are growing in population, the number of people with the disposable income that's going up is actually increasing over
+time. We are continuing to still get more and more things on the platform. Six months ago, there were no food trucks in New York
+on Uber Eats, just an example, but that is opportunity that we've tapped into in a market like New York City and we're able to deliver
+that, which is big because food trucks are really big in New York.
+We're exploring all of these new opportunities. Not just getting more restaurants on, but also expanding the areas that we can
+deliver. Example, let's say 50% of your restaurants just did a two-mi. radius. If they're doing great in those areas, we could expand
+the two-mi. delivery radius to a four-mi. delivery radius, and that automatically means you open up your app to a lot more people.
+Those are ways that we are thinking about growing these markets, just a few examples top of head.
+Page 9 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:36:04
+Yeah. The population growth makes sense. I think when you're saying that, you're saying not only population growth, but
+speciﬁcally user growth, so there's still some penetration growth happening above and beyond, whatever, just 2% or 3%.
+Expert 00:36:20
+I would say, Uber One our membership program is a big key of this. Our membership program has still not reached the maturity, I
+would say, the penetration it should reach. We've signiﬁcantly seen that customers who are on the membership like Uber One,
+probably end up spending 2X the amount on the app per month or per week than on regular customer who's not a member would.
+There is a big diﬀerence in the spending patterns of a person with the membership versus not, and that penetration is actually a big
+lever of growth for us.
+Client 00:36:53
+That makes a lot of sense. It's a lot of things. There's user growth, there's the frequency topic you're talking about, which you
+might be able to incentivize by convincing consumers to sign up for Uber One. It sounds like there's surprisingly still some upside
+from restaurant acquisition, adding food trucks in New York or what have you. Are those the main drivers? I know you mentioned
+that concept of expanding the delivery radius. To play devil's advocate, I would think that if you're expanding the delivery radius
+and users are now placing orders from a restaurant four mi. away, that's just cannibalizing the order that they would be placing
+to the restaurant down the block.
+Unless you're really expanding the operating zone beyond the city limits and starting to get into the suburbs, ultimately it has to
+just be a function of the users and the frequency as opposed to the delivery radius. Am I misunderstanding something about
+how that grows the market in a Tier one or Tier two city like we're talking about?
+Expert 00:37:56
+No. That is deﬁnitely fair. That order would have come in anyway, but I will say that by doing that we did see an increase in orders.
+There is some factor that has played a hand. I understand and that's how you would think rationally, but probably there is some
+percentage which probably people wouldn't have ordered anyways, but they ordered because their favorite restaurant was now in
+the app and they could order it. The top piece around RFOs would again be another thing that we're pushing. That could be another
+one, just on frequency. Restaurant-funded oﬀers would just work into frequency and getting more orders on the system.
+Client 00:38:36
+Okay. High single digits, low double digits for restaurants in a Tier one, Tier two city, obviously not explosive growth. We've been
+trying to disaggregate this into restaurants versus some of what you're talking about. I'm not sure how big that is or how fast
+growing that is, but if you layer in grocery, if you layer in Uber Direct, if you layer in some of those other products that you were
+talking about that are more nascent, what does that take the trajectory of these even mature markets to?
+Expert 00:39:07
+We are looking at a minimum of 20%+ growth in every market over the next year or so. That is the clear direction, that's what we are
+aiming to be. We are deﬁnitely aiming to be in high double digits, like high 20s percent, obviously, nothing less than that for every
+quarter. That's a big target, that's huge, and that's just the targets that we're working with. Obviously, Tier two, Tier three, we're
+expecting much higher growth because we're investing a lot from just increasing supply. There is a very high investment that is
+going in those markets as well to get us to par with our competitors and even do better.
+I would say Tier one, we should deﬁnitely be looking at, "Oh, grocery actually is growing in strong double digits, very strongly
+quarter-over-quarter." Cities such as New York, L.A., it's been phenomenal in terms of groceries. I would say the growth rate has
+been very high for grocery and for retail. We call it grocery and retail eats together, so that's coming in pretty strong as well.
+Client 00:40:10
+Okay. I just want to make sure I understood that. Grocery and retail as a category, that's speciﬁcally is growing high teens
+percent to 20% or the combination when you layer in that and restaurants, the entire delivery business is growing at that high
+teens percent rate?
+Expert 00:40:28
+No, I'm saying grocery and retail is growing higher than 20%, so it's in the high 20s percent, and then together, they're in high teens
+percent in Tier one and Tier two.
+Page 10 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:40:39
+If you add restaurants plus groceries plus retail.
+Expert 00:40:42
+Yeah. That's all of mobility, basically.
+Client 00:40:45
+I understand. That says the business is really healthy, and I think you suggested that at least for the restaurant, I would imagine
+maybe the growth rate moderates in the grocery and the direct business. It would seem to suggest that there's a really healthy
+growth proﬁle even in the most mature markets that Uber is operating in for its mobility business in the U.S. Do you agree with
+that?
+Expert 00:41:10
+Yes. Deﬁnitely, over the next one or two years for sure. At Uber, at least the way we think about it is, while we have not start ﬁve-
+year goals, I think most of us are working with two-year targets in mind, because the industry just changes so quickly as you know.
+Client 00:41:26
+That makes a lot of sense. I think it's intuitive. From having spent time on it, intuitively, does it feel like this is really a one or two-
+year play or is it that there's really more runway for growth and growth in Direct? While you might be thinking about this in terms
+of what's happening over the next one or two years, do you think there is continued opportunity, maybe it's not high teens
+percent growth, but even if it's mid-teens percent or low teens percent, very healthy growth, do you think that that continues?
+Expert 00:41:59
+Yeah. I think this is a long play for sure, because right now we're only talking about food and grocery. We're not even talking about
+everything else that we can do and new ventures that we will be bringing in on into these markets just from delivery as well. What I
+meant when I said one or two years is because this current strategy that we have will take place and shape up over the next one or
+two years, and then it'll probably be time to reassess and come up with new ways of growing these markets based on where we are
+then.
+Client 00:42:32
+Really helpful. That's the Tier one and Tier two markets. I guess at the other end of the spectrum was Tier ﬁve, which is where
+Uber is basically not going to play or certainly not focused. As you think about the Tier three, Tier four markets, is that where you
+start to see suburban areas and areas where Uber maybe hasn't had so much strength historically on the mobility business but
+where it's focused on entering?
+If so, how do you think the growth trajectory for Uber compares in those markets as opposed to the most mature Tier one, Tier
+two markets? Are those markets faster growth or are they harder to penetrate and therefore you think there's less opportunity
+there? How do you think about those middle tiers?
+Expert 00:43:17
+Yeah. Actually Let me give you an example. These middle tiers would be markets such as really Dallas, Las Vegas, Phoenix.
+Traditionally, actually they've not even been very big in food delivery. Food delivery is not such a big business. What we've actually
+seen in Tier three and Tier four is we've seen a much bigger volume come in actually from Uber Direct rather than Uber Eats. These
+are markets where Uber Direct, which is through our integrations with Walmart and with Sephora and with Albertsons and all these
+chains of grocery and all these suburban stores in a way, those doing much better than your mom-and-pop or food delivery
+business.
+It's just diﬀerent because here the distances are longer, people probably don't order in that much. It's a diﬀerent dynamics at play.
+What we're seeing is that the high volume are starting to do well with a Walmart, which probably every person in Columbus, Ohio
+uses to order groceries, is growing so signiﬁcantly that we're able to add more drivers onto our platform because we're seeing that
+growth come in, and that's actually started to fuel our mobility business.
+It's actually working the other way around for Tier four and Tier three, which is very interesting. If you see some markets where
+Uber Direct or this growth is actually fueling and bringing up our expansion plans to now start growing in the restaurant space.
+What we're seeing here is you don't see a lot of mom-and-pop stores, these are places where you see your Olive Gardens and
+Domino's much more at play than your mom-and-pop stores.
+One of the partnerships that we really targeted that we would have seen in the news was the Olive Garden partnership, which was
+an Uber Direct and Uber Eats deal combined. One of the things our sales team and the way we're targeting in these markets is
+we're oﬀering combined bundles to come up over our competitors. We have this opportunity to provide both sides of the platform.
+Page 11 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.We're telling Olive Garden to give us all the volume, not just on Direct, but also on Eats, it's like a bundle deal. The pricing works out
+to be cheaper for them and we're giving them two avenues of growth directly, so their own online system plus Uber Eats as well.
+With that, we're seeing the food delivery business also starting to pick up in these markets. I would say food delivery is actually not
+that high of a growth in these markets, but it's starting to grow. We're seeing that double digit growth come from the Uber Direct or
+from the grocery verticals actually now. Grocery and these markets are fueling now Uber Eats there. It's actually the other way
+around in these markets.
+Client 00:46:02
+That's really interesting. It's probably starting from a smaller base just given that the restaurant business hasn't been there
+historically. In aggregate, are these comparable in growth to the Tier one or Tier two? Is it higher because the existing business is
+so small?
+Expert 00:46:19
+Partly as you can guess, the growth rate is obviously much higher, but I would say the base is much smaller. It's a diﬀerent dynamic.
+I think what this means is that there is a lot of potential to unlock. I think in these markets, the way we're seeing is that while it's
+begun with these bigger national chains, slowly but steadily as that volume is starting to pick up, as Uber Eats deliveries are starting
+to pick up, we are seeing the small restaurants slowly start covering onboard. I think there is a lot of potential for them to be
+onboarded, however, it's not there yet. That's the plan. That should be something we see growth coming in.
+Client 00:46:59
+Yeah. To go back to a previous conversation, as you think about the competitive dynamics in these Tier one, Tier two, Tier three,
+Tier four markets, do you see more of the DoorDash competition in these Tier three, Tier four markets, and therefore there's
+maybe some more competitive risk to what's going on there but you feel good about the dynamics in the Tier one markets? We
+talked a lot about where you're seeing the opportunity, but where is maybe Uber going to face more competition as it tries to
+take advantage of the opportunities we've been talking about?
+Expert 00:47:34
+I would say competition is actually there across all markets, but Tier three and Tier four, the competitors have a very strong hold
+over the markets, let me put it that way. At the end of the day, the way we see it, it's the same person who drives for both Uber Eats
+and DoorDash, for example. The same driver has both of these on. It's just that in the suburban markets, the volume was always
+coming from DoorDash. If I was a driver or I was an Uber Eats delivery courier, I would never have Eats on because I would just not
+get orders through it or not make money through it, because all the orders were ﬂowing into our DoorDash always.
+There was just this competitive advantage they had because the supply was just with them. Now, as we're getting more and more
+volume and we're able to get volume, then we are able to work with courier incentives, we're able to incentivize couriers and get
+people onboarded, and then we're starting to see that switch. I would say the dynamics for competitor landscape, competitiveness
+is across the board, and they're trying to cut us in the market. It's just how much can they actually get there?
+Client 00:48:45
+Yeah. It sounded like before, when you talked about Tier one and Tier two markets, it sounds like you feel good about how Uber
+is performing relative to DoorDash in those markets. Obviously, the competitive landscape can evolve, they could cut their
+pricing, they could do this or that. Generally, as you think about where most of the growth is coming from for the Uber mobility
+business in the U.S., do you feel good about how the company is positioned relative to DoorDash? Even if DoorDash has some
+strength in some of these smaller and less dense markets, maybe they're smaller individually, they're less dense, but there's
+more of them, or is it ﬂipped?
+Expert 00:49:26
+No, it's absolutely true. I was closely involved in working with these restaurants or working with these partners on a weekly basis,
+talk to them and try to understand feedback from their performance. There was a clear, unanimous answer that they were just
+happier working with us than they've ever been working with our competitors.
+It's just that they were early to the market, our competitors were early to the market, they were able to get them to lock in contracts
+before we could get there, and they had that ﬁrst mover advantage. Now as contracts are up for renewal and as we're entering the
+negotiation phase with most of these chains, you will see the tide turning. I don't see that as an issue at all.
+Page 12 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:50:11
+Yeah. As these contracts renew, is more of the conversation about winning those contracts from DoorDash? Is it more about the
+productivity of the Uber network, or does it come down to a pricing consideration? Really what I'm trying to get at is, as Uber
+mobility business in aggregate and DoorDash come into more direct competition, both as Uber tries to penetrate the suburbs
+and as DoorDash tries to penetrate the large metro areas, is there some race to the bottom from a pricing perspective that is a
+headwind to overall growth and to the proﬁtability of the mobility business? How do you think about that?
+Expert 00:50:49
+I think there are multiple factors, but one thing that is very clear by Dara in any of the conversation if you ever hear him say, he's a
+big proponent on proﬁtability. He has a clear factor focus on that the company needs to grow at a certain rate with a certain proﬁt
+targets. We are in it for the long run. We're very clear that while to win a deal, you must do whatever it takes. When a contract is up
+for negotiation, you do whatever you price the best way. There is only a certain threshold to which Uber will fall, and that will be at a
+certain whatever works from a bottom line perspective. We will not dip lower than that.
+If our competitors are willing to do that and take that hit on their bottom line, they are welcome to do it, but Uber will not be
+making that call. We stick to our pricing, the best possible pricing, which enables cash ﬂow and proﬁtability. That's why we are
+working on improving our productivity, so that we have those things to our leverage, so that we can actually use that to our
+advantage. Our competitors are willing to do so and they can continue doing so if they want to.
+Client 00:51:59
+Got it. I had hoped to get to the mobility business as well, which I now recognize is a pipe dream. We haven't touched at all on
+the international delivery business either. Question for you is, do you have another 30 minutes to pivot and talk a bit about the
+international delivery business, or should we cut the call here? I could set up some more time with you to reconnect on some of
+these other topics that we didn't have time to get to today.
+Expert 00:52:27
+I have 30 more minutes. If we need more, then we probably have to schedule something separately, but 30 minutes should be ﬁne.
+Client 00:52:36
+Okay. I'll punt on the mobility business for today, and maybe we could just spend a bit more time talking about the mobility
+business in international markets. Does that work?
+Expert 00:52:47
+Okay.
+Client 00:52:47
+Look, I think it'd be helpful maybe just to better understand how the international markets for the mobility business break down.
+I think our understanding is that, while the U.S. delivery business is the largest, it's less than half, maybe it's 40% or 45% of the
+total. One, is that true? To the extent it is, how should we think about what the largest international markets are for Uber's
+delivery business?
+Expert 00:53:13
+You're right. You're fair in saying that the U.S. is probably the biggest. The second biggest market that we're looking at is actually
+within what we're really seeing in Southeast Asia, is Taiwan and Japan. That is growing very fast for us very quickly, even faster than
+Europe. We are seeing a very strong growth coming in from Taiwan.
+We were actually looking at a merger that would actually make that market almost as big as U.S. That was blocked recently, so that
+merger didn't go through with foodpanda in Taiwan. Even after that, Uber Eats is one of the major players in Southeast Asia. You
+will see that that contributes to a huge factor of our growth in the overseas market. It's followed by Latin America and then Europe.
+Client 00:53:59
+Okay. I hadn't appreciated that. I knew Japan was a big market, but I didn't realize that Taiwan is. To make sure I understand that,
+it's a very fast growth market, but it's also the number two largest market after the U.S. in terms of Japan, Taiwan, and Southeast
+Asia?
+Expert 00:54:15
+Yes. All of Southeast Asia combined.
+Page 13 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:54:18
+Okay. I know the mobility business in Southeast Asia was sold to Grab, I think a number of years ago now, maybe 2018.
+Expert 00:54:26
+Do we talk about mobility or delivery right now? I'm confused.
+Client 00:54:30
+We're talking about delivery, but I just want to make sure I understand. Your comments were about delivery?
+Expert 00:54:37
+Yes.
+Client 00:54:37
+Okay. Apologies if I misspoke and caused any confusion. My understanding is that Uber exited its mobility operations, the
+rideshare business, in Southeast Asia by selling that business to Grab before COVID. When you say Southeast Asia, I know you
+mentioned Japan and Taiwan, but does that also include Uber Eats operating independently in Indonesia, Vietnam, Thailand, any
+of those markets where it has ceased operations on the rideshare side?
+Expert 00:55:05
+Yes. Actually, you would see a lot of markets where probably we operate just Ride or just Eats as well, it's not that we always operate
+both in every market. Like you're saying, Thailand would probably be included. Just an anti-example to that would be that Uber
+Rides is really big in India, it's like one of our top ﬁve markets, but Eats, we sold our business to a local competitor and we don't
+operate there. You will see this happening in many markets, so it's not rare to see that. We look at Australia, Japan, the entire East
+side of the world, it's one market.
+Client 00:55:40
+Got it. I recognize this might be a little bit market by market. I would expect Japan is diﬀerent from Australia is diﬀerent
+potentially from Vietnam, Thailand. How do you think about the competitive position there? Is Grab the major player in Thailand
+and Vietnam from a food delivery perspective? How should I think about what that competitive landscape looks like in that
+market?
+Expert 00:56:04
+I think in Japan, Australia, we're deﬁnitely looking to be number one. Taiwan, we're very close to foodpanda, but foodpanda is still
+number one, it's the number one competitor there, and that is why there was conversations of this merger happening, which didn't
+go through. Uber Eats is a close second in Taiwan, but Taiwan is growing at great, like double digits it's at 20%+ growth quarter-
+over-quarter, so there's huge potential there for that market to grow big.
+I would say in markets such as maybe France, Germany, like in Europe, we are not number one yet. We know we have other
+competitors who are probably pricing much more aggressively than Uber Eats, so we're not number one, we're number two or
+three there. Similarly in Brazil, I think they have local players who are ﬁrst or second, and then Uber Eats is probably second or third
+in those markets. I would say strong position in Japan, Australia, those countries, Taiwan, but then Europe, Brazil was probably
+somewhere like second or third in the market.
+Client 00:57:07
+Okay. I just want to go again in rank order. Southeast Asia, including Japan and Australia is the second largest region behind the
+U.S. It sounds like Japan and Australia, Uber Eats has a leading market position. In Taiwan, it's very competitive against
+foodpanda. How about some of those other Southeast Asian markets like Thailand or Vietnam? Again, is Grab the big food
+delivery competitor there? To the extent it is, how does Uber Eats compare to that business?
+Expert 00:57:36
+Yes. It is Grab and Grab has a food partnership, I think it's called GrabFood or something. I think foodpanda also works in Thailand
+and Vietnam, so foodpanda is in multiple of these countries. Those two are deﬁnitely much more local concentration and deﬁnitely
+more popular in Thailand.
+Page 14 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 00:57:55
+Okay. Is Uber Eats the number three player then in Thailand?
+Expert 00:57:59
+I would say yes.
+Client 00:58:00
+Okay. I know we're talking about the big geographies at a very high level. As you think about not only the market position but the
+competitive dynamics, how are those markets trending from a competitive perspective? Is Uber Eats maintaining its position in
+Japan and Australia and Taiwan? Is it gaining share in Thailand and Vietnam against Grab and foodpanda? Are there any areas
+where some of these potentially local competitors are being able to win back market share from Uber Eats?
+Expert 00:58:30
+I would say, especially focusing just on Southeast Asia, Japan and Australia we're comfortably doing well, we're working well. It's an
+advantage we're able to maintain like North America, just focusing and increasing penetration where we are. I would say Thailand,
+Vietnam, it's proving to be a little diﬃcult, the local players, they're more connected with the end user I would say, they're more
+local-rooted companies, they're local, and they're able to oﬀer more deals than Uber Eats probably would. I think the market share
+there is deﬁnitely dominated by those partners.
+Client 00:59:06
+Okay. In Taiwan?
+Expert 00:59:07
+I would say Taiwan is a very close ﬁght. Taiwan, Uber Eats is also growing very fast and we're trying to take it the Japan route, but it's
+a work in progress.
+Client 00:59:17
+Okay. I think you mentioned that these markets are growing 20%+. As you think about the level of penetration of food delivery in
+these marketplaces, Japan, Australia, and Southeast Asia, again, I recognize that there are probably diﬀerences on a country-by-
+country basis. As you think about the level of maturity of the delivery market in those geographies compared to the U.S., is it
+substantially the same? Is it signiﬁcantly lower? Is it signiﬁcantly higher?
+Speciﬁcally what I'm trying to get at is the runway for continued growth in these geographies from continuing to grow restaurant
+penetration, from continuing to acquire users, from growing consumer frequency, all those sorts of things. I'm just trying to
+understand how that compares to the trajectory of the Eats business in the U.S.
+Expert 01:00:07
+I would say Japan speciﬁcally is growing very quickly. It's the biggest market in Asia Paciﬁc, in APAC and Southeast Asia, and it's
+growing the fastest. I think on average, Japan as a whole is growing in high double digit, something around 15%-20% is the growth
+that they're looking at for just the food industry, the delivery business industry. I think that is probably the same. I would say we
+should be on target or on par with that growth rate. The market is not mature, there is a huge penetration.
+Post-COVID at the pandemic, we've deﬁnitely seen huge penetration, but I think even then the penetration for the online delivery
+market in Japan and Australia is somewhere around 30%-40%. I would say still a long way to go in terms of getting there, and we
+should be able to lock in lots more volume coming from there.
+Client 01:01:00
+When you say 30%-40% penetrated, in what sense are you thinking about that penetration?
+Expert 01:01:06
+I would say the way we look at that number is user penetration, so how many users who have probably a mobile phone or a mobile
+device are actually ordering food or food delivery via the apps. How many orders per week? There is a certain metric that we look at,
+which is a certain frequency of orders, and that's probably the range we usually look at.
+Page 15 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 01:01:28
+Got it. That 30%-40% in Japan and Australia, is that low or is that high? Avtually, that sounds higher than I would have thought. I
+would have thought that the U.S., for example, might not even be at that level. 30% penetration, is that low or is that high on a
+relative basis?
+Expert 01:01:46
+It's actually low. If we had to compare, I would say U.S. is somewhere around 65%-70% in general. That's basically a person who has
+ordered a meal once in the last four weeks online, something like that. I don't remember the exact deﬁnition top of my head, I can
+check that and get back to you. I know that the U.S. penetration was almost double of that of Japan.
+Client 01:02:09
+Okay. The 60%-70% number that you threw out for U.S. penetration is making me scratch my head a little bit. Is that only in
+markets where Uber is operating or has concentration? It would just seem to suggest that a lot of what we were talking about
+before is the strength in the growth outlook put more broadly in the U.S. even in mature markets like Tier one cities and some of
+these other areas. As you think about 60% or 70% penetration in the U.S., obviously it speaks to penetration opportunity in
+international markets. Am I right to feel concerned regarding the growth outlook in the U.S. just given the high level of
+penetration that you cited?
+Expert 01:02:52
+No, I would say penetration is a one-time number. When you enter a new market, it's like people who have probably ordered once in
+the last 60 days or 70 days, something like that, over a certain number of days. While it may seem high, to understand that these
+food delivery companies speciﬁcally would work on frequency and how often you order, that's what determines the volume. One
+time is probably not enough.
+It's good to indicate, probably for a new market like Japan, maybe now you're at 30% in post-COVID world, but that means that we
+just have a lot more users who we've not even tapped into once. For the U.S., I wouldn't take that as a point of concern, it's just
+more mature market in terms of technology, in terms of people using their smartphones in their day-to-day lives.
+It's also about frequency. While it may seem that it's 60%-70%, the penetration, that doesn't mean we still can't get growth out of
+that, because there are so many people who probably they don't order often and we need to convert them into repeat orders. I
+think that's a very big diﬀerence.
+Client 01:04:01
+Yeah. Just a clariﬁcation. What's the denominator for these penetration ﬁgures? Is it the total population? Is it people with the
+app? Is it people that have used Uber before in their life?
+Expert 01:04:13
+Any of these numbers that I'm saying are not Uber-speciﬁc, I'm just talking about people who have a mobile phone and data
+services. It's like people who use the Internet kind of the denominator. This is not speciﬁc to Uber data or any competitor data. I
+think this is a part of our market competitive research that we do, where is the market at?
+Client 01:04:35
+Okay. That's saying 65% of Americans that use a smartphone have ordered food delivery at some point in the last year or
+whatever the timeframe is.
+Expert 01:04:44
+Yes.
+Client 01:04:45
+Thanks for clarifying that. I took you oﬀ track a little bit, but I think we were talking about just the level of maturity of some of
+these international markets, starting with the largest ones in Japan, Australia, and Southeast Asia. I think you were describing
+the penetration opportunity in Japan and frequency opportunity as well it sounds like. Can you also maybe speak to the level of
+maturity of, I guess Australia would be next and then maybe Taiwan and some of the other core Southeast Asian markets,
+Vietnam and Thailand?
+Expert 01:05:18
+Yeah. I think I can speak a little bit about Australia. I think Australia is also a well-penetrated market. It would be somewhere
+between Japan and U.S. or somewhere trending just based on market data. This is all from early 2024, so things might have
+Page 16 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.changed a little bit. Just from then, I think Australia was looking at somewhere around late 30s percent, so between 35%-40% was
+where we were looking at.
+It was slightly more mature than Japan, but still a long way to go in terms of penetration. They are expecting a run rate of about
+10% growth over the next few years, so that market is going to grow though not as high, I think 9%-10% growth is what is expected,
+so deﬁnitely a strong market for us to be in over the next few years.
+Client 01:06:07
+You mentioned that Australia has maybe a slightly higher penetration than Japan does, maybe a little bit more mature, and yet if
+I just compare the growth outlook that you shared for Japan and the U.S. and I compare that to Australia, it sounds like Australia
+is lower, even though it's maybe less mature than even the U.S. is. Is there something else going on in the Australian market that
+explains why that's a lower growth outlook market? It could just be consumer behavior or what have you. How should we think
+about the fact that Australia is a slower growth market?
+Expert 01:06:43
+These are publicly-traded reports that we receive and that's what we frame our strategies on. I don't know how they came up with
+those exact growth numbers though. Very honestly if you ask me how would the Australian markets going to grow, not really sure.
+We can talk about what Uber thinks in Australia, that's possible, but I don't know how they determine what the growth rate for
+Australia speciﬁcally is for food delivery.
+Client 01:07:09
+Fair enough. Maybe then we can move on from Southeast Asia, Japan, and Australia. I think you mentioned after that region, you
+said Latin America was the next region. Maybe you can do a similar exercise, so if we tick through the major geographies in Latin
+America, I think you already mentioned that in Brazil Uber Eats might be the number two or number three player. If you can give
+me just a rough sense of the competitive position in that market, how that market has evolved, how Uber's performed relative to
+the competition and how you think about the growth outlook, that would be very helpful to understand.
+Expert 01:07:48
+Yes. I actually made an error, I'm sorry. Late 2023 actually Uber Eats exited out of Brazil. I said we were second or third, but late
+2023, I stand corrected that we actually exited the Brazil market, which is something I forgot to mention. I would just like to correct
+that, which is probably because we were on the decline. We've actually exited that.
+I think one of our biggest growth markets is actually just Mexico within Latin America. We did exit Argentina. We never entered
+some of those markets within Latin America, so some of our bigger ones is just, I would say, Mexico, which is our biggest market
+within Latin America. In Brazil, just to give you comparison, it's actually our competitor whom we exited and we got out of the
+business. Our competitor, which is iFood in Brazil, actually holds 90% of the market share. The entire market is controlled by almost
+one player.
+Client 01:08:43
+That's a local player.
+Expert 01:08:45
+Yeah. Brazilian.
+Client 01:08:46
+Got it. What does the competitive landscape look like in Mexico?
+Expert 01:08:50
+I would say in Mexico we are very close. We are in CP1, so we're actually the top performer, but it's a very close competitor to a local
+competitor. While we are ﬁrst and we're doing really well, I think this strong growth and strong supply, but there is a very close
+competitor that I'm just trying to remember the name of.
+Mexico we're pretty close, and I think DoorDash has also started working in Mexico, so DoorDash is another competitor which is
+growing pretty fast in Mexico, but Uber Eats continues to be number one, and then there is, I just remembered, it is Rappi. Rappi is
+a close second.
+Page 17 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 01:09:27
+Got it. Rappi a close second, you have DoorDash coming in and trying to enter that market as well. Can you give me a rough
+sense of the breakdown? Is DoorDash a distant competitor?
+Expert 01:09:39
+I think DoorDash is a distant competitor. They've just recently started in Mexico, so they're very new. They are deﬁnitely not as
+established as Uber Eats is in Mexico. They would be third or fourth on the list.
+Client 01:09:52
+Okay. Thinking back about the level of market maturity and how you think about the growth outlook in Mexico, what are your
+thoughts on that?
+Expert 01:10:01
+I think Mexico because we have a certain advantage, we are deﬁnitely going all guns blazing. Obviously, we are competing with
+local competitors, which is always tough, but I think we want to continue to maintain that position. Let me just try to read the
+market penetration for Mexico, maybe I can share that with you.
+I think the penetration, speciﬁcally for food, similar to what we spoke about for Japan and Australia, it's looking at about 25%. It's
+growing very fast, but it's deﬁnitely still slow. It's expected to grow in double digits over the next few years. The run rate is expected
+to be very high in the next ﬁve years. Deﬁnitely a strong position we want to maintain this growth rate while we are there and we
+can expand this market.
+Client 01:10:48
+Okay. I know you mentioned Brazil, Uber Eats exited last year. I think you also mentioned that Eats had exited Argentina and
+maybe that there were some other markets that Uber had never entered. With that all in mind, are there other key countries in
+Latin America that you'd call out in terms of their importance to the delivery business and the growth outlook?
+Expert 01:11:10
+Yeah. I think there are certain markets that are in consideration right now that we want to look into expanding, but I don't think I
+can share that right now. We just need to wait a little bit. There are deﬁnitely certain markets that we're looking to re-establish in
+and try to ﬁnd our footprint again.
+Client 01:11:30
+Got it. Maybe then we can move on to Europe and the U.K. In the U.K., Just Eat I think is the number one player, and then Uber
+and Deliveroo are close competitors.
+Expert 01:11:40
+I think Deliveroo was still doing better than Uber Eats as well. I think Uber is like third in the list.
+Client 01:11:46
+Got it. Is that an area where Uber is focused and they think there's an opportunity to improve their competitive position? How do
+you think about the outlook for the business in the U.K.?
+Expert 01:11:58
+I think U.K. and France, France speciﬁcally, we are deﬁnitely investing a lot of energy. In the next one year or so, we are deﬁnitely
+looking to come at least at a second, at least beat Deliveroo in France and U.K. both, because our competition is very close with
+Deliveroo in both of these markets. We have certain deals that we're trying to now do globally, so we're trying to use the global
+platform power and try to do some deals. McDonald's is actually one deal that we did U.K. and Australia and U.S. together, and then
+Japan.
+While we did the ﬁrst deal with McDonald's happened in U.K., we leveraged all the diﬀerent markets to get the deal consistently
+across the board. That is something we're trying to play even with U.K. and France, some of these chains, if we can get that big
+bump in volume in U.K. and France by getting some of the deals that we have in U.S., get the same chain onboarded there as well.
+Page 18 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Client 01:12:55
+Yeah. Adding that, it's a big supply, obviously, but then there's obviously a beneﬁt as well, and that you then maybe attract some
+more users to the platform. Is that a wedge to attract the users in those markets?
+Expert 01:13:08
+Yes. All of our competitors if you see in every market, they're regional competitors. Maybe at most they're present in two or three
+countries, but within the same region, they don't operate across the world like Uber does. One of the terms that we use very often
+is power of the platform. How do we use our global reach that we have and actually create that diﬀerentiating factor, where while
+we may be second or third in the market, but we have that diﬀerentiating factor to put forth.
+Client 01:13:39
+Okay. The U.K. and France, for example, is there a similar dynamic to the growth opportunity in those markets comparable to the
+U.S.? The U.K., for example, is a lot of that business today concentrated in the London metro area and there is growth opportunity
+to look outside of London and to some of the smaller cities in the U.K. or to the less dense suburbs around those cities, or is it
+diﬀerent and there is less maturity in the London market and therefore maybe there's more of a focus on winning that and other
+key metros?
+How do you think about the sub-markets in the U.K., and similarly for France, whether it's Paris or elsewhere that might be
+signiﬁcant population centers? Is there a similar distinction in those markets in terms of the growth strategy focusing on
+expanding beyond metro areas versus executing in those more dense geographies?
+Expert 01:14:33
+No. Your ﬁrst hypothesis was actually very true, where it's very similar to the U.S., where most of the volume has been concentrated
+to the metro cities, whether it's Paris, whether it's London, and then it decreases as the size of the city decreases. It is the same
+fashion. The reason I know this is because we work very closely with the European team, and the same Tier one, Tier ﬁve strategy
+that we put together for the U.S. was actually something they were interested in implementing even in their market, so we actually
+did a similar exercise for U.K. and France as well.
+I know that they're targeting it the same way and trying to think about it obviously with more nuances for their markets, which I am
+not very close to, but a similar story, where Uber has fundamentally, historically always been concentrated in the bigger towns and
+bigger metros ﬁrst.
+Client 01:15:27
+Got it. Maybe just to ﬁnish, I think you mentioned that Deliveroo is performing better than Uber Eats in the U.K., but it sounds
+like in both the U.K. and France, the focus is on catching up. As you think about the competitive dynamics there, is the general
+sense that that's a market where Uber can continue to compete eﬀectively and secure better competitive position, or is there less
+optimism regarding the prospects of Uber to continue to maintain strong positions in those markets?
+Expert 01:15:58
+I would say for U.K., we deﬁnitely have some strong optimism on growing and getting ahead of the curve and deﬁnitely closing in
+on a close second maybe in the next year. For France, it deﬁnitely looks like there are going to be some tough deals that we're going
+to need to crack. There are also certain regulatory requirements in terms of deliveries have to be only on sustainable vehicles. There
+are a lot of rules about who can deliver in France. Those things restrict our supply a little bit. We're more cautious in France where
+we're probably going to need a few big deals to cut it through next year.
+Client 01:16:36
+Got it. Focusing on the delivery business where we've spent this entire conversation, as you think about the business globally, if I
+could summarize everything we've talked about, it sounds like there's a lot of opportunity, whether you're talking about the most
+mature markets in the U.S. or whether you're talking about some less mature markets in Asia or Latin America, where there's
+more opportunity just to grow from a smaller base. Is that an accurate way of painting it? Do you think that there's a lot of
+opportunity for Uber to sustain strong growth in the delivery business?
+Expert 01:17:13
+Yes. I would say that's a very fair assessment and very true. I agree.
+Client 01:17:17
+That's not only from a market perspective, but also as you think about the competitive positioning and the dynamics in each of
+those markets?
+Page 19 of 19
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 01:17:26
+Yes.
+Client 01:17:27
+Okay. We really appreciate this.

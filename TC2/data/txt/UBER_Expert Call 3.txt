@@ -1,0 +1,392 @@
+Page 1 of 8
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.
+TOPIC DEEP-DIVE
+Former Engineer Believes Uber Has the Best AI in the Industry
+DATE PUBLISHED
+21 Apr 2025INTERVIEW DATE
+17 Apr 2025EXPERT PERSPECTIVE
+FormerANALYST PERSPECTIVE
+Investor-Led (Buy-Side)PRIMARY COMPANIES
+UBER
+OTHER COMPANIES
+DASH LYFT
+SMART SUMMARY
+Transcript Highlights
+In the expert's opinion, Uber failed in its restaurant provider strategy compared to DoorDash by taking too large a commission
+from restaurants instead of focusing on restaurant happiness to expand supply and reliability like DoorDash did. This led to Uber
+Eats having fewer restaurants in the US and a smaller market share compared to DoorDash, despite Uber's superior AI capabilities.
+The expert believes DoorDash's strategy of allowing restaurants to set their own prices while DoorDash marked up the prices for
+customers made it easy for restaurants to join with no downside. In contrast, Uber's high commissions made it less appealing for
+restaurants, limiting Uber's supply and reliability. This indicates the importance of provider strategy over AI capability alone.
+While Uber trails DoorDash in food delivery in the US, the expert thinks Uber's overall network eﬀects across products and regions
+still give it strong global potential, especially with new AI further improving user experience. Local players may have cultural
+advantages but could struggle competing with the resources of large global players over time.
+AlphaSense Assistant is AI Generated
+Table of Contents
+AI capabilities of Uber Eats versus competitors.
+Uber’s success outside of the U.S. versus DoorDash.
+Uber’s scale versus DoorDash’s scale.
+Recent AI technologies in food delivery.
+Impact of AI tools on AB testing.
+AI’s inﬂuence on Uber and Lyft’s competitiveness.
+AI’s potential for improving ride matching.
+Uber’s competitiveness versus international peers.
+Expert Bio
+Expert was a Director at Uber, responsible for leading the delivery applied AI organization, building personalization platforms, and
+managing features across all product surfaces in order to drive revenue on a global scale. Expert reported to a Unit Head, ~2 levels
+from the C-suite.
+Employment History
+Dropbox (Public)
+Director of Engineering, AI/ML, Search & Virtual Assistant • January 2023 - Present • 2 yrs, 3 mos
+MENUPOLY (Private)
+Advisory Board Member • January 2017 - Present • 8 yrs, 3 mos
+Uber (Public)
+Director of Engineering, Uber Eats AI/ML, Search and Personalization • January 2021 - January 2023 • 2 yrsRelevant Role
+Comcast (Public)
+Director of Engineering, AI/ML, Voice Assistant and Content Discovery • January 2018 - January 2021 • 3 yrs
+Page 2 of 8
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.
+Comcast (Public)
+Senior Manager, Voice Assistant and Content Discovery • January 2016 - January 2018 • 2 yrs
+Comcast (Public)
+Principal ML Engineer • January 2011 - January 2016 • 5 yrs
+Comcast (Public)
+ML Engineer • January 2010 - January 2010
+Interview Transcript
+Analyst 00:00:00
+If you could walk me through your background, that would be helpful.
+Expert 00:00:04
+Yeah. I have a background in computer science and AI. After my bachelor, actually even my bachelor thesis and then my master's
+and my PhD, all of my research work have been in AI. I worked always in the industry, starting from Comcast, working on search
+personalization recommendation, running AI teams as well as engineering teams for Comcast, for movie, TV show, search personal
+recommendation, as well as voice assistant, as well as customer service chatbot.
+Expert 00:00:44
+I went to Uber Eats, and I ran a lot at Uber Eats. I was running all of the search personal recommendation for food, restaurant,
+grocery. Again, similar to Comcast, half of the team was AI engineers and half of them were back-end and infra engineers. I'm now
+at Dropbox.
+Analyst 00:01:04
+Interesting. When you were at Uber Eats, your focus, was it primarily on the U.S. or was it global?
+Expert 00:01:20
+For us, it's responsible for just general recommendation personalization, just for all of the Uber Eats. It involve every country that
+Uber Eats operated.
+Analyst 00:01:31
+Interesting. Was the AI team separate for Uber Eats versus Uber?
+Expert 00:01:44
+Yes. They were separate teams.
+Analyst 00:01:47
+Why was that?
+Expert 00:01:49
+Part of the reason was the nature of the problem was signiﬁcantly diﬀerent. At Uber ride, the personalization was more about
+predicting your next destination and things like that, versus Uber Eats, it was about understanding food, groceries, people's tastes,
+and things like that. At Uber ride, you're predicting, do I prefer, for example, [Uber Share] versus UberX, Uber Black, but here, it was
+a much more complex problem in a sense of what users are interested and what they want, especially then you get to the grocery.
+Expert 00:02:33
+The grocery stuﬀ is even more complex because you are trying to build a basket, almost like you are trying accomplish a mission
+rather than ordering your food, which you're picking your food, that's it. Whole basket completion and all of that makes it much
+more interesting and diﬃcult problem. One other thing is that for Uber ride, often user comes to take an Uber and go somewhere.
+You're helping with the search of location and things like that, and that's really the gist of it.
+Expert 00:03:07
+At Uber Eats almost, not as much like a social media, when you come to the Uber Eats feed, you're scrolling through diﬀerent foods
+and diﬀerent cuisines that you want to explore and then get inspired. Sometimes you order, sometimes you don't order. It does a
+much more complex. Eventually, toward the end, there was a proposal to merge them, but still, the type of the project, the type of
+infra, a lot of things would have been, say, diﬀerent while being within the same team.
+Analyst 00:03:36
+Interesting. Maybe we'll start with the period excluding the most recent two years. When you were at Uber, can you compare and
+contrast Uber Eats's AI capabilities to that of its main competitors? Maybe starting with DoorDash and then, to the extent
+Page 3 of 8
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.possible, expanding to the international peers. Here, I'm thinking like Delivery Hero and Just Eat and Deliveroo and so on, so
+forth.
+Expert 00:04:28
+Yup. Are you interested in seeing the diﬀerence in the AI that I'm using or actually more strategically what makes DoorDash more
+or less successful than Uber Eats and some of those things?
+Analyst 00:04:45
+The latter. The strategy and to the extent that there was a meaningful diﬀerence in AI capabilities between the ﬁrms.
+Expert 00:05:00
+I'll ﬁrst say something, which doesn't have much to the AI, about the strategy of Uber ride and Uber Eats and their customers, and
+then if it's interesting, we'll go in details, but then we can go to a more talk about the AI. It's very interesting that if you look at Uber
+in general, their competitor was Lyft on the Uber ride business, and they were able to basically just take over completely the
+market, and Lyft just was not able to compete at all.
+Expert 00:05:32
+There was a certain strategy that Uber adopted to beating Lyft in the Uber ride business. They did exactly the opposite of it for Uber
+ride. DoorDash did what Uber did to Lyft on the Uber Eats side in terms of strategy. DoorDash, for the same reason, was more
+successful than Uber Eats.
+Expert 00:05:52
+That strategy was, if you look at both ride and [Eat], for example, ride is a two-sided marketplace. You have drivers and you have
+riders. [Eat], similarly, but in a more complex three-sided marketplace, which you have restaurants as the providers, then you have
+people, eaters, who are ordering food, then you actually have delivery people. They're a three-sided marketplace.
+Expert 00:06:24
+Even to make it more complex, if you take into account grocery, it becomes a four-sided marketplace because the grocery store
+provides it, someone delivers it, I'm the ordering it, the three people, but then there's a fourth category, we call them pickers and
+packers. These are the people that they are in the grocery store just getting your order, packing it, and giving it to a driver to deliver
+it to you.
+Expert 00:06:51
+Anyway, whether it's a two-sided or three- or four-sided, the way that Uber beat Lyft was that, as a customer, when you want to get
+Uber ride. One of the things that makes people using Uber or Lyft is that Uber is always available. It's everywhere. Lyft is not. It's
+limited. You want for something that gets you from point A to point B, you want it to be reliable. What makes reliable is when
+there's a lot of drivers, every day, everywhere, at any time, midnight, late night, early morning.
+Expert 00:07:33
+Uber instead started incentivizing drivers giving them a lot of beneﬁts, spending promotion on the drivers. Getting a lot of drivers
+into the system, and in result, you get a lot more drivers, which also not only increase the reliability but also brought down the price
+of the drivers because now you have more of them.
+Expert 00:08:01
+That resulted in Uber versus Lyft started just giving promotion to people, riders. "Hey, come and take Lyft. We'll give you 50%
+discount." Lyft used to be super cheap. What happens are most people are just deal holders. They come as long as there's a deal,
+use it. As soon as they take a deal back, they just all disappear. They're not going to stay around when the price is high. In that
+tactic, Uber ride win and took over Lyft.
+Expert 00:08:30
+If you now go back to food side, if you see a lot of people say, "Oh, DoorDash is better because every restaurant is on DoorDash.
+Half of restaurants are not on Uber Eats." The reason is DoorDash focused on adopting more restaurants, convincing them and
+giving them tools, or making it no-brainer for them to come on DoorDash. I'll tell you what's the diﬀerence.
+Expert 00:08:58
+Uber tells customers, they address restaurants, to come on Uber Eats, and Uber will take a big chunk of their sales, 30%, something,
+that's a big number. For a lot of restaurant, they say, "Well, if I come to Uber Eats, I'm selling the food and you eat 30% of it, I'm not
+making any proﬁt." They will jack up the price a little bit, but they can jack up the price 30%. They jack up the price a little bit so they
+make some proﬁt and user also see higher prices.
+Expert 00:09:38
+The point is that still a lot of restaurants can't just agree to this. They said, "Well, that doesn't worth it. I'm just going to lose money if
+I join, so I'm not going to join Uber Eats." What happened, the providers, which are restaurants, are limited on Uber Eats, similar the
+way that drivers were limited on Lyft.
+Page 4 of 8
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:09:58
+On the other hand, DoorDash said and told all these restaurants that "I'm going to make it a no-brainer for you to come on
+DoorDash. The way I'm going to do is that you come to DoorDash, put your price of your food, you will get exactly what you put, all
+of it." What DoorDash will do will jack up the price on DoorDash above what the restaurant puts and just make their proﬁt from that
+increase on their side in the app.
+Expert 00:10:32
+In both scenarios, price has gone higher for res customers, for the eaters who are placing order, but then in one scenario, for a
+restaurant, going to DoorDash is no-brainer. If I get 1,000 orders, I'm getting the full price that I put there. Maybe because my price
+is higher, only one person orders. It's still not a problem. I just got one order more. There's no downside for a restaurant to go
+onboard on DoorDash. There is zero downside to them even if they get nothing.
+Expert 00:11:08
+That's one tactic that Uber failed. Instead of focusing on making restaurants happy, bringing more and more of them to make all
+the restaurants on Uber Eats and making it more reliable, they failed in that regard. They basically did the mistake of Lyft. Instead,
+they started giving a lot of promotions and discounts to people and credits to the eaters, similar to Lyft, and they start not being
+able to growing. Once DoorDash took the market, at least in the U.S., because actually outside of U.S., Uber is very strong, and
+DoorDash is not able to actually win over in a lot of places. Uber was not able to ever catch up in the U.S. because of these reasons.
+Analyst 00:12:03
+Can you expand a little bit on the last point about Uber doing quite well outside of the U.S. and DoorDash not doing so well? Was
+it solely the reverse of the strategy or were there other components?
+Expert 00:12:21
+I think it's a combination. One is that in certain places, DoorDash didn't have the ﬁrst mover advantage, for example, because in the
+U.S., DoorDash was the ﬁrst one that came out because Uber initially did not really wanted to invest, but then there was other
+factors that, because of some of these learnings in the U.S., the way that in other places, the sales team in that country, they all
+started operating diﬀerently.
+Expert 00:12:48
+Some of these countries, because they have diﬀerent sales teams and account managers, and so some of them are able to operate
+slightly diﬀerently and build a relationship and go after and trying to make the restaurants happy to bring them to the ecosystem
+more and more, and then making the Uber more reliable. As Uber become more reliable, it becomes more diﬃcult for DoorDash to
+be able to compete there.
+Analyst 00:13:18
+Interesting. Going back to the comparison of ﬁrst, Uber versus Lyft and Uber versus DoorDash, there was a superior strategy,
+and then a ﬂaw in strategy that led to the diﬀering results. The second part is to what extent scale was material? Scale in the
+sense that, you touched on some of the points of just the bigger market share, but also maybe the more speciﬁc question was
+scale in the sense that Uber is able to spend much more on IT. From what I understand, the AI group at Uber is 4X larger than it is
+for Lyft.
+Expert 00:14:34
+Yeah, absolutely. One other thing I would mention before going to the AI, which we did not discuss at all, Uber in general has a
+network advantage. By oﬀering multiple products, you create this network eﬀect both for the eaters and riders that they can use
+multiple products. Also, for drivers, they can oﬀer, for example, during the pandemic, all their Uber rides start delivering food. They
+were all on the riders' side and [inaudible]. We can talk about the network eﬀect and how much that plays later.
+Expert 00:15:04
+On the AI side, deﬁnitely Uber being the larger company and the money that they have, being able to have a much higher scale,
+deﬁnitely I would say that I can't speak a lot about DoorDash internal AI and other things, but I can say Uber is actually one of the
+best AI companies at the time, AI in the traditional term, not the GenAI these days. In fact, for example, Uber's ML platform,
+Michelangelo, is known in the conferences and industry. People refer to it as a standard, great ML platform that is amazing. It's so
+easy to build an AI model and train and retrain and skip and run AB test.
+Expert 00:15:55
+All of those things and the scale that Uber had deﬁnitely gave it a huge advantage. You could say that's part of the reason that Uber
+could go in general signiﬁcantly global and maintain. DoorDash mostly focus in U.S. It only does food, but Uber does so much more.
+That's what helps Uber, while not being able to completely win over DoorDash, be able to continue growing into a lot more spaces
+and create that network eﬀect.
+Expert 00:16:37
+Uber now does train booking and even airplanes and hotel booking in Europe in some places. They are able to use all of these AI
+and infra and everything they have. For example, on the Uber ride part, ride is a very, very high transaction and low margin. That's
+Page 5 of 8
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.why Uber had a hard time for very long time to become proﬁtable, for example.
+Expert 00:17:06
+A lot of Uber proﬁt comes from those to the 10 decimal points optimization of the routing and things like that, how you make the
+driver go pick someone, drop someone, and pick up someone exactly nearby. Those things literally impacted how Uber was able to
+become proﬁtable. Deﬁnitely, all those AIs signiﬁcant played a huge role for Uber to be able to go to this massive scale and also be
+able to go in so many diﬀerent domains. In some domains, like ride, it's just almost impossible to be proﬁtable. They manage
+because of their AI, and their marketplace algorithm is the only thing that made them proﬁtable.
+Analyst 00:18:02
+Thinking about the AI technologies that have come about over the last two years, how impactful have they been?
+Expert 00:18:17
+I would talk about two diﬀerent categories here. One is autonomous vehicles that they are getting more and more popular. Right
+now, for example, if you're in SF, you're in Northern California, every time I go there, I get Waymo. It's cool. [inaudible] It does, it
+work. Deﬁnitely, there's the impact of the category of autonomous vehicles, and then there is a category of GenAI that how it can
+help a lot of, let's say, search personalization recommendation, customer service chatbot. All of these things could get signiﬁcantly
+more eﬃcient.
+Expert 00:18:54
+A company, the massive scale of Uber, for example, a lot of time, that Uber, we just always knew that some of these complaints that
+are coming through are fake, that are scam, but it just didn't work to put a lot of people and engineers to just detect this thing. Up
+to X%, just for free, give it to people, give their money back, and that's ﬁne because that costs us more trying to optimize it there,
+for example.
+Expert 00:19:30
+Now, if you can use more advanced AI, you can help with the customer service and those scams and complaints. You can have much
+better customer service satisfaction because now you can use AI, which 100X, 1,000X better than the previous generation, that you
+would select a menu and take you to next menu. You go through 10 diﬀerent tree and reach to a point that "Oh no, this category is
+wrong. I'm not able to explain. That doesn't cover what I'm going to do, and I hit a wall. I have to navigate back to the tree in the
+health center to come back to what might be related to my issue." Now, you can naturally talk.
+Expert 00:20:11
+Bring the customer service down, customer satisfaction, stickiness will go up. The quality of ordering and ﬁnding food, a lot of time,
+even for ordering food, becomes almost like picking a movie, for example. You go and look through all the restaurants, and then
+you end up after 45 minute not ordering anything, as people nowadays can't even pick a movie. They spend 45 minute picking a
+movie and not watching a movie, and then drop it.
+Expert 00:20:37
+Now, these algorithms can really help understanding the restaurants, understanding the foods. You no longer have to rely on
+signiﬁcantly on what the restaurant provides to you as a menu. That becomes even a much bigger problem when you talk about the
+grocery store. There are 50,000, 60,000, 100,000 items, sometimes up to 1 million item in the catalog of grocery, so when you're
+ordering.
+Expert 00:21:05
+Those all signiﬁcantly going to improve the user experience both from search and discovery, and both also in terms of customer
+service satisfaction and those areas. Those will have a huge, huge impact in that area. I mentioned also autonomous. Do you want
+to talk about autonomous, you want to continue on the...
+Analyst 00:21:28
+Let's put that aside for right now. In talking to, I believe it was an employee from DoorDash, he had highlighted that the newer AI
+tools were allowing much quicker deployment of AB tests. That was one example that he highlighted. He felt like the impact from
+these tools over the last couple of years has been dramatic. It either will be dramatic shortly or it already has been. To what
+extent would you agree or disagree with that sentiment?
+Expert 00:22:23
+No, I completely agree to it in two diﬀerent ways. One is nowadays, especially more recently, all these AI with code generation, they
+in general make the coding so much faster. It just makes any type of coding, whether you're in the AI coding, algorithm coding,
+everything is faster. You can spend 20 minute building something that used to take a week or two or more, for example. In that
+regard, you become a lot faster.
+Page 6 of 8
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:22:53
+Speciﬁcally about AI, in old days, let's say if you wanted to be the ﬁrst system. Say, I don't know, when I search for fruit, for example,
+I can get all the fruits in the grocery store, as simple as that. You would have had a team of 10, 20, 50 AI engineers working for a
+year or two, and are still not being able to ﬁx everything about it. There would have been always cold hard cases that you would
+search for fruit, and avocado will come. You might search for fruit, and Fruit Roll-Ups will come back, or some fruit paste.
+Expert 00:23:40
+I'll give you an example. When I was at Uber Eats, we had this funny example. You will search for mini Coca-Cola, and our search will
+return mini cucumber. The reason was that we had Coca-Cola or Coke in the index, but we didn't have mini Coke. Now, imagine
+there is not a single item that's called mini Coke. I have a document that says Coke that matches one word out of two words, out of
+mini versus Coke, versus another document which has mini cucumber, which also matches one word out of two words. In the
+scoring function, they both get equal weight and score, then you will return mini cucumber when you search for mini Coke.
+Expert 00:24:31
+Any normal human would say, "Idiot. Coke is the more important word here," but how you understand that the Coke is more
+important versus mini in this speciﬁc context, there are going to be other context that mini is more important than other words.
+Now with GenAI, if you ask "Hey, mini Coke, mini cucumber" and then user ask Coke, give all three of them to a GenAI and ChatGPT,
+it will always guarantee give you the right response.
+Expert 00:25:01
+Another funny example. Milk chocolate versus chocolate milk. One of them is a dairy, one of them is a chocolate. When you search
+milk chocolate, since it returns to milk chocolate, but it returns you a bunch of other fat-free milk and other milk. I'm looking for
+chocolate, not milk. Do not show me all variety of milk. These are all examples that, honestly, it used to be people thesis with
+dissertation. It used to take ﬁve, six, 10 people.
+Expert 00:25:37
+I worked on the voice assistants, similar to Alexa and things like that, for so many years or like customer service chat. Just being
+able to recognize the user intent when they say something, it's extremely diﬃcult. You build this statistic model, and they always
+work 90% of the time. They don't work for the last 10%. You retrain, they work for 92% now, and still 8% is wrong. The funny thing is
+that this extra 2% you got might be something that you did not work previously, but you might broke a bunch of other things. It's
+not even consistent.
+Expert 00:26:17
+You might start ﬁxing something, but you might break something else, because these are statistical models, and statistically, you
+have a 90% accuracy. Doesn't mean that when you go from 90% to 91%, you get all the last 90% plus one more. It could be 80% of
+the last one, plus 10% new ones. That signiﬁcantly improves, and they can now understand audio, image. It's just signiﬁcantly easier
+to build product in AI now.
+Expert 00:26:47
+Frankly, for a lot of category of work nowadays, you don't have to know AI to build the AI product at all. All you are doing, doing
+prompt engineering. Now for prompt engineering, you don't need to understand AI because you are not building any model
+yourself. You are not tuning a model or tweaking a model. You are just using diﬀerent models and like a human explaining to them.
+Now, anybody can build an AI product.
+Analyst 00:27:18
+Along those lines, then the introduction of this technology and the impact that it has in terms of the competitive impact, does
+this [inaudible] the diﬀerence between, let's just say, Lyft and Uber, or does it lessen the diﬀerence between Lyft and Uber?
+Expert 00:27:51
+I would say that Uber versus Lyft is slightly diﬀerent. There are AI, for example, for searching in the ride, for example, searching the
+locations and things like that, but the biggest AI impact part in the Uber versus Lyft is the matching algorithm. How you pick a
+driver from which distance and mapping to which users, that after that, match them to another user, and things like that, and those
+kind of computations are not yet being solved by these generations of AI yet.
+Expert 00:28:28
+If you go to, let's say, Uber Eats for a second, the whole understanding the catalog of the restaurant, making them searchable,
+making recommendations to people for food, recommending variation, helping them doing basket, those that would be huge,
+huge impact in the end user experience. Nowadays, both just generating an app from scratch and understanding the catalog,
+merging the multiple copies of the catalog, doing recommendation, you can literally do that within a day or two.
+Expert 00:29:11
+Right now, building applications within 20 minute, applications I've never done. I've never done front-end coding. I was one back-
+end and AI mostly. Now, I sit at home and ask my wife, "Hey, what do you want? What bothers you in daily basis?" She's, "Well, every
+time I'm going to Google notes, I wish there was a Google Chrome extension that does these things for me." I said, "Well, I've never
+done extension, never done front-end coding, but let me ask this AI to generate a code for me." I just tell it, "Hey, every time I go to
+Page 7 of 8
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Google Chrome, create an extension that does that." Literally within 25 minute. I had the extension built, setup on her laptop, doing
+what she want.
+Expert 00:29:52
+If you are entering a market, building an app, building the initial search personalization recommendation algorithm, building
+something that can go straight menus of restaurants from Google and other things and just builds your database, these things all
+can be done within days or weeks. You could start, but then it becomes all the strategy.
+Expert 00:30:24
+For example, at Uber, you have to simply make a contract with the restaurants, get them. There's a lot of human involved, a lot of
+physical work involved, someone to come and get and drive it and deliver it. Those delivery person needs insurance, those things.
+Those things don't change with this AI stuﬀ yet, but signiﬁcantly other things will change. If you're a smaller company, with AI, you
+can deﬁnitely do things a lot faster and be able to close the gap in a lot of aspects, in my opinion.
+Analyst 00:31:07
+You had touched on a point that within mobility, the current AI models aren't necessarily improving matching between drivers
+and passengers. To what extent do you expect AI to address this, and to what extent is there a lot of room for improvement
+versus the current models?
+Expert 00:31:41
+Yeah. One thing to keep in mind in general is that most of the models that the generative AI that we see, as the name of it says, it's
+a generative model. It means that it can generate an output from an input. The output usually is in the form of generating a text,
+generating an audio, generating a video. For example, a lot of them, if you just ask them, "Spell strawberry. How many R are in it?" It
+will always make a mistake. It's a famous thing. Ask ChatGPT how many R are in the strawberry, it always would make a mistake.
+Expert 00:32:31
+They are not logical thinkers. We call them LLM, which is a large language model. What language model is is that what is the
+probability of the next character being character A, B, C, D, E, F, or whatever, based on all the characters previously that was given as
+a prompt and what I've generated so far.
+Expert 00:32:55
+It is really a statistical model predicting the next character, the next word. That's it. It learned the patterns of how words are coming
+after each other, and as it learns those pattern, because the way we use the words, the pattern, there's a meaning behind them.
+There's a semantic behind it. Often, it's able to come up with something meaningful.
+Expert 00:33:23
+That's why they still hallucinate. That's why it still can work. That's why they really make a stupid, simple mistakes as if you ask them
+to write the word strawberry, they will 1 million time write it and always write it right, but if you ask them how many R are in it, they
+will make a mistake.
+Expert 00:33:39
+Now interesting is that, for example, ChatGPT and those do when you're asking a math question, what they do, they take your math
+question, write a piece of code to calculate that math, run that code, and get that results, and then show it to you because language
+model can write a programming language to do something you want. They write in that programming language that calculates
+what you're asking and describing, and then they return that. That's the level they are right now.
+Expert 00:34:21
+To that level of ride, I think on the autonomous vehicle, learning how to drive all those things would be signiﬁcantly impacted by
+GenAI because they can totally parse the image much better than us and things like that, but in terms of, we call them matching
+algorithms, you match orders with the delivery and things like that, that's a whole diﬀerent category of optimization that they are
+not yet good at it. Frankly, there is so much upside in the world solving all other type of problems that you are not seeing any
+advancement in large AI models in that space.
+Expert 00:35:06
+The reason for that is when you are building a language model or image generator, it's universal. It's universal. You can apply it to
+so many things, but if I'm trying to build a gigantic model that solve the matching algorithm, only two companies in the world need
+them. I can't sell that much. I don't have data to train it. It just doesn't have value for all these companies out there to build the
+model for those.
+Expert 00:35:36
+Getting to a level that you can still build a super, super mega AI that can even solve such a math and optimization problem, in
+addition to language, we are far away from it. I think it would be time that some of these big companies like Uber and others, and
+that all comes with the ROI. If I'm going to put $100 million to train and build one GenAI model to use for my matching algorithms,
+it might not worth it, for example. That's where I'm thinking.
+Page 8 of 8
+©2025, AlphaSense, Inc. All Rights Reserved. AlphaSense is a service mark of AlphaSense, Inc. All other trademarks mentioned belong to their respective owners.Expert 00:36:13
+In that one particular category of the matching, no, but for a lot of other things, if I'm going now, Uber gives you travel
+recommendations. Those all you can just use all the GenAI stuﬀ and just take a huge win over those things. There's just one small
+category that, I think, still would not be hugely impacted at the moment. In the riding business and app, there are at least nine, 10
+other things that can all of them be signiﬁcantly impacted by AI.
+Analyst 00:36:47
+The last topic I wanted to touch on was then when you think generally, so both in terms of technology but maybe even in terms
+of the general competitiveness of Uber versus these other international players like Delivery Hero or Deliveroo, how do you
+regard them?
+Expert 00:37:18
+I would say in general, the international ones or the local ones, they're going to always have some advantage and some
+disadvantage. Their advantage is that the culture is diﬀerent, diﬀerent countries. What works for people in one country might not
+work in others. For example, [Uber Share]. It was such a huge, big deal for people in the U.S. that you share with someone else.
+Expert 00:37:47
+I think those will have advantage in that regard, but their disadvantage always would be that at what point that advantage will
+disappear due to scale. For example, they might not be able to grow beyond their local market. Sometimes when a much bigger
+player comes to your market because they are much bigger than you, not that they can just manipulate the market, they can come,
+because they have so much money to spare, they can just give a lot of oﬀers and free and discounts until to a point that you run out
+of cash and you no longer can compete. Once you run out of business, they will go back to their normal business. That's how, I
+think, in general that this thing might have an impact in that regard in terms of pricing and things like that.
+Expert 00:38:53
+I would just say one last thing about that is that, in the past, building AI, you needed large organizations, and you need a large AI
+expertise to build, so bigger companies would have advantage. For example, Google, nobody could beat Google, but now, company
+comes like Perplexity with 100 people beats, and people stop using Google, everybody uses Perplexity, for example. AI is being
+commoditized. Anybody can go and use one of these large language models. Any AI out there, build a good product, they don't
+need to have a large organization, large ML platform, so it become commoditized. In that regard, it's an advantage to smaller
+players.
